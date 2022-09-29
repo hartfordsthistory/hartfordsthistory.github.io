@@ -3,7 +3,7 @@ title: The Hartford Street History page
 read_time: false
 ---
 
-This is a work in progress. :)
+This is a work in progress. :)  [About](/about/)
 
 This page is devoted to documenting the history of this tiny slice of Eureka Valley, partly because I enjoy researching and sharing.
 
