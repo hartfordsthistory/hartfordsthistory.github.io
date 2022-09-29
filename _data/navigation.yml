@@ -1,0 +1,111 @@
+# main links
+main:
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Hartford Buildings"
+    url: /buildings/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+  - title: "Hartford History"
+    url: /history/
+  - title: "Hartford People"
+    url: /people/
+
+buildings:
+  - title: "Hartford Buildings home"
+    url: /buildings/
+  - title: "Queen Anne Style"
+    url: /buildings/queen-anne-style
+  - title: "Fernando Nelson details"
+    url: /buildings/nelson-details
+  - title: "Meeteer House"
+    url: /buildings/matear-house
+  - title: "Olivet Congregational Church"
+    url: /buildings/olivet
+  - title: "Castro Theater"
+    url: /buildings/castro-theater
+  - title: "Hartford St North"
+    url: /buildings/blocks/north
+  - title: "Hartford St Central"
+    url: /buildings/blocks/central
+  - title: "Hartford St South"
+    url: /buildings/blocks/south
+
+blocks:
+  - title: "back to Hartford Buildings"
+    url: /buildings
+  - title: "Hartford St North"
+    children:
+      - title: "Hartford St North"
+        url: /buildings/blocks/north
+      - title: "Child Page A2"
+        url: /
+      - title: "Child Page A3"
+        url: /
+      - title: "Child Page A4"
+        url: /
+  - title: "Hartford St Central"
+    children:
+      - title: "Hartford St Central"
+        url: /buildings/blocks/central
+  - title: "Hartford St South"
+    children:
+      - title: "Hartford St South"
+        url: /buildings/blocks/south
+
+north:
+  - title: "back to Hartford blocks"
+    url: /buildings/blocks
+  - title: Hartford North house by house
+    url: /hartford-st/blocks/north
+  - title:
+    url:
+  - title:
+    url:
+  - title:
+    url:
+  - title:
+    url:
+  - title:
+    url:
+  - title:
+    url:
+  - title:
+    url:
+  - title:
+    url:
+  - title:
+    url:
+  - title:
+    url:
+  - title:
+    url:
+
+
+history:
+  - title: "Hartford St History"
+    url: /history/
+  - title: "Original inhabitants: Ohlone"
+    url: /history/ohlone
+  - title: "Mission Dolores"
+    url: /history/mission-dolores
+  - title: "Eureka Valley"
+    url: /history/eureka-valley
+  - title: "Mission Block 114"
+    url: /history/mission-block-114
+  - title: "Water Wars"
+    url: /history/water-wars
+  - title: "Fernando Nelson & Sons"
+    url: /history/f-nelson-sons
+  - title: "Streetcar Suburbs"
+    url: /history/streetcar
+  - title: "1906 in the Mission"
+    url: /history/1906
+  - title: "A nation of Immigrants"
+    url: /history/immigrants
+  - title: "The Castro Theater"
+    url: /history/castro-theater
+  - title: "LGBT in the Castro"
+    url: /history/lgbt
