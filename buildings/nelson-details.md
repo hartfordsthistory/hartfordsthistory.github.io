@@ -13,6 +13,14 @@ downstairs lodgings
 bow bay and stick
 "folk victorian" porch with feature window
 
+## fronts
+
+italianate
+stick
+witch's cap for self - noe and carmelita
+"carmelita" layouts
+richmond
+
 ## exterior details
 "folk victorian" porch with feature window
 donuts

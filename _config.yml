@@ -294,19 +294,19 @@ defaults:
       comments: false
       sidebar:
         nav: "buildings"
+  # - scope:
+  #     path: "buildings/blocks"
+  #     type: pages
+  #   values:
+  #     layout: single
+  #     read_time: true
+  #     author_profile: false
+  #     share: false
+  #     comments: false
+  #     sidebar:
+  #       nav: "blocks-sidebar"
   - scope:
-      path: "buildings/blocks"
-      type: pages
-    values:
-      layout: single
-      read_time: true
-      author_profile: false
-      share: false
-      comments: false
-      sidebar:
-        nav: "blocks-sidebar"
-  - scope:
-      path: "buildings/blocks/north"
+      path: "buildings/north"
       type: pages
     values:
       layout: single

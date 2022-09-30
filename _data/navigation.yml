@@ -2,12 +2,10 @@
 main:
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "About"
+    url: /about/
   - title: "Hartford Buildings"
     url: /buildings/
-  # - title: "Sitemap"
-  #   url: /sitemap/
   - title: "Hartford History"
     url: /history/
   - title: "Hartford People"
@@ -27,39 +25,39 @@ buildings:
   - title: "Castro Theater"
     url: /buildings/castro-theater
   - title: "Hartford St North"
-    url: /buildings/blocks/north
-  - title: "Hartford St Central"
-    url: /buildings/blocks/central
-  - title: "Hartford St South"
-    url: /buildings/blocks/south
+    url: /buildings/north
+  # - title: "Hartford St Central"
+  #   url: /buildings/blocks/central
+  # - title: "Hartford St South"
+  #   url: /buildings/blocks/south
 
-blocks:
-  - title: "back to Hartford Buildings"
-    url: /buildings
-  - title: "Hartford St North"
-    children:
-      - title: "Hartford St North"
-        url: /buildings/blocks/north
-      - title: "Child Page A2"
-        url: /
-      - title: "Child Page A3"
-        url: /
-      - title: "Child Page A4"
-        url: /
-  - title: "Hartford St Central"
-    children:
-      - title: "Hartford St Central"
-        url: /buildings/blocks/central
-  - title: "Hartford St South"
-    children:
-      - title: "Hartford St South"
-        url: /buildings/blocks/south
+# blocks:
+#   - title: "back to Hartford Buildings"
+#     url: /buildings
+#   - title: "Hartford St North"
+#     children:
+#       - title: "Hartford St North"
+#         url: /buildings/blocks/north
+#       - title: "Child Page A2"
+#         url: /
+#       - title: "Child Page A3"
+#         url: /
+#       - title: "Child Page A4"
+#         url: /
+#   - title: "Hartford St Central"
+#     children:
+#       - title: "Hartford St Central"
+#         url: /buildings/blocks/central
+#   - title: "Hartford St South"
+#     children:
+#       - title: "Hartford St South"
+        # url: /buildings/blocks/south
 
 north:
-  - title: "back to Hartford blocks"
-    url: /buildings/blocks
+  - title: "back to Hartford buildings"
+    url: /buildings/
   - title: Hartford North house by house
-    url: /hartford-st/blocks/north
+    url: /buildings/north
   - title:
     url:
   - title:
