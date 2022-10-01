@@ -15,7 +15,8 @@ The 0-100 block of Hartford St is almost solely the work of "master builder" Fer
 
 
 
-## A moment in time - 10:30 am on June 28, 1900
+## The first new house on Hartford St
+A moment in time - 10:30 am on June 28, 1900
 
 
 _Ed note: Laura wrote this long description to the block mailing list, and as the rest of this site is a mess, is including it here for interested folks. This is best enjoyed with the picture open in a separate tab so you can zoom in on the different parts._
