@@ -21,7 +21,7 @@ A moment in time - 10:30 am on June 28, 1900
 
 _Ed note: Laura wrote this long description to the block mailing list, and as the rest of this site is a mess, is including it here for interested folks. This is best enjoyed with the picture open in a separate tab so you can zoom in on the different parts._
 
-This is a scan of a glass plate negative by D.H. Wulzen, who owned the pharmacy at the southwest corner of 17th and Castro (the building that says "drugs" on the side). As his grandson Warren says:
+This is a scan of a glass plate negative by [D.H. Wulzen Jr.](/people/dhwulzen/), whose family owned the pharmacy at the southwest corner of 17th and Castro (the building that says "drugs" on the side). As his grandson Warren says:
 
 > "Late in the 1890s, DHW took on a Kodak agency and he became seriously interested in more than just snapshots. He acquired an 8x10 and a 5x7 glass plate camera. His pharmaceutical training made the necessary chemical processes for coating the plates and developing the photos easy for him. (Sidenote, our father, Frank Eastman Wulzen, learned these processes in DHW's darkroom and later became a commercial photographer himself.)"
 
@@ -41,7 +41,7 @@ James Parker Treadwell Sr had owned the rest of the block. He was a prominent SF
 
 In this picture, you can see the start of Nelson's grading on the southwest part of the block as he divided it into lots and laid out the continuation of Hartford St. (Ask us about Ford St West some time.) One of the tributaries of Dolores Creek originally flowed downhill just south of 18th St, so building up the base of the block there was a hedge against spring flooding.
 
-Nelson usually built single family or 2-flat houses, but could customize his plans to suit.  He’d started his career building big apartments with his brother in law William Hamerton, but didn’t enjoy it and struck out on his own. In fact he usually sold off the valuable corner lots to developers who didn't mind building big apartments. It looks like the owners of 27/29 knew they needed a little extra space, commissioned Nelson early, and so got in on the block first.
+Nelson usually built single family or 2-flat houses, but could customize his plans to suit.  He’d started his career building big apartments with his brother-in-law William Hamerton, but he didn’t enjoy being a landlord as well as builder, and struck out on his own. In fact he usually sold off the valuable corner lots to developers who didn't mind building big apartments. It looks like the owners of 27/29 knew they needed a little extra space, commissioned Nelson early, and so got in on the block first.
 
 Nelson was [living at 20th and Noe](https://www.foundsf.org/index.php?title=Nelson_House,_701_Castro) at the time of this photo, with a small lumber yard and planing mill onsite, so getting lumber down to the building site would've been a short trip. You can actually see five or six workers on the third floor putting up the top plate that the roof joists will sit on. You can also see that these are **balloon framed buildings**, meaning that the studs you see in the picture are a _single piece of timber_ that continues all the way from the sill plate sitting on the bricks of the foundation, to the top of the wall where it meets the roof. The floor joists are hung on "ribbon boards" or "ledger boards" at each level.
 

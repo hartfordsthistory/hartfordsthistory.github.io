@@ -26,7 +26,7 @@ It looks like they took a trip to Fèves, Moselle, France, in September 1876, an
 
 In Sept 1878 they’re back in CA and another son is born.
 
-
+Andrew was a watchmaker and jeweler and silversmith who came to SF in 1867, working at a number of different jewelry stores and investing in real estate.
 Bought Matear House.
 
 His older brother John (b March 2, 1827) joins them in SF at some point. On Andrew’s 59th bday, John gives him a book. John passes away June 22, 1895 in SF.
@@ -35,17 +35,8 @@ His older brother John (b March 2, 1827) joins them in SF at some point. On Andr
 
 By 1901 he’s listed alternately as a jeweler and watchmaker but with no business premises. Might have joined his employee at [George F Smith & Co](https://sterlingflatwarefashions.com/Res/Part/S/SmithGeoFCo.html).
 
-
+Spaulding passed away in Nov 23, 1906, and his widow Susan Shockley Spaulding moved across the street to 458 Castro, where she lived until her death on Nov 27, 1915. Before her passing, Susan rented out the house and grounds.
 
 
 apparently real estate investments?
-took family to europe, almost all children died of fever
-
-returned back, widow moved across the street.
-
 parking lot behind what is now castro theater was called "Spalding [sic] court".
-
-
-
-Dies in 1906
-Widowed Susan lives at 458 Castro until her death in 1915
