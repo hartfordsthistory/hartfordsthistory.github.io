@@ -1,7 +1,9 @@
 ---
 title: Marshall Meeteer
 ---
-Marshall (Louis, Lewes, Lowes) Meeteer
+**Marshall L** (Louis, Lewes, Lowes) **Meeteer** (Matear, Meetcer, Meter, Meeter, Meeter)
+
+(Possibly the _most-misspelled_ man in San Francisco History)
 
 b: (~1812-1815)   d: 2 Apr 1885 [Findagrave](https://www.findagrave.com/memorial/107723734/marshal-meteer)
 
