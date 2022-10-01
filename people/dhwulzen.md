@@ -1,8 +1,9 @@
 ---
 title: D. H. Wulzen
+classes: wide
 ---
 
-We have local notable D. H. Wulzen Jr (and his grandsons' worthy efforts) to thank for many of the pictures we have of the young Eurka Valley. Warren, one of those grandsons, kindly sent me this short biographical sketch.
+_We have local notable D. H. Wulzen Jr (and his grandsons' worthy efforts) to thank for many of the pictures we have of the young Eurka Valley. Warren, one of those grandsons, kindly sent me this short biographical sketch._
 
 _For purposes of this website, the following text is copyright 2022, Warren Wulzen. Reproduced with my deep gratitde._
 

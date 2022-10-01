@@ -26,7 +26,7 @@ This is a scan of a glass plate negative by [D.H. Wulzen Jr.](/people/dhwulzen/)
 > "Late in the 1890s, DHW took on a Kodak agency and he became seriously interested in more than just snapshots. He acquired an 8x10 and a 5x7 glass plate camera. His pharmaceutical training made the necessary chemical processes for coating the plates and developing the photos easy for him. (Sidenote, our father, Frank Eastman Wulzen, learned these processes in DHW's darkroom and later became a commercial photographer himself.)"
 
 ![DHWulzen-Hartford-June-28-1900-1030am](/images/DHWulzen-Hartford-June-28-1900-1030am.png)
-<i>The newly cut 0-99 block of Hartford Street, 10:30 am June 28, 1900. The first house on the block is just about to get roof joists from the workers of Fernando Nelson & Sons, Builders.
+<i>The newly cut 0-99 block of Hartford Street, 10:30 am June 28, 1900, photo by <a href="/people/dhwulzen/">DH Wulzen</a>. The first house on the block is just about to get roof joists from the workers of Fernando Nelson & Sons, Builders.
 <a href="/images/DHWulzen-Hartford-June-28-1900-1030am.png" target="_blank" rel="noopener noreferrer">Click here to open the full size image in a new tab</a>.</i>
 
 The bright white street near the center of this photo is Castro St north of Market St, and to the upper left you can see the Corona Heights quarry still being worked. The gore point of the east intersection of 17th and Market (Jane Warner Plaza, where the Shell is now) is still a grass lot, and south across the street are some of the oldest buildings in the neighborhood, some even appearing on the 1869 US Coastal Survey map.
