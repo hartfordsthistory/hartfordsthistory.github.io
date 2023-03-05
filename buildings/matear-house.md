@@ -3,7 +3,7 @@ title: Meeteer (Matear) House
 classes: wide
 ---
 
-This fine peaked building with the lacy bargeboards is Meeteer House, sometimes called "Matear House". It was originally built by [Marshall Meeteer](/people/meeteer/), a carpenter from Baltimore who came to SF around 1860.
+This fine peaked building with the lacy bargeboards is Meeteer House, sometimes called "Matear House". It was originally built by [Marshall Meeteer](/people/meeteer/)(the most-misspelled man in history), a carpenter from Baltimore who came to San Francisco around 1860.
 
 ![](/buildings/images/dhwulzen-4-28-1901-meeteer-house-front.jpeg)
 
