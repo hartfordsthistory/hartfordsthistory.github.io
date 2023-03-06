@@ -309,6 +309,7 @@ defaults:
       path: "buildings/north"
       type: pages
     values:
+      sitemap: false
       layout: single
       read_time: true
       author_profile: false
