@@ -29,5 +29,4 @@ On May 22 1862, Marshall registered to vote, and listed his profession as "real 
 
 The City Directory however lists him only as "carpenter"  in 1872.
 
-
 After his death in 1885, his wife sold the property [Andrew Spaulding](/people/spaulding/) in 1886.

@@ -52,8 +52,8 @@ oak newell posts
 woodgraining
 5 panel doors
 ceiling medallions
-picture rails
-rosettes
+picture rails - 5 bead
+rosettes - some got cut down
 built-ins
 fireplace soffits
 art tiles
