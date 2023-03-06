@@ -19,7 +19,7 @@ Apparently there were [quite a few making carpenter's planes in Baltimore](https
 
 We don't know when he departed Maryland, and we don't know when he arrived in San Francisco or how he got there, as records of the City's immigrants were sketchy until the first City Directory was published in 1860. It's likely that he joined the waves of migrants flooding California after the discovery of gold at Sutter's Mill, and the ensuing Gold Rush of 1849.
 
-That 1860-61 edition helpfully tells us that Meeter was an "[architect and builder](https://www.familysearch.org/ark:/61903/3:1:3QHV-V3DB-267D?cc=3754697&personaUrl=%2Fark%3A%2F61903%2F1%3A1%3A6ZQH-VPNJ)" with a "dwelling SW corner Powell and Geary".  (This area has been widely redeveloped, and is now the shopping center of the City. A fast-fashion store stands at that corner now, but I haven't researched to find clues to what sort of building might have been there in 1860.)
+The 1860-61 edition of that aforementioned Directory helpfully tells us that Meeter was an "[architect and builder](https://www.familysearch.org/ark:/61903/3:1:3QHV-V3DB-267D?cc=3754697&personaUrl=%2Fark%3A%2F61903%2F1%3A1%3A6ZQH-VPNJ)" with a "dwelling SW corner Powell and Geary".  (This area has been widely redeveloped, and is now the shopping center of the City. A fast-fashion store stands at that corner now, but I haven't researched to find clues to what sort of building might have been there in 1860.)
 
 Marshall maintains his listing as "architect and builder" in the [City Directory for 1861-2](https://www.familysearch.org/ark:/61903/3:1:3QHV-V3DB-21LP?cc=3754697&personaUrl=%2Fark%3A%2F61903%2F1%3A1%3A6Z3M-8HD4) but is now listed as "dwelling NW corner California x Powell", six blocks north.
 
