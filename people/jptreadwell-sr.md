@@ -1,10 +1,24 @@
 ---
 title: James Parker Treadwell Sr.
 ---
+https://www.findagrave.com/memorial/132738309/james-parker-treadwell
+
+BIRTH
+25 Jun 1817
+Ipswich, Essex County, Massachusetts, USA
+DEATH
+27 Dec 1884 (aged 67)
+San Francisco, San Francisco County, California, USA
+
+M. Mabel McNaughton
+
+ Children Maud, Thalia, and James Parker Jr., Ivan C.
+
 
 NOT THE ALASKA GUY - some newspapers even seem ?? on this
 Yale lawyer
 came to SF in ??
+at least 1867 - 528 Clay st.
 big man around town
 legal bully
 attorney
