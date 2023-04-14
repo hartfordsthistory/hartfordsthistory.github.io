@@ -35,3 +35,13 @@ Hartford St North is an example of blue-collar Victorians in the "streetcar subu
 | 64            |     | 65            |
 | 70, 72, 74    |     | 71, 73, 75    |
 | sw-corner-apt |     | se-corner-apt |
+
+
+
+
+
+## Building order
+
+We now know that Andrew Christesen commissioned the first buildings on Hartford St, *not* through Fernando Nelson. The original building contract specified a different contractor, though Nelson might have been hired as a subcontractor. At any rate, Nelson spent the entirety of the year 1900 buying up the Treadwell properties as fast as he could.
+
+![](/buildings/images/SFCall-20-June-1900-builder-contracts.jpg)

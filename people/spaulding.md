@@ -9,6 +9,7 @@ d. Nov 23, 1906 in San Francisco, CA
 Susan Shockley Spaulding
 b Jan 15, 1840.
 
+Henry S Spaulding - 1870
 George Henry b April 16 1866 d Sept 22 1876
 Oriana b Feb 25 1873 d Sept 2 1876
 Elaine b Nov 17 1874 d Sept 28 1876
@@ -18,7 +19,7 @@ Andrew Taylor b Sept 29 1878 d Nov 21 1885
 
 
 - [Familysearch link to Andrew Spaulding](https://www.familysearch.org/tree/person/sources/LH7W-M2G)
-- [Ancestry link to Andrew Spaulding](https://www.ancestrylibrary.com/family-tree/person/tree/116522348/person/400152709244/facts?_phsrc=lQi2&_phstart=successSource) - Log in using SFPL
+- [Ancestry link to Andrew Spaulding](https://www.ancestrylibrary.com/family-tree/person/tree/116522348/person/400152709244/) - Log in using SFPL
 - [The Spaulding Memorial](https://www.google.com/books/edition/The_Spalding_Memorial/CMqvixWYtS4C?hl=en&gbpv=1&bsq=8457) on Google Books.
 Born 21 May 1834, Milford, Hillsborough, New Hampshire, United States
 
@@ -69,3 +70,9 @@ His widow Susan Shockley Spaulding moved across the street to 458 Castro, where 
 
 apparently real estate investments?
 parking lot behind what is now castro theater was called "Spalding [sic] court".
+
+
+At his death, Spaulding's [Nov 26 1906 obituary](/images/spaulding-a-obit-26-nov-1906-petaluma.jpg) _in a paper in Petaluma_ lists him and Susan as the parents of H. S. Spaulding who recently married Susie Hocking "of this City".
+
+
+Indeed, backtracking we find Henry Stewart Spaulding, who does not appear in "The Spaulding Memorial" at all, and his wife Susie, living just up the road at 771 Castro Street in the 1950 census, when he's listed as the proprietor o a real estate company. Presumably he stayed there until his death in 1963, because their daughter Marion Jane lived in the same building (a duplex) at 773 Castro at the time of his death. She lived only a few years later, passing away in 1969 and thus ending this branch of the Spaulding line.
