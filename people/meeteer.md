@@ -8,7 +8,6 @@ title: Marshall Meeteer
 - born between 1812-1815 in Baltimore, Maryland
 - died 2 Apr 1885 [Findagrave record](https://www.findagrave.com/memorial/107723734/marshal-meteer)
 
-
 ---
 NB: The 1880 census lists Marshall as having been born in Maryland, with his parents as born in France; but his daughter Mary's entry lists her father has having been born in France as well. Similarly, Elizabeth C lists herself as born in Maryland from Irish parents, but Mary lists her as born in Ireland. Not clear if this is some sort of transcription error on the part of the census taker.
 
@@ -27,7 +26,9 @@ Apparently there were [quite a few making carpenter's planes in Baltimore](https
 
 We don't know when he departed Maryland, and we don't know when he arrived in San Francisco or how he got there, as records of the City's immigrants were sketchy until the first City Directory was published in 1860. It's likely that he joined the waves of migrants flooding California after the discovery of gold at Sutter's Mill, and the ensuing Gold Rush of 1849.
 
-In 1857, somewhere in California, Mary Frances Meeteer was born. Some records show December 8, 1857, in San Francisco. If true, this is the first record of the Meeteers on the west coast.
+The [Daily Alta California, Volume 9, Number 112, 23 April 1857](https://cdnc.ucr.edu/?a=d&d=DAC18570423.2.12&srpos=1&e=-------en--20--1-byDA-txt-txIN-%22meeteer%22-------) mentions an "M L Meeteer" making an heroic and ultimately unsuccessful rescue attempt of two children from a burning building. If this is our Marshall, this is the first evidence of the Meeteer family on the West Coast.
+
+In 1857, somewhere in California, Mary Frances Meeteer was born. Some records show December 8, 1857, in San Francisco.
 
 The 1860-61 edition of the _San Francisco Directory_ helpfully tells us that Meeter was an "[architect and builder](https://www.familysearch.org/ark:/61903/3:1:3QHV-V3DB-267D?cc=3754697&personaUrl=%2Fark%3A%2F61903%2F1%3A1%3A6ZQH-VPNJ)" with a "dwelling SW corner Powell and Geary". (This area has been widely redeveloped, and is now the shopping center of the City. A fast-fashion store stands at that corner now, but I haven't researched to find clues to what sort of building might have been there in 1860.)
 
@@ -48,7 +49,7 @@ The San Francisco Bulletin for October 2, 1876 Real estate transactions lists:
 
 In the 1880 census, Marshall and Elizabeth are still living on Castro St. Mary (now age 23) is listed as a single music teacher, still living in her father's household. Two widows, Elizabeth's sister Mary C Kelly, 68, a "resident", and E Doggett, 40, a boarder from England and also a music teacher, are now also living with the family. Mary C Kelly passes away 15 Jun 1880, and is buried in the [Odd Fellows Cemetery San Francisco](https://www.outsidelands.org/odd_fellows.php). (And then moved to Greenlawn Memorial Park, Colma.)
 
-Mary marries Charles H McCurrie on the 29th of June, 1882. Charles, who's 35 at the time of the marriage, is a widower - his wife Isabella Britton passed away in Dec 1876, a few scant weeks after the birth of Isabelle Britton McCurrie on 20th September. Much of this part of the family remains a little murky, as newspapers weer a bit dodgy. At any rate, Mary and Charles raise Isabelle as their own, much to the confusion of later researchers.
+Mary marries the Englishman Charles H McCurrie on the 29th of June, 1882. Charles, who's 35 at the time of the marriage, is a widower - his wife Isabella Britton passed away in Dec 1876, a few scant weeks after the birth of Isabelle Britton McCurrie on 20th September. Much of this part of the family remains a little murky, as newspapers were a bit dodgy. At any rate, Mary and Charles raise Isabelle as their own, much to the confusion of later researchers.
 
 Charles is a musician and a businessman. He seems to have a different direction and occupation in every San Francisco Directory, but from his records it's clear he's a man of letters, and a musician. He started a company in 1874 with his friend Weber, "McCurrie, Weber & Co.", publishing sheet music out of San Francisco. You can see [an example in the Berkeley archives](https://digicoll.lib.berkeley.edu/record/99930#) (but there are a lot of [other examples](https://library.artstor.org/#/asset/SS7730637_7730637_10278472;prevRouteTS=1680761493981) out there).
 
@@ -56,7 +57,8 @@ Somewhere in here, the whole family ups stakes and moves across the Bay to the O
 
 Marshall appears in the 1882 Alameda County census, listed as a "Marshall Lewis Meeteer", 67, Architect, [Third Ward, 2](https://localwiki.org/oakland/Ward_Boundaries_%28Historic%29) - Sept 29 1882. This places him in a fairly narrow area of what is now Oakland CA, but we don't have an exact street address, alas.
 
-Marshall dies April 2nd, 1885, and Elizabeth sells the property to [Andrew Spaulding](/people/spaulding/) in 1886, and the family appears in Alameda, not far away where they remain through about 1910.
+Marshall dies April 2nd, 1885, and Elizabeth sells the property to [Andrew Spaulding](/people/spaulding/) in 1886. Elizabeth [passes away October 7 1892](https://www.findagrave.com/memorial/105562559/elizabeth-mee_teer) [in Oakland](https://cdnc.ucr.edu/?a=d&d=SFC18921010&dliv=userclipping&cliparea=1.8%2C4796%2C5223%2C917%2C113&factor=2&e=-------en--20--1--txt-txIN--------). The rest of the family appears in Alameda, not far away, where they remain through about 1910.
 
-Mary Frances Meeteer, who spells her name a different way on every other document, marries Charles Henry McCurrie of England. They have five children, some of whom survive to adulthood. In 1927 they're randomly living at 45 Court St in Norfolk Virginia.
-In 1933, they move to San Diego, moving up and down 4121 Middlesex dr. She passes away 15 Aug 1935. Charles moves back to the Bay Area and passes away 03 May 1936 in Saratoga, California.
+Mary Frances Meeteer, who spells her name a different way on every other document, has five children with  Charles Henry McCurrie, only some of whom survive to adulthood. In 1927 they're randomly living at 45 Court St in Norfolk Virginia.
+
+In 1933, they move to San Diego, moving up and down 4121 Middlesex Dr. Mary passes away 15 Aug 1935. Charles moves back to the Bay Area and passes away 03 May 1936 in Saratoga, California, a much beloved and mourned member of several musical societies.
