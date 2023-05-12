@@ -38,17 +38,35 @@ Directory listings:
 - 1868 San Francisco Dir.: listed under Jewelers, 23 1/2 Second, San Francisco,CA
 - 1869 San Francisco Dir.: listed under Watchmakers, 122 Fourth, San Francisco, CA
 
-It looks like they took a trip to Fèves, Moselle, France (? unclear is this is a misinterpretation of a cause of death of "fever"), in September 1876, and between Sept 2 and Sept 22 three of their children died of yellow fever. A less-than-one-year death is also recorded that year, without a date attached but also of yellow fever. Wow.
+It looks like they took a trip to Fèves, Moselle, France (? unclear is this is a misinterpretation of a cause of death of "fever"), in September 1876, and between Sept 2 and Sept 22 three of their children died of yellow fever. A less-than-one-year death is also recorded that year, without a date attached but also of yellow fever. All of this appears on Ancestry.com, without any sources cited.  Now we go dig.
+
+[Sacramento Daily Union 4 Sept 1876](https://cdnc.ucr.edu/?a=d&d=SDU18760904&dliv=userclipping&cliparea=1.2%2C4989%2C2023%2C938%2C253&factor=2&e=01-09-1876-31-09-1876--en--20--1--txt-txIN-spaulding+-------)
+
+> San Francisco, September 2 - Oriana Spaulding. 3 years and 6 months
+
+[The Daily Alta California for 29 September 1876](https://cdnc.ucr.edu/?a=d&d=DAC18760929&dliv=userclipping&cliparea=1.4%2C2923%2C1093%2C930%2C124&factor=2&e=01-09-1876-31-09-1876--en--20--1--txt-txIN-spaulding+-------):
+
+> In this city, September 28th, of diptheria, Elaine, beloved and only daughter of Andrew and Susan Spaulding, aged 1 year, 10 months and 11 days.  (Only daughter? Only daughter remaining?)
 
 In Sept 1878 they’re back in CA and another son is born. He only lives to 1885.
 
 1880 San Francisco Dir.:  listed under Watchmakers & Jewelers, 122 Fourth, San Francisco, CA
 
+[Daily Alta California, 20 May 1883](https://cdnc.ucr.edu/?a=d&d=DAC18830520&dliv=userclipping&cliparea=1.4%2C1468%2C2522%2C699%2C103&factor=1&e=01-09-1874-31-09-1888--en--20-BAR%2cCS%2cCSC%2cC%2cLVCH%2cRI%2cDAC%2cDCE%2cSACDI%2cDMT%2cDND%2cDNL%2cDPN%2cDSRB%2cES%2cESN%2cGGG%2cHE%2cHT%2cHTES%2cMCT%2cMJ%2cODT%2cOT%2cPA%2cbeacon%2cSFC%2cSFE%2cWAC-1-byDA-txt-txIN-%22andrew+spaulding%22-------):
+
+> SPAULDING --- At her residence in Milford, NH April 8, 1883, Mrs. Anna Spaulding, beloved mother of John and Andrew Spaulding of San Francisco, a native of Pepperell Mass, aged 91 years, 8months, and 19 days.
+
+[Daily Alta California for 21 Nov 1885](https://cdnc.ucr.edu/?a=d&d=DAC18851122&dliv=userclipping&cliparea=1.8%2C4856%2C7483%2C1080%2C147&factor=2&e=01-09-1874-31-09-1888--en--20-BAR%2cCS%2cCSC%2cC%2cLVCH%2cRI%2cDAC%2cDCE%2cSACDI%2cDMT%2cDND%2cDNL%2cDPN%2cDSRB%2cES%2cESN%2cGGG%2cHE%2cHT%2cHTES%2cMCT%2cMJ%2cODT%2cOT%2cPA%2cbeacon%2cSFC%2cSFE%2cWAC-1-byDA-txt-txIN-%22susan+spaulding%22-------), Andrew Taylor Spaulding Jr passes away, "beloved and only child" aged 7 years 1 mo and 22 days.
+
 In 1886, Andrew Spaulding buys the parcel on Block 114 from Elizabeth Meeteer.
 
 On October 18th, 1892 Great Register of California lists him as 5'7¼", with a fair complexion, blonde hair and green eyes. He's listed as a watchmaker, from New Hampshire, and as living at 405 Castro... up on the corner?
 
-His older brother John (b March 2, 1827) joins them in SF at some point. On Andrew’s 59th bday, John gives him a book. John passes away June 22, 1895 in SF.
+His older brother John (b March 2, 1827) joins them in SF at some point. John is some sort of inventor.
+
+> John Spaulding, San Francisco, steam boiler and eediment collector combined ;
+
+On Andrew’s 59th bday, John gives him a book. John passes away June 22, 1895 in SF.
 
 San Francisco Chronicle -  November 9, 1897  Builder's Contracts
 Andrew Spaulding with William Helbing to erect a two-story bulding on lot on W line of Castro St 198?0 N of 18th st N 24?6x125 for $3870, bond $970.
