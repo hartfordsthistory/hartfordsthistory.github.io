@@ -3,19 +3,47 @@ title: Hartford St North Block
 read_time: false
 ---
 
-https://opensfhistory.org/Display/wnp13.006b.jpg looking ne from 18th st, circa 1907
-https://opensfhistory.org/Display/wnp25.10866.jpg east side, looking south to se-corner-apt, 1970s
 
-Closest block to Market, numbers larger the further you get from it.
-0-99
-
-Last block to be developed due to the conflicting land claims, and the protracted probate battle in the J.P. Treadwell estate.
-
-
-The 0-100 block of Hartford St is almost solely the work of "master builder" Fernando Nelson, who famously built thousands of homes in SF over the course of his half-century career, and acted as one-man savings and loan to many of his customers.
+The 0-100 block of Hartford St is _almost_ solely the work of "master builder" Fernando Nelson, who famously built thousands of homes in SF over the course of his half-century career, and acted as one-man savings and loan to many of his customers.
 
 Hartford St North is an example of blue-collar Victorians in the "streetcar suburbs" growing in San Francisco at the turn of the century. These houses are the transition period between the vernacular, unprofessional infill housing in chaotically inclusive urban spaces, and the commissioned exclusive automobile-reliant suburbs of the 1920s and later. As non-status buildings - specifically meant to be _owned_ by blue-collar workers and not just rented to them - the buildings on Hartford St are a rare survival, and illustrate the incredible quality of life available to migrants willing to make the trip West.
 
+## Block history
+
+Hartford St North was originally listed as "Mission block 114", and only much later (when the City consolidated the previous different survey block numbers) became "Block 3582" as it's known today.
+
+This was the last block in the area to be developed, due to the conflicting land claims, and the protracted probate battle (and inter-family strife) in the J.P. Treadwell estate.
+
+Additionally, Hartford St in its entirety was renumbered some time between 1900 and 1901; Hartford St Central was originally 1-50, and Hartford South was 51-100.
+
+When the third block was cut and it got closer to Market St, the blocks were renumbered to match the rest of the City's numbering convention, which is to say the house numbers increase by about 100 each block you get further away from Market. Hartford North became 0-99, Hartford Central became 100-199, and Hartford South became 200-299.
+
+## Building order
+
+_(NB: all of this could probably be resolved by looking at the block book, I just haven't had time to do so.)_
+
+It looks like Andrew Christensen was the first person to buy a lot on the newly-subdivided Mission 114 block. If that's the first house, then he must've started building nearly immediately since our "[first building on Hartford St](https://history.hartfordstreet.online/images/DHWulzen-Hartford-June-28-1900-1030am.png)" photo is dated 28 June 1900.
+
+![](/buildings/images/SFCall-9-June-1900-retxns.jpg)
+_The San Francisco Call for 9th June, 1900_
+
+>John T. Harmes and Thalia Treadwell to Andrew Christensen, lot on E line of Hartford street, 137;4 S of Seventeenth, S 26:2 by E 125; $10.
+
+It looks like his brother bought the adjacent lot a month later.
+
+> Thalia Treadwell (single) to Jens Chr Christensen, lot on E line of Hartford street, 163:6 S of Seventeenth, S26:2 by E 123; $10.
+
+![](/buildings/images/SFCall-8-July-1900-retxns.jpg)
+_The San Francisco Call for 8th July, 1900_
+
+The first builder contract I found show Andrew Christensen commissioning a building on Hartford St, _not_ through Fernando Nelson. His original building contract specified a different contractor, though Nelson might have been hired as a subcontractor.
+
+![](/buildings/images/SFCall-20-June-1900-builder-contracts.jpg)
+_The San Francisco Call for 20th June, 1900_
+
+Interestingly, although Christensen commissioned this two-story building, Nelson had already mostly framed out the three-story building next door by June 28th. I'm not sure if I just missed the listing, or if publicizing builders contracts were just optional.
+
+ At any rate, Fernando Nelson spent the entirety of the year 1900 buying up the Treadwell properties as fast as he could.
 
 | West          | ___ | East          |
 | ------------- | --- | ------------- |
@@ -36,12 +64,7 @@ Hartford St North is an example of blue-collar Victorians in the "streetcar subu
 | 70, 72, 74    |     | 71, 73, 75    |
 | sw-corner-apt |     | se-corner-apt |
 
+---
 
-
-
-
-## Building order
-
-We now know that Andrew Christesen commissioned the first buildings on Hartford St, *not* through Fernando Nelson. The original building contract specified a different contractor, though Nelson might have been hired as a subcontractor. At any rate, Nelson spent the entirety of the year 1900 buying up the Treadwell properties as fast as he could.
-
-![](/buildings/images/SFCall-20-June-1900-builder-contracts.jpg)
+<https://opensfhistory.org/Display/wnp13.006b.jpg> looking ne from 18th st, circa 1907
+<https://opensfhistory.org/Display/wnp25.10866.jpg> east side, looking south to se-corner-apt, 1970s
