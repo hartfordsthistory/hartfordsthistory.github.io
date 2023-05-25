@@ -60,6 +60,12 @@ These resources aren't specific to our block, but cover the local area.
 
 Many of these resources overlap with those used by genealogical researchers.
 
+## Newspaper resources
+
+If you have a SFPL library card, you can use the library's login to use ProQuest to search a number of SF newspapers. (The Chronicle, the San Francisco Daily Call, etc)
+
+You can also use [UC Riverside's online newspaper archive and viewer](https://cdnc.ucr.edu/), which I find has much better scans, much better searchability, facilities for easy clipping, and a way to suggest corrections to the transcribed text.
+
 ## Blue Books
 
 The ancestor of telephone directories, these were designed to help well-to-do newcomers navigate and find friends, relatives, shopping, social groups, churches, and other services. These were often put together by a coalition of local clubs whose members would fund the printing by subscription. (Basically like a very fancy posh version of the Little League phone tree and directory we got as kids.)
