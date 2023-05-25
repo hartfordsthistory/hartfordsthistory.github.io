@@ -36,7 +36,7 @@ From the [OpenSF History map project](https://opensfhistory.org/maps/). Enter an
 
 ## Hartford Street-adjacent
 
-These resources aren't specific to our block
+These resources aren't specific to our block, but cover the local area.
 
 ### Duboce Park Landmark District application
 
@@ -63,6 +63,8 @@ Many of these resources overlap with those used by genealogical researchers.
 ## Blue Books
 
 The ancestor of telephone directories, these were designed to help well-to-do newcomers navigate and find friends, relatives, shopping, social groups, churches, and other services. These were often put together by a coalition of local clubs whose members would fund the printing by subscription. (Basically like a very fancy posh version of the Little League phone tree and directory we got as kids.)
+
+Notably they contain the person's name, location, and _what day(s) they are at-home for visitors_.
 
 - [The San Francisco Blue Book search on Archive.org](https://archive.org/search?query=%22san+francisco+blue+book%22). Usually a great resource, but double check the year impressed on the cover - the metadata on Archive is spotty sometimes.
 
