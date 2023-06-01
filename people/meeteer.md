@@ -24,11 +24,13 @@ Information on Marshall is sparse, but we know he was a member of the "Plane Mak
 
 Apparently there were [quite a few making carpenter's planes in Baltimore](https://swingleydev.com/ot/get/34078/thread/) in the 1830s, to supply frontier carpenters riding the wave of expansion. Marshall apparently decided rather than to labor making supplies, to go forth to adventure and make his fortune.
 
-We don't know when he departed Maryland, and we don't know when he arrived in San Francisco or how he got there, as records of the City's immigrants were sketchy until the first City Directory was published in 1860. It's likely that he joined the waves of migrants flooding California after the discovery of gold at Sutter's Mill, and the ensuing Gold Rush of 1849.
+We don't know when he departed Maryland, and we don't know when he arrived in San Francisco or how he got there, as records of the City's immigrants were sketchy even with the first [City Directories that began publication in 1850](https://sfpl.org/locations/main-library/magazines-newspapers-center/bay-area-city-directories-and-phone-books/san-0). It's likely that he joined the waves of migrants flooding California after the discovery of gold at Sutter's Mill, and the ensuing Gold Rush of 1849.
 
 The [Daily Alta California, Volume 9, Number 112, 23 April 1857](https://cdnc.ucr.edu/?a=d&d=DAC18570423.2.12&srpos=1&e=-------en--20--1-byDA-txt-txIN-%22meeteer%22-------) mentions an "M L Meeteer" making an heroic and ultimately unsuccessful rescue attempt of two children from a burning building. If this is our Marshall, this is the first evidence of the Meeteer family on the West Coast.
 
 In 1857, somewhere in California, Mary Frances Meeteer was born. Some records show December 8, 1857, in San Francisco.
+
+Marshal first appears in [the 1859 edition of the Langley directory](https://archive.org/details/sanfranciscodire1859lang/page/198/mode/1up) as "Meeteer, Marshal L. builder, 183 Montgomery, dwl SW cor Powell and Geary."
 
 The 1860-61 edition of the _San Francisco Directory_ helpfully tells us that Meeter was an "[architect and builder](https://www.familysearch.org/ark:/61903/3:1:3QHV-V3DB-267D?cc=3754697&personaUrl=%2Fark%3A%2F61903%2F1%3A1%3A6ZQH-VPNJ)" with a "dwelling SW corner Powell and Geary". (This area has been widely redeveloped, and is now the shopping center of the City. A fast-fashion store stands at that corner now, but I haven't researched to find clues to what sort of building might have been there in 1860.)
 

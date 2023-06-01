@@ -66,7 +66,12 @@ If you have a SFPL library card, you can use the library's login to use ProQuest
 
 You can also use [UC Riverside's online newspaper archive and viewer](https://cdnc.ucr.edu/), which I find has much better scans, much better searchability, facilities for easy clipping, and a way to suggest corrections to the transcribed text.
 
-## Blue Books
+## Directories in general
+
+SFPL has [an index of the San Francisco directories it has or knows about](https://sfpl.org/locations/main-library/magazines-newspapers-center/bay-area-city-directories-and-phone-books/san-0), starting in 1850 and going to 1980, with links to Archive.org. This is often quicker if you're looking for specific info about specific people during a specific year.
+
+
+### Blue Books
 
 The ancestor of telephone directories, these were designed to help well-to-do newcomers navigate and find friends, relatives, shopping, social groups, churches, and other services. These were often put together by a coalition of local clubs whose members would fund the printing by subscription. (Basically like a very fancy posh version of the Little League phone tree and directory we got as kids.)
 
@@ -74,7 +79,7 @@ Notably they contain the person's name, location, and _what day(s) they are at-h
 
 - [The San Francisco Blue Book search on Archive.org](https://archive.org/search?query=%22san+francisco+blue+book%22). Usually a great resource, but double check the year impressed on the cover - the metadata on Archive is spotty sometimes.
 
-## Crocker Langley Directories
+### Crocker Langley Directories
 
 Similar to the blue books, but much more democratic, these were a mix of business and residential information all combined.
 

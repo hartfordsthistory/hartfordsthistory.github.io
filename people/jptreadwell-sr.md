@@ -39,6 +39,12 @@ Passed the bar in 1850
 
 came to SF in 1851
 
+[Listed in the 1852 directory](https://archive.org/details/awmorgancossanfr1852awmo/page/59/mode/1up):
+> Treadwell & Co., hardware and agricultural store, c California and Battery
+> Treadwell, L.L. 
+> Treadwell, J.P.
+
+
 1856, defended his brother Leonard Linton Treadwell (Treadwell & Co) from [a patent infringement case](https://smcgs.org/resources/Documents/Databases/Private%20Common%20Law%20Case%20Files.pdf).
 
 in 1867 lived at 528 Clay st.
