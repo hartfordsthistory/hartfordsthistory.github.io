@@ -14,6 +14,8 @@ Hartford St was originally listed as "Mission block 114", and later (when the Ci
 
 ### Sanborn Maps
 
+- 1886 - Hartford St North doesn't exist yet, the aspirational second block of Ford st still appears) [https://www.loc.gov/resource/g4364sm.g4364sm_g00813188605/?sp=19&st=image](https://www.loc.gov/resource/g4364sm.g4364sm_g00813188605/?sp=19&st=image) ([Hartford Mid](https://www.loc.gov/resource/g4364sm.g4364sm_g00813188605/?sp=20&st=image), and [Hartford South](https://www.loc.gov/resource/g4364sm.g4364sm_g00813188605/?sp=17&st=image))
+
 - 1900 [https://www.loc.gov/resource/g4364sm.g4364sm_g00813190006/?sp=48](https://www.loc.gov/resource/g4364sm.g4364sm_g00813190006/?sp=48)
 - 1905 - [https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~214223~5501578:Vol--6,-Page-671-672--San-Francisco?sort=Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No&qvq=q:Pub_List_No%3D%225850.000%22%20AND%20Short_Title%3D%22vol.%206%22%20;sort:Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No;lc:RUMSEY~8~1&mi=28&trs=66](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~214223~5501578:Vol--6,-Page-671-672--San-Francisco?sort=Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No&qvq=q:Pub_List_No%3D%225850.000%22%20AND%20Short_Title%3D%22vol.%206%22%20;sort:Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No;lc:RUMSEY~8~1&mi=28&trs=66)
 - 1914 - [https://www.loc.gov/resource/g4364sm.g4364sm_g00813191407/?sp=8&r=-0.024,0.461,0.892,0.627,0](https://www.loc.gov/resource/g4364sm.g4364sm_g00813191407/?sp=8&r=-0.024,0.461,0.892,0.627,0)
