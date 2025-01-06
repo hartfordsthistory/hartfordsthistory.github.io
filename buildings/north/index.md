@@ -22,7 +22,7 @@ When the third block was cut and it got closer to Market St, the blocks were ren
 
 _(NB: all of this could probably be resolved by looking at the block book, I just haven't had time to do so.)_
 
-It looks like Andrew Christensen was the first person to buy a lot on the newly-subdivided Mission 114 block. If that's the first house, then he must've started building nearly immediately since our "[first building on Hartford St](https://history.hartfordstreet.online/images/DHWulzen-Hartford-June-28-1900-1030am.png)" photo is dated 28 June 1900.
+It looks like Andrew Christensen was the first person to buy a lot on the newly-subdivided Mission 114 block per this SFCall notice from 9th June 1900. If that's the first house, then he must've started building nearly immediately since our "[first building on Hartford St](https://history.hartfordstreet.online/images/DHWulzen-Hartford-June-28-1900-1030am.png)" photo is dated 28 June 1900.
 
 ![](/buildings/images/SFCall-9-June-1900-retxns.jpg)
 
@@ -46,7 +46,7 @@ _The San Francisco Call for 20th June, 1900_
 
 Interestingly, although Christensen's contract lists a two-story building, the first one to go in was the three-story building that we see already mostly framed out by June 28th. This lot, reading out the surveyor numbers, corresponds to parcel `3582/035`, or 27/29/31 Hartford. Andrew's brother's building next door must have been next to go up. I'm not sure if I just missed the listing, or if publicizing builders contracts were just optional.
 
-Regardless of what happened, and perhaps puzzlingly, both the three-story flats at 27/29/31, and the two-story flats at 33/35 have the same layouts, and all of the same trimmings and mouldings as other Nelsons on the block. Did Christensen fire his contractor and hire Nelson at a savings?
+Regardless of what happened, and perhaps puzzlingly, both the three-story flats at 27/29/31, and the two-story flats at 33/35 have the same layouts, and all of the same trimmings and mouldings as other Nelsons on the block. Did Christensen fire his contractor and hire Nelson at a savings? Or were there just limited resources for interior decoration in 1900/1901?
 
  At any rate, Fernando Nelson spent the entirety of the year 1900 buying up the Treadwell properties as fast as he could.
 
