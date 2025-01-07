@@ -18,7 +18,7 @@ Additionally, Hartford St in its entirety was renumbered some time between 1900 
 
 When the third block was cut and it got closer to Market St, the blocks were renumbered to match the rest of the City's numbering convention, which is to say the house numbers increase by about 100 each block you get further away from Market. Hartford North became 0-99, Hartford Central became 100-199, and Hartford South became 200-299.
 
-## Building order
+## Andrew Christensen swoops in
 
 _(NB: all of this could probably be resolved by looking at the block book, I just haven't had time to do so.)_
 
@@ -48,7 +48,29 @@ Interestingly, although Christensen's contract lists a two-story building, the f
 
 Regardless of what happened, and perhaps puzzlingly, both the three-story flats at 27/29/31, and the two-story flats at 33/35 have the same layouts, and all of the same trimmings and mouldings as other Nelsons on the block. Did Christensen fire his contractor and hire Nelson at a savings? Or were there just limited resources for interior decoration in 1900/1901?
 
- At any rate, Fernando Nelson spent the entirety of the year 1900 buying up the Treadwell properties as fast as he could.
+## Nelson's purchases
+
+ At any rate, Fernando Nelson bought the Hartford chunk of the Treadwell block in November 1900, and it was a big enough deal to be in the newspaper [two days running](https://cdnc.ucr.edu/?a=d&d=SFC19001106.2.108.6&srpos=6&e=01-01-1899-01-12-1900--en--20--1-byDA-txt-txIN-%22fernando+nelson%22-------).
+
+![](/buildings/images/SFCall-5-Nov-1900-renews.png)
+ [San Francisco Call, Volume 87, Number 158, 5 November 1900](https://cdnc.ucr.edu/?a=d&d=SFC19001105.2.104&srpos=5&e=01-01-1899-01-12-1900--en--20--1-byDA-txt-txIN-%22fernando+nelson%22-------)
+
+ He later bought up the other side of the block from 18th and Noe north, 
+
+![](/buildings/images/SFCall-24-Dec-1900-renews.png)
+_[San Francisco Call, Volume 87, Number 24, 24 December 1900
+](https://cdnc.ucr.edu/?a=d&d=SFC19001224.2.106&srpos=3&e=-------en--20--1-byDA-txt-txIN-%22fernando+nelson%22+treadwell-------)_
+
+He gets the lot at the NW corner of 18th and Noe.
+![alt text](/buildings/images/SFCall-3-May-1901.png)SFCall-1-May-1901
+[San Francisco Call, Volume 87, Number 154, 3 May 1901](https://cdnc.ucr.edu/?a=d&d=SFC19010503.2.175&srpos=4&e=-------en--20--1-byDA-txt-txIN-%22fernando+nelson%22+treadwell-------)
+
+Nelson then (grudgingly?) buys the lot for the apartment building at the SE corner of 17th and Hartford, which becomes the weirdly boxed out condo building.
+![alt text](/buildings/images/SFCall-26-Jan-1902.png)
+[San Francisco Call, Volume 87, Number 57, 26 January 1902](https://cdnc.ucr.edu/?a=d&d=SFC19020126.2.139&srpos=5&e=-------en--20--1-byDA-txt-txIN-%22fernando+nelson%22+treadwell-------)
+
+
+
 
 | West          | ___ | East          |
 | ------------- | --- | ------------- |
