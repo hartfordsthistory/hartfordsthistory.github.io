@@ -53,20 +53,23 @@ Regardless of what happened, and perhaps puzzlingly, both the three-story flats 
  At any rate, Fernando Nelson bought the Hartford chunk of the Treadwell block in November 1900, and it was a big enough deal to be in the newspaper [two days running](https://cdnc.ucr.edu/?a=d&d=SFC19001106.2.108.6&srpos=6&e=01-01-1899-01-12-1900--en--20--1-byDA-txt-txIN-%22fernando+nelson%22-------).
 
 ![](/buildings/images/SFCall-5-Nov-1900-renews.png)
+
  [San Francisco Call, Volume 87, Number 158, 5 November 1900](https://cdnc.ucr.edu/?a=d&d=SFC19001105.2.104&srpos=5&e=01-01-1899-01-12-1900--en--20--1-byDA-txt-txIN-%22fernando+nelson%22-------)
 
- He later bought up the other side of the block from 18th and Noe north, 
+ He later bought up the other side of the block from 18th and Noe north:
 
 ![](/buildings/images/SFCall-24-Dec-1900-renews.png)
-_[San Francisco Call, Volume 87, Number 24, 24 December 1900
-](https://cdnc.ucr.edu/?a=d&d=SFC19001224.2.106&srpos=3&e=-------en--20--1-byDA-txt-txIN-%22fernando+nelson%22+treadwell-------)_
+
+_[San Francisco Call, Volume 87, Number 24, 24 December 1900](https://cdnc.ucr.edu/?a=d&d=SFC19001224.2.106&srpos=3&e=-------en--20--1-byDA-txt-txIN-%22fernando+nelson%22+treadwell-------)_
 
 He gets the lot at the NW corner of 18th and Noe.
-![alt text](/buildings/images/SFCall-3-May-1901.png)SFCall-1-May-1901
+
+![alt text](images/SFCall-3-May-1901.png)
+
 [San Francisco Call, Volume 87, Number 154, 3 May 1901](https://cdnc.ucr.edu/?a=d&d=SFC19010503.2.175&srpos=4&e=-------en--20--1-byDA-txt-txIN-%22fernando+nelson%22+treadwell-------)
 
 Nelson then (grudgingly?) buys the lot for the apartment building at the SE corner of 17th and Hartford, which becomes the weirdly boxed out condo building.
-![alt text](/buildings/images/SFCall-26-Jan-1902.png)
+![alt text](images/SFCall-26-Jan-1902.png)
 [San Francisco Call, Volume 87, Number 57, 26 January 1902](https://cdnc.ucr.edu/?a=d&d=SFC19020126.2.139&srpos=5&e=-------en--20--1-byDA-txt-txIN-%22fernando+nelson%22+treadwell-------)
 
 
@@ -74,7 +77,7 @@ Nelson then (grudgingly?) buys the lot for the apartment building at the SE corn
 
 | West          | ___ | East          |
 | ------------- | --- | ------------- |
-| nw-corner-apt |     | ne-corner-apt |
+| [nw-corner-apt](/buildings/north/nw-corner-apt/) |     | ne-corner-apt |
 |               |     | 1, 5, 17      |
 | 20            |     | 19            |
 | 24            |     | 25            |
