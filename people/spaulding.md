@@ -88,3 +88,130 @@ At his death, Spaulding's [Nov 26 1906 obituary](/images/spaulding-a-obit-26-nov
 Indeed, backtracking we find Henry Stewart Spaulding, who does not appear in "The Spaulding Memorial" at all, and his wife Susie, living just up the road at 771 Castro Street in the 1950 census. (Another Spaulding appears nearby - so unclear if these folks are actually related to Andrew?)
 
 Henry is listed as the proprietor of a real estate company. Presumably he stayed there until his death in 1963, because their daughter Marion Jane lived in the same building (a duplex) at 773 Castro at the time of his death. She lived only a few years later, passing away in 1969 and thus ending this branch of the Spaulding line.
+
+
+
+
+
+---
+
+[Sacramento Daily Union, Volume 29, Number 4424, 26 May 1865](https://cdnc.ucr.edu/?a=d&d=SDU18650526.2.5&srpos=1&e=-------en--20--1-byDA-txt-txIN-%22andrew+Spaulding%22-------)
+
+> Passengers from the East. — The following persons in addition to those recently published in the Ukios came passengers by the Moses Taylor, which recently arrived from Panama: W. F. HowUn, Miss X. E. Tripp, Mrs. C. C. Smart and infant, aad one child ; W. H. Andrews, Mrs Maria J. Spaulding and infant, Elizabeth Rea, E. T. Rees, W. V. Brown, W. Walden and wife. Ellen Boyle, Mrs. It. Welch, two children and infant : George lieattie and wife, J. Peaker and wife, J. P. Emerston and wife, A. W. Worm, W. B. Duncroe, John Torrey, Andrew Spaulding and wife, 
+
+
+[Daily Alta California, Volume 20, Number 6762, 20 September 1868](https://cdnc.ucr.edu/?a=d&d=DAC18680920.2.7&srpos=2&e=-------en--20--1-byDA-txt-txIN-%22andrew+Spaulding%22-------)
+
+Wins a prize for his watchmaker's lathe at the Mechanic's Industrial Fair
+
+> In addition to the list already published in the Alta the following further awards have been made public by the Board of Managers of the Mechanics' Institute. [...] Andrew Spaulding, for watchmaker's lathe, diploma.
+
+
+[Daily Alta California, Volume 25, Number 8381, 9 March 1873](https://cdnc.ucr.edu/?a=d&d=DAC18730309.2.56.1&srpos=3&e=-------en--20--1-byDA-txt-txIN-%22andrew+Spaulding%22------- )
+
+> BORN. In this city, February 25th, to the wife of Andrew Spaulding, a daughter.
+
+
+[Ventura Signal, Volume VI, Number 1, 22 April 1876](https://cdnc.ucr.edu/?a=d&d=VS18760422.2.22.8.2&srpos=6&e=-------en--20--1-byDA-txt-txIN-%22andrew+Spaulding%22-------)
+
+It looks like the Spaulding family got into inventing... fruit drying machines?
+
+> Parties wishing to see the Fruit dried by this Machine can obtain samples of the proprietors, also of Strong & Williamson, 418 Clay street,San Francisco, or W. R. Strong & Co., Sacramento. Address SPAULDING & BRO., EAST PORTLAND, OREGON. ANDREW SPAULDING, 122 FOURTH ST., SAN FRANCISCO. Agents Wanted throughout the United States.
+
+
+[Pacific Appeal, Volume XV, Number 31, 23 March 1878](https://cdnc.ucr.edu/?a=d&d=PA18780323.2.10.1&srpos=8&e=-------en--20--1-byDA-txt-txIN-%22andrew+Spaulding%22-------)  Ad for Andrew's watchmaking and repair - 22 Fourth st
+
+[Daily Alta California, Volume 35, Number 12079, 20 May 1883](https://cdnc.ucr.edu/?a=d&d=DAC18830520.2.59.1&srpos=9&e=-------en--20--1-byDA-txt-txIN-%22andrew+Spaulding%22-------)  Andrew's mother passes away
+
+
+
+These might be a different guy - in Fresno
+
+[Expositor, Volume IV, Number 108, 4 February 1884](https://cdnc.ucr.edu/?a=d&d=FDE18840204.2.2&srpos=10&e=-------en--20--1-byDA-txt-txIN-%22andrew+Spaulding%22-------)
+
+Real estate transaction Feb 2 1884 - Fresno??
+
+> A A Dietrick to Andrew Spaulding, E 1/2 of Sec 29, T14 S, R17, E, $5. 
+
+[Expositor, Volume IV, Number 131, 1 March 1884](https://cdnc.ucr.edu/?a=d&d=FDE18840301.2.2&srpos=11&e=-------en--20--1-byDA-txt-txIN-%22andrew+Spaulding%22-------)
+
+> Andrew Spaulding to Jno Calhoun SW 1/4 of NW 1/4 of Sec 31. T 14 S, R [illegible] E, $100
+
+... this goes on to 1886
+
+
+[Daily Alta California, Volume 42, Number 14218, 9 August 1888](https://cdnc.ucr.edu/?a=d&d=DAC18880809.2.61&srpos=31&e=-------en--20--21-byDA-txt-txIN-%22andrew+Spaulding%22-------)
+
+> Mortgages
+> Andrew Spaulding to [Hibernia Savings and Loan Society], 2 years, 6 per cent. lot on E line of Castro, 125 S of Serente«ntb. st, S 55, E 148, N 80, W 68, S 25, W 80, to beginning. $2000. 
+
+[Daily Alta California, Volume 82, Number 33, 2 February 1890](https://cdnc.ucr.edu/?a=d&d=DAC18900202.2.70&srpos=32&e=-------en--20--21-byDA-txt-txIN-%22andrew+Spaulding%22-------)
+
+> Andrew Spaulding to Hibernia Savings and Loan Society, 2 years, 6 per cent, S California, 97.6 W Mason, W 20x60, $2000.
+
+[Daily Alta California, Volume 84, Number 44, 13 February 1891](https://cdnc.ucr.edu/?a=d&d=DAC18910213.2.99&srpos=33&e=-------en--20--21-byDA-txt-txIN-%22andrew+Spaulding%22-------)
+
+> Andrew Spaulding has filed a protest with the Board ot Supervisors against an order of Superintendent of Streets Gilleran, compelling the removal of a plank walk just built in front of So. 1011 California street. He says the walk was bnilt before the older against such construction was made.
+
+[Daily Alta California, Volume 84, Number 92, 2 April 1891](https://cdnc.ucr.edu/?a=d&d=DAC18910402.2.82&srpos=34&e=-------en--20--21-byDA-txt-txIN-%22andrew+Spaulding%22-------)
+
+> Mortgages. Fernando Nelson to Andrew Spaulding, 1 year, 7 per cent, N Twenty-fifth, 215 W ii'oe, W 25x1 14, $550.
+
+Huh.
+
+[Times Gazette, Volume XXXVII, Number 25, 21 September 1895](https://cdnc.ucr.edu/?a=d&d=TG18950921.2.29.2&srpos=35&e=-------en--20--21-byDA-txt-txIN-%22andrew+Spaulding%22-------)
+
+> Epitome of Records - As abstracted by W. J. McGarvey, Deputy County Recorder
+> July 3, 95 — Cypress Lawn Impt Co to Andrew Spaulding, lot 51 Sec “E" Cypress Lawn Cemetery 200 [presumably dollars]
+
+[Expositor, Volume XXVIII, Number 17, 22 October 1895](https://cdnc.ucr.edu/?a=d&d=FDE18951022.2.2&srpos=36&e=-------en--20--21-byDA-txt-txIN-%22andrew+Spaulding%22-------)
+Maybe it is the same guy? Out in Fresno they're reporting he's involved the [Theodore Durant](https://en.wikipedia.org/wiki/Theodore_Durrant) [murder](https://www.cdcr.ca.gov/insidecdcr/2018/07/14/1897-film-of-convicted-killer-durrant-shapes-prison-policy/) [case](https://www.kqed.org/news/11965502/murder-in-the-belfry-how-the-story-of-theodore-durrant-captivated-victorian-san-francisco)] where a body was found at Emmanuel Church.  
+
+> The first step was to refute the statement of Durrant that the trustees of Emmanuel Church asked him to repair the gas fixtures at the church last April. P. D. Cole, C. G. Noble, Joseph Davis, Andrew Spaulding and A. D. Vogel, trustees of the church, when called to the stand, testified that they did not ask Durrant to make repairs.
+
+Okay this was apparently a sensational story, it's reported all up and down California. Only one is more than just a reprinting (presumably because the reporter was in the courthouse): [San Francisco Call, Volume 78, Number 145, 23 October 1895](https://cdnc.ucr.edu/?a=d&d=SFC18951023.2.102.1&srpos=41&e=-------en--20--41-byDA-txt-txIN-%22andrew+Spaulding%22-------)
+
+> Andrew Spaulding, a trustee of the church, testified that he had nothing to do with the lighting apparatus, and had not requested Durrant to repair it.
+
+
+[Sausalito News, Volume 12, Number 18, 6 June 1896](https://cdnc.ucr.edu/?a=d&d=SN18960606.2.42.2&e=-------en--20--41-byDA-txt-txIN-%22andrew+Spaulding%22-------)
+
+> State and County Tax Sale
+> Spaulding, Andrew, assessment number 2036, road district number two, Eastland school district, the mortgage interest in lots in Mill Valley, known as lots one and two, block two, 2A, valued at $700, improvements $1300, asssessed to John C. Spencer, created by a mortgage executed by John C. Spencer to Andrew Spaulding and recorded in liber ten of mortgages on page 187, for the sum of $2000, valued at $2000; total value of all property after deduction by State Board of Equalization $1800; total tax due thereon $27, due on first installment $13.50, due on second installment $13.50; add to first installment 20 per cent, add to second installment 5 per cent; total tax due thereon with penalties and costs .......................... $30 87
+
+
+[San Francisco Call, Volume 80, Number 168, 15 November 1896](https://cdnc.ucr.edu/?a=d&d=SFC18961115.2.181.10&srpos=44&e=-------en--20--41-byDA-txt-txIN-%22andrew+Spaulding%22-------)
+
+They attended a surprise party party
+
+> SURPRISE PARTY. Musicale and Reception in Honor of Mrs. R. W. Moore.
+> A MOST successfully planned surprise party was that given to Mrs. R. \V. Moore at her residence on Valencia street, corner of Twentieth, lust Monday evening. Quite an ambitious programme waa rendered, consisting of instrumental selections by Miss Lotta Underbill ; vocal solos by Miss Grace Corwin. Mrs. W. Z King and H. Jones and a recitation by Miss Boardman. Remarks befitting the occasion were made by Dr. J. George GiDson, Rev. A. • M. Russell and A. B. Cheney, after which an elegant supper was served.
+
+
+[San Francisco Call, Volume 82, Number 46, 16 July 1897](https://cdnc.ucr.edu/?a=d&d=SFC18970716.2.124.4&srpos=45&e=-------en--20--41-byDA-txt-txIN-%22andrew+Spaulding%22-------)
+
+Listed as a creditor of an insolvent watchmaker
+
+> Failure of a Jeweler.
+> OAKLAND, Cal., July 15. — Charles Conger, a 'jeweler and watchmaker, has filed a petition of insolvency. He owes $6156 and his assets are realty valued at $2500. mortgaged for $1450, personal property $368, all exepty from attachment." His prinipal creditors are: E. H. Lester, of San francisco $2261. Agard & Co. $55, R. H. Parkinson $600, William M. Cannon of San Francisco $1000. Andrew Spaulding of San Francisco $500, Loan Association $1450.
+
+[Marin Journal, Volume 41, Number 9, 16 May 1901](https://cdnc.ucr.edu/?a=d&d=MJ19010516.2.73&srpos=46&e=-------en--20--41-byDA-txt-txIN-%22andrew+Spaulding%22-------)
+More real estate transactions.
+
+[Marin County Tocsin, Volume 23, Number 7, 8 June 1901](https://cdnc.ucr.edu/?a=d&d=MCT19010608.2.10&srpos=47&e=-------en--20--41-byDA-txt-txIN-%22andrew+Spaulding%22-------)
+Still more.
+
+[San Diego Union and Daily Bee, 2 December 1906](https://cdnc.ucr.edu/?a=d&d=SDDU19061202.2.134&srpos=48&e=-------en--20--41-byDA-txt-txIN-%22andrew+Spaulding%22-------)
+
+> 12-8-'06 — Andrew Spaulding to Susan Spaulding, lot I blk 135. as laid down and No. on map of Horton's addition made by Jas Pascoe, said lot I being bounded on the east by Tenth street, according to aforesaid map, being the same lot described in that certain deed from J. W. Gate to Andrew Spaulding, dated 11-6-69. and recorded 12-4-'69. Deeds, page 401, also lots 5, 6, blk 28, Ocean Beach Tract; consideration, love and affection.
+
+
+[Fresno Evening Herald, Volume XLVI, Number 152, 25 June 1912](https://cdnc.ucr.edu/?a=d&d=FHD19120625.2.34&srpos=50&e=-------en--20--41-byDA-txt-txIN-%22andrew+Spaulding%22-------)
+
+> Mrs. W. C. Guard presided over a congenial gathering of old friends today at her L street home, complimenting Mrs. Andrew Spaulding of San Francisco who is the house guest of Mrs. W. E. Toms. The afternoon was passed informally over their workbags and at its conclusion ices were served. Mrs. Spaulding is a delegate to the Christian Endeavor convention and arrived several days ago in order to visit friends befors the sessions of the convention begin.
+
+
+[San Francisco Call, Volume 111, Number 4, 4 December 1911](https://cdnc.ucr.edu/?a=d&d=SFC19111204.2.49.6&srpos=49&e=-------en--20--41-byDA-txt-txIN-%22andrew+Spaulding%22-------)
+
+> SPAULDING MEMORIAL WINDOW IS UNVEILED - Widow of Prominent Baptist Is the Donor
+> At the First Baptist church, Octavia and Market streets, yesterday morning, the first of the elaborate series of memorial windows for the auditorium was unveiled. The window, is one of a series of 11 to be made by Alexander Booker of Bruges, Belgium, depicting notable scenes in the life-of Christ. The window unveiled yesterday was the gift of Mrs. Susan Spaulding of 458 Castro street, a member of the church, and is given in memory of her late husband Andrew Spaulding, who was for 40 years identified with the Baptist cause in San Francisco.
