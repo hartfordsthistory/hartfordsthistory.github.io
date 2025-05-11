@@ -8,12 +8,11 @@ classes: wide
 
 This page is devoted to documenting the history of this tiny slice of Eureka Valley, partly because I enjoy researching and sharing.
 
+Hartford St North is an example of blue-collar Victorians in the "streetcar suburbs" growing in San Francisco at the turn of the century. These houses are the transition period between the vernacular, non-professional infill housing in chaotically inclusive urban spaces, and the commissioned exclusive automobile-reliant suburbs of the 1920s and later. While Hartford North was a new residential block and thus exempt from the "annoyances of neighborly industry", it was also populated by workers of those industrial jobs, as well as itinerant peddlers and service laborers. As non-status buildings - specifically meant to be _owned_ by blue-collar workers and not just rented to them - the buildings on Hartford St are a rare survival, and illustrate the incredible quality of life available to migrants willing to make the trip West.
 
-Hartford St North is an example of blue-collar Victorians in the "streetcar suburbs" growing in San Francisco at the turn of the century. These houses are the transition period between the vernacular, non-professional infill housing in chaotically inclusive urban spaces, and the commissioned exclusive automobile-reliant suburbs of the 1920s and later. While Hartford North was a new residential block and thus exempt from the "annoyances of neighborly industry", it was also populated by workers of those indutrial jobs, as well as itinerant peddlars and service laborers. As non-status buildings - specifically meant to be _owned_ by blue-collar workers and not just rented to them - the buildings on Hartford St are a rare survival, and illustrate the incredible quality of life available to migrants willing to make the trip West.
+The 0-100 block of Hartford St is (*almost*) solely the work of "master builder" Fernando Nelson, who famously built thousands of homes in SF over the course of his half-century career, and acted as one-man loan agency to many of his customers.
 
-The 0-100 block of Hartford St is almost solely the work of "master builder" Fernando Nelson, who famously built thousands of homes in SF over the course of his half-century career, and acted as one-man loan agency to many of his customers.
-
-
+If you're still standing in front of my sign, turn around and look across the street to the blue house. Then scroll down.
 
 ## The first new house on Hartford St
 A moment in time - 10:30 am on June 28, 1900
