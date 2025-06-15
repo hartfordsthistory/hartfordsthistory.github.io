@@ -2,7 +2,7 @@
 title: 1915 residents - North
 ---
 
-<table>
+<table vertical-align="bottom">
 <tr><th>West</th><th>East</th></tr>
 <tr><td>
 
