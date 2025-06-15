@@ -36,12 +36,12 @@ Should have some pretty map image of Hartford st here.
 
 [1880 Langley](https://archive.org/details/langleyssanfranc1880sanf/page/n57/mode/2up)
 street directory
-> Hartford, bet Xoe and Castro fm Eighteenth S to Twentieth. 
+> Hartford, bet Noe and Castro fm Eighteenth S to Twentieth. 
 Residential
 > Bean David F.. porter Haas Brothers, r. E s Hartford, bet Eighteenth and Nineteenth 
 > Beretta John, machinist, r. S s Nineteenth, bet Cas-tro and Hartford 
->Britton Patrick, laborer, r. E s Hartford, bet Eight-eenth and Nineteenth 
->Glennan Richard, laborer, r. E 8 Hartford, bet Eight-eenth and Nineteenth 
+> Britton Patrick, laborer, r. E s Hartford, bet Eight-eenth and Nineteenth 
+> Glennan Richard, laborer, r. E 8 Hartford, bet Eight-eenth and Nineteenth 
 > Glennan William, laborer, r. E s Hartford, bet Eight- eenth and Nineteenth 
 > Green William, trunkmaker, r. S s Eighteenth, bet Castro and Hartford 
 > Joost B. & M. (Behrend and Martin) general commission merchants, SW cor Eighteenth and Hartford 

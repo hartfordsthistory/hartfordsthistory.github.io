@@ -14,9 +14,9 @@ Hartford St North was originally listed as "Mission block 114", and only much la
 
 This was the last block in the area to be developed, due to the conflicting land claims, and the protracted probate battle (and intra-family strife) in the J.P. Treadwell estate.
 
-Additionally, Hartford St in its entirety was renumbered some time between 1900 and 1901; Hartford St Central was originally 1-50, and Hartford South was 51-100.
+Additionally, Hartford St in its entirety was renumbered some time between 1900 and 1901; Hartford St Central and South were weirdly numbered, consecutively upwards as you went south on the west side, then crossing the street and continuing as you went north. These were renumbered later to fit the SF municipal scheme, which is to say the house numbers increase by about 100 each block you get further away from Market, and odd numbers are on one side, even on the other.
 
-When the third block was cut and it got closer to Market St, the blocks were renumbered to match the rest of the City's numbering convention, which is to say the house numbers increase by about 100 each block you get further away from Market. Hartford North became 0-99, Hartford Central became 100-199, and Hartford South became 200-299.
+When the third block was cut and it got closer to Market St, the blocks were renumbered _again_ . Hartford North became 0-99, Hartford Central became 100-199, and Hartford South became 200-299.
 
 ## Andrew Christensen swoops in
 

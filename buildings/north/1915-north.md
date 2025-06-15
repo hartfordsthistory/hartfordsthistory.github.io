@@ -7,8 +7,6 @@ read_time: false
 <table>
 <tr><th>West</th><th>East</th></tr>
 <tr><td style="vertical-align: text-top;">
-
-
 <li> 20 Hartford, MtePhillips Edw B (Bessie), clk W A Plummer Mfg Co</li> 
 <li> 20 Hartford, McPhillips Harold E, clk</li> 
 <li> 24 Hartford, Hertzmann Leo (Clara), dry goods 495 Castro</li> 
