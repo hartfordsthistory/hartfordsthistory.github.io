@@ -1,10 +1,12 @@
 ---
 title: 1915 residents - North
+classes: wide
+read_time: false
 ---
 
-<table vertical-align="top">
+<table>
 <tr><th>West</th><th>East</th></tr>
-<tr><td>
+<tr><td style="vertical-align: text-top;">
 
 
 <li> 20 Hartford, MtePhillips Edw B (Bessie), clk W A Plummer Mfg Co</li> 
@@ -29,9 +31,7 @@ title: 1915 residents - North
 <li> 72 Hartford, McConologue Edw, with Williams Dimond & Co</li>
 </ul>
 
-</td>
-<td>
-
+</td><td style="vertical-align: text-top;">
 <ul>
 <li> 19 Hartford, Noriega Frances (wid Manuel), widow  </li> 
 <li> 19 Hartford, Springett Geo, police</li> 
