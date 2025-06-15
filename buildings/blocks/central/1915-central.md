@@ -1,0 +1,56 @@
+---
+title: 1915 residents - Central
+---
+
+ -  116 Hartford, Scrimgeour Robt (Lillie), plastr
+ -  118 Hartford, Lausten Hans I, auto mach 1639 Oak
+ -  120 Hartford, Parkinson Josephine (wid Thos), widow
+ -  123 Hartford, Ledderhos Albert F (Anna), cutter
+ -  126 Hartford, Hansen Christian (Dorothy), clk
+ -  126 Hartford, Walton Ellison O. (Dorothy), engr.
+ -  131 Hartford, Feeney Danl, truckman S F F D
+ -  136 Hartford, Evans Chas (Emily), (Western Dairy Co)
+ -  136 Hartford, Evans Wm, driver
+ -  136 Hartford, Evans Wm B, 
+ -  142 Hartford, Hore Jas M (Josephine), Hore & Lawley
+ -  145 Hartford, Steinbrlng Chas J (Anna T), market 2299 Market
+ -  147 Hartford, Vella Gaetano F (Mary), (Vella & Co)
+ -  148 Hartford, Jackson Lawrence L (Mary), police
+ -  148 Hartford, Nagle Thos, mach
+ -  149 Hartford, Maloney Bridget T (wid Patrick), widow
+ -  149 Hartford, Maloney Wm J, plumber
+ -  150 Hartford, Flanagan J., 
+ -  150 Hartford, Flanagan Kate (wid Jas), widow
+ -  152 Hartford, Moran J, calker
+ -  152 Hartford, Moran John (Elizabeth), boilermkr
+ -  155 Hartford, Morrison Alex J (Catherine), painter
+ -  156 Hartford, Tuite Jos (Catherine), dep Assessor
+ -  157 Hartford, Deasy Patrick (Catherine), plastr
+ -  159 Hartford, Mills Fred A (Maud), steamftr
+ -  160 Hartford, McEvov Jos G (Helen), plastr
+ -  161a Hartford, Lagueins Juliet Mrs, 
+ -  161b Hartford, Hardy Nellie (wld Jos), 
+ -  163 Hartford, Mahoney Mabel O Mrs, tehr Pub School
+ -  164 Hartford, Ilg Ernest (Elizabeth), cabtmkr
+ -  164 Hartford, Ilg Ernest E, pipeftr
+ -  164 Hartford, Ilg Wm H, carpetlayer
+ -  166 Hartford, Krieger Walter H, stenogr Shreve & Co
+ -  171 Hartford, Ernst Herman, bkpr
+ -  171 Hartford, Ernst Hermann, cashr L Feldmann & Co
+ -  171 Hartford, Ernst Johanna, widow
+ -  171 Hartford, Ernst Thos B., musician
+ -  173 Hartford, Lee Milton A (Bessie), mgr Diamond Welding Co
+ -  173 Hartford, Vanderbyll Henry R, guide P P I Ex
+ -  174 Hartford, Kempton Geo, ironwkr
+ -  174 Hartford, Moll Fredk, printer
+ -  174 Hartford, Moll Henry, salsn
+ -  180 Hartford, Herzberg August (Jane), cigars 2498 Mission
+ -  180 Hartford, Lang Robt, seaman
+ -  180 Hartford, Lang Robt, seaman
+ -  182 Hartford, Granville Jos O (Florence E), plumber
+ -  184 Hartford, Rvan Jas (Annie), lab
+ -  186 Hartford, Little Geo C (Margaret), cond
+ -  189 Hartford, Peterson Oscar E (Hazel), mach
+ -  191 Hartford, Nasser Elias (Helen), Palace Theatre
+ -  191 Hartford, Nasser Ellas (Helen), Palace Theatre
+ -  195 Hartford, McBride Jas A (Hattie), clk Langley & Michaels Co
