@@ -3,9 +3,9 @@ title: 1915 residents - North
 ---
 
 <table>
-<th><td>West</td><td>East</td></th>
-<tr>
-<td>
+<tr><th>West</th><th>East</th></tr>
+<tr><td>
+
 
 - 20 Hartford, MtePhillips Edw B (Bessie), clk W A Plummer Mfg Co
 - 20 Hartford, McPhillips Harold E, clk
