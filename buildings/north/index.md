@@ -74,6 +74,12 @@ Nelson then (grudgingly?) buys the lot for the apartment building at the SE corn
 
 
 
+On May 1st, 1902, [D.H. Wulzen scales Corbett and takes this amazing photo](https://digitalsf.org/record/10059), from which we can see the backs of the West side houses, and the tippy tops of the East siders, along with Meeter House, the windmill and water tank, and the Spaulding's paddock.
+
+![May 1 1902, view of the backs of the houses](images/dhwulzen-hartford-1902.jpg)
+
+
+
 
 | West          | ___ | East          |
 | ------------- | --- | ------------- |
