@@ -14,9 +14,13 @@ Hartford St North was originally listed as "Mission block 114", and only much la
 
 This was the last block in the area to be developed, due to the conflicting land claims, and the protracted probate battle (and intra-family strife) in the J.P. Treadwell estate.
 
+![alt text](blockbook-1894-north.png)
+
 Additionally, Hartford St in its entirety was renumbered some time between 1900 and 1901; Hartford St Central and South were weirdly numbered, consecutively upwards as you went south on the west side, then crossing the street and continuing as you went north. These were renumbered later to fit the SF municipal scheme, which is to say the house numbers increase by about 100 each block you get further away from Market, and odd numbers are on one side, even on the other.
 
 When the third block was cut and it got closer to Market St, the blocks were renumbered _again_ . Hartford North became 0-99, Hartford Central became 100-199, and Hartford South became 200-299.
+
+![block book 1901](/buildings/north/images/blockbook-1901-north.png)
 
 ## Andrew Christensen swoops in
 
@@ -104,3 +108,8 @@ On May 1st, 1902, [D.H. Wulzen scales Corbett and takes this amazing photo](http
 
 <https://opensfhistory.org/Display/wnp13.006b.jpg> looking ne from 18th st, circa 1907
 <https://opensfhistory.org/Display/wnp25.10866.jpg> east side, looking south to se-corner-apt, 1970s
+
+
+### 1909 block book
+
+![alt text](images/blockbook-1909-north.png)
