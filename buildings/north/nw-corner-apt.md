@@ -38,6 +38,10 @@ The notation on the building says it's a 4-story wood framed building on the cor
 Close up:
 ![alt text](images/nw-apt-1913-closeup.png)
 
+## 1905-1910ish
+
+A photo from the [SFPL shows "Knupfer Groceries at 17th and Harford[sic] Streets"](https://digitalsf.org/record/55370). So at least some of the stores remained after the move. The photo isn't well dated, so more research is warranted!
+
 ### 1948
 
 In the original location you can see the big chunk that was taken out of that corner lot with the widening of Market St and the construction of the tunnel. Also, you can see that the new weird-shaped corner lot has been a gas station for a very long time!
