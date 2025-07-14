@@ -5,6 +5,7 @@ read_time: false
 ---
 
 <table>
+<ul>
 <tr><th>West</th><th>East</th></tr>
 <tr><td style="vertical-align: text-top;">
 <li> 20 Hartford, MtePhillips Edw B (Bessie), clk W A Plummer Mfg Co</li> 
@@ -20,8 +21,8 @@ read_time: false
 <li> 44 Hartford, Melchior Henry (Elisa), ball player</li> 
 <li> 48 Hartford, Feehan Clarence, printer</li> 
 <li> 52 Hartford, Sutherland Alex R (Lena), salsn</li> 
-<li> 56 Hartford, MuUee Ann (wid Jas), widow</li> 
-<li> 56 Hartford, MuUee John, packer</li> 
+<li> 56 Hartford, Mullee Ann (wid Jas), widow</li> 
+<li> 56 Hartford, Mullee John, packer</li> 
 <li> 60 Hartford, O'Connor John D (May), shoemkr</li> 
 <li> 60 Hartford, O'Connor John, </li> 
 <li> 65 Hartford, Herbert Wm, barber 990 Howard</li> 
