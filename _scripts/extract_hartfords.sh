@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Usage: ./extract_hartford.sh inputfile.txt outputfile.txt
-# Defaults to "hartford_matches.txt" if no output file is specified
+# Defaults to "hartford_matches_(inputfile_name without extension).txt" if no output file is specified
 
 INPUT="${1:-1915crockerlangley.txt}"
-OUTPUT="${2:-hartford_matches.txt}"
+OUTPUT="${2:-hartford_matches_${INPUT%.*}.txt}"
 
 awk '
 /^[[:space:]]*$/ { next }  # skip blank lines

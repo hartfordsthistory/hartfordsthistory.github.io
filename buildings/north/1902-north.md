@@ -51,5 +51,3 @@ read_time: false
 </td>
 </tr>
 </table>
-
-
