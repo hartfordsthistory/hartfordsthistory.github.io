@@ -1,13 +1,46 @@
 #!/bin/bash
-# Usage: ./extract_hartford.sh inputfile.txt [outputfile.txt] --debug
-# Defaults to "hartford_matches_(inputfile_name without extension).txt" if no output file is specified
-# Also logs skipped lines and reasons to debugfile.txt (default: hartford_skipped_(inputfile_name without extension).txt)
+# Usage: ./extract_hartford.sh inputfile.txt [outputfile.txt or directory] 
+# Output file defaults to "hartford_matches_(inputfile_name without extension).txt" if no output file is specified
+# If a directory is specified, saves all files to that directory using default names.
+# Uses "hartford_matches_(inputfile_name without extension).txt" in that directory
+# Also logs skipped lines and reasons to "hartford_skipped_(inputfile_name without extension).txt" in that directory
+#!/bin/bash
+# Usage: ./extract_hartford.sh inputfile.txt [outputfile.txt or directory]
 
-INPUT="${1:-1915crockerlangley.txt}"
-OUTPUT="${2:-hartford_matches_${INPUT%.*}.txt}"
-# Debug file is created by default now
+# Check input
+if [ -z "$1" ]; then
+    echo "Usage: $0 inputfile.txt [outputfile.txt or directory]"
+    exit 1
+fi
+if [ ! -f "$1" ]; then
+    echo "Error: Input file '$1' not found!"
+    exit 1
+fi
+INPUT="$1"
+
+# Determine output and debug paths
+if [ -z "$2" ]; then
+    # No output specified: same dir as script run
+    BASENAME_NOEXT="$(basename "$INPUT" .txt)"
+    OUTPUT="hartford_matches_${BASENAME_NOEXT}.txt"
+    DEBUG_FILE="hartford_skipped_${BASENAME_NOEXT}.txt"
+elif [ -d "$2" ]; then
+    # $2 is a directory
+    BASENAME_NOEXT="$(basename "$INPUT" .txt)"
+    OUTPUT="$2/hartford_matches_${BASENAME_NOEXT}.txt"
+    DEBUG_FILE="$2/hartford_skipped_${BASENAME_NOEXT}.txt"
+else
+    # $2 is a file path
+    OUTPUT="$2"
+    BASENAME_NOEXT="$(basename "$OUTPUT" .txt)"
+    DEBUG_FILE="$(dirname "$OUTPUT")/hartford_skipped_${BASENAME_NOEXT}.txt"
+fi
+
+# Ensure output directory exists
+mkdir -p "$(dirname "$OUTPUT")"
+mkdir -p "$(dirname "$DEBUG_FILE")"
+
 DEBUG_MODE=1
-DEBUG_FILE="${4:-hartford_skipped_${INPUT%.*}.txt}"
 
 awk -v debug="$DEBUG_MODE" -v dbgfile="$DEBUG_FILE" '
 /^[[:space:]]*$/ { next }  # skip blank lines
@@ -27,9 +60,6 @@ awk -v debug="$DEBUG_MODE" -v dbgfile="$DEBUG_FILE" '
     else if (t ~ /fire[[:space:]]*(ins|ins\.|insurance)/) { reason="fire ins" }
     else if (t ~ /hartford[[:space:]]*f[i1]re/)         { reason="Hartford Fire" }
 
-
-
-    # Only log to debug if it is a hartford match AND triggers an exclusion
     if (reason != "" && is_hartford) {
         if (debug == 1 && dbgfile != "") {
             print "[SKIPPED:" reason "] " $0 >> dbgfile
@@ -37,7 +67,6 @@ awk -v debug="$DEBUG_MODE" -v dbgfile="$DEBUG_FILE" '
         next
     }
 
-    # --- Output Hartford street variants ---
     if (is_hartford) {
         for (i = NR - 2; i <= NR + 2; i++) {
             if (i in line && !(i in printed)) {
@@ -47,9 +76,12 @@ awk -v debug="$DEBUG_MODE" -v dbgfile="$DEBUG_FILE" '
         }
         print "---"
     }
-}
-' "$INPUT" > "$OUTPUT"
+}' "$INPUT" > "$OUTPUT"
 
-# write to console what you did
+# only print this if the run was successful
+if [ $? -ne 0 ]; then
+    echo "Error during processing."
+    exit 1
+fi
 echo "Extracted Hartford-related entries from '$INPUT' to '$OUTPUT'."
 echo "Skipped lines logged to '$DEBUG_FILE'."
