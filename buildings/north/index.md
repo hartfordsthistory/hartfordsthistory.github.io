@@ -14,7 +14,7 @@ Hartford St North was originally listed as "Mission block 114", and only much la
 
 This was the last block in the area to be developed, due to the conflicting land claims, and the protracted probate battle (and intra-family strife) in the J.P. Treadwell estate.
 
-![alt text](blockbook-1894-north.png)
+![alt text](/buildings/north/images/blockbook-1894-north.png)
 
 Additionally, Hartford St in its entirety was renumbered some time between 1900 and 1901; Hartford St Central and South were weirdly numbered, consecutively upwards as you went south on the west side, then crossing the street and continuing as you went north. These were renumbered later to fit the SF municipal scheme, which is to say the house numbers increase by about 100 each block you get further away from Market, and odd numbers are on one side, even on the other.
 
