@@ -1,0 +1,897 @@
+BRIDGEPORT 
+HARTFORD 
+---
+Noe 4000  4001 
+Hartford 4050  4051 
+---
+Line 
+Hartford,  from  S  s  Seventeenth  bet 
+---
+Xoe 4000  4001 
+Hartford 4050  4051 
+---
+Nor 
+Hartford 
+---
+Noe 4100  4111 
+Hartford 
+---
+Alkalay  Leopold    J,    diamond    setter,    704 
+Market,  r  36  Hartford 
+---
+Arrigoni  Hugo    (C    Arrigoni    Co)    r    218 
+Hartford 
+---
+ter 
+Barbee  Ellis  W,  drayman,  r  3782,  16th 
+Barbee  Jesse  W,  painter,  r  123  Hartford 
+---
+r  622  Hayes 
+Barg  J  Fredk,  cashier  Hart-Wood  Lum- 
+---
+Bargagliotti  Frank,  liquors,  4455  Mission 
+Barge  Office  (U  S  Customs)  ft  Powell 
+Barger  Frank,  lab,  r  258  Hartford 
+---
+Barnes  Henry  C,  salesman  Swift  &  Co, 
+r  37  Hartford 
+---
+McKinnon  Av 
+Barry  Catherine,   widow,   r   147   Hartford 
+---
+Bell  Horace    G,    master    mariner,    r    53 
+Hartford 
+---
+Bellis  John    O,    silversmith,    328    Post,    r 
+Bellis  North  A,  salesman  Hartford  Car- 
+---
+Bellisle  Dora  Mrs,  r  1380  Sutter 
+Bellisle  Frank  N,  r  1380  Sutter 
+Bellman  Cecil   J,   elk  P   O,    r   132    Hart- 
+---
+Larkin 
+Benjamin  Levi  M,  r  163  Hartford 
+---
+Benjamin  Mabel   O   Miss,    teacher  Public 
+School,  r  163  Hartford 
+---
+Bergman   Jacob,   dairyman,   r  2121   Beach 
+Bergman   Jacob,   liquors,    1701   Geary 
+Bergman  John  G,  teamster,  r  1319  Hart- 
+---
+Blake  Edw    M,    vice-pres    and    supt    Re- 
+liance   Foundry    (Inc)    r    752    Haight 
+Blake  Edwin    T,    electn,    r    242    Hartford 
+---
+Blunden  Walter    H,    restaurant    510    Va- 
+lencia, r  1259  Market 
+Blunt  Benj  F,  mach,  r  53  Hartford 
+---
+Brady  Margaret,  widow,  r  1290  Jackson 
+Brady  Mary,   widow,  r  2507  Pine 
+Brady  Mary  E,  widow,  r  220  Hartford 
+---
+Bragonier  Claris    Miss,    stenogr      Taylor 
+Paper  Co,  r  33  Hartford 
+---
+Bragonier  Emma  Mrs,   r  33   Hartford 
+---
+Bragonier  Harold,    elk   Taylor  Paper  Co, 
+r  33  Hartford 
+---
+Bravo  Henry,     fruits     4057,     18th,     r    163 
+Hartford 
+---
+Hancock 
+Busch  &  Hartmann   (R  J  Busch.  G  Hart- 
+---
+Butler  J   J,    salesman   Sommer   &  Kauf- 
+mann,  r  152  Hartford 
+---
+Casey  Jas  P,  drayman,  r  270  Chattanooga 
+Casey  Jas  P,   stenogr,  r  138  Belvedere 
+Casey  Jeremiah,   elk  Hart-Wood  Lumber 
+---
+r  1679  Dolores 
+Casserly  Thos  E,  bartndr,  r  787  Castro 
+Casserly  Thos  J,  lab,  r  57  Hartford 
+---
+Cavanaugh  John,  boilermkr,  r  1058  Ken- 
+tucky 
+Cavanaugh  John,   engr,   r   43  Hartford 
+---
+Church 
+Chiappellone  Jos,   driver,   r  3138  Laguna 
+Chiappellone  Jos,  scavenger,  r  122  Hart- 
+---
+Chiosso  Philip,  lab,  r  49  Oakwood 
+Chiosso  Rinaldo,  cabtmkr,  r  47  Oakwood 
+Chiosso  Tillio,  bottler,  r  116  Hartford 
+---
+r  73  Collingwood 
+Christensen  Andrew  (Gibson  &  Christen- 
+sen)  r  29  Hartford 
+---
+Coll  Edw,  mgr  Hotel  Evans,  r  92  Castro 
+Coll  Eva   Mrs,   r   92   Castro 
+Coll  Frank,   elk  Hart-Wood   Lumber  Co, 
+---
+COLONIAL  FIRE  UNDERWRITERS 
+OP  HARTFORD,  Willard  O  Wayman 
+---
+SOCIETY,  I  w  Hell  man  Jr  pres, 
+Washington  Dodge  vice-pres  and  mgr, 
+G  Bacigalupi  vice-pres,  W  H  Hart- 
+---
+r  Oakland 
+Conklin  Milton   F,   elk   Hart-Wood  Lum- 
+---
+Cully  John,   rigger,   r  826  Arkansas 
+Cully  Jos.    lab,   r   3301a  Army 
+Cullv  Matthew    T,    r    250    Hartford 
+---
+Curran  Jas,    lab,   r  1134   Hampshire 
+Curran  Jas  A,  horseshoer,  r  3326,  26th 
+Curran  Jas    B,    chauffeur,    r   40    Hartford 
+---
+Nuhrenberg  sec,   995   Market 
+Cyrus  Henry   E,    carp,    r   64   Hartford 
+---
+art 
+Davies  David  M,  brklayer,  r  27  Hartford 
+---
+School,  r  500  Bartlett 
+Doherty  Mary  R  Mrs,  r  239  Hartford 
+---
+Dolan  Jas   J,  fireman,  r   1125   York 
+Dolan  Jas  W,  butcher,  r  152  Fillmore 
+Dolan  Jane  D,   widow,    r  43   Hartford 
+---
+Dolan  Robt       E,       salesman       Sussman, 
+Wormser   &   Co,    r   173    Hartford 
+---
+5  F,  r  1015  Hayes 
+Dollard  Robt    E,    special    agt    Hartford 
+---
+Drewes  Wm  P,  elk  Goldberg  Bowen  Co, 
+r    236    Hartford 
+---
+restaurant,  191,   4th 
+Droit  Addie  M,  widow,  r  276  Hartford 
+---
+Droit  Clarence   L,    elk,   r   276   Hartford 
+---
+Droit  Geo   W,    electn,    r    276    Hartford 
+---
+Duffy  Patrick   J    (Roddy   &   Duffy)    r   32 
+Hartford 
+---
+Dwyer  Michael   J,  hoseman  Engine   44,   r 
+239   Hartford 
+---
+Dwyer  Thos  B,   bartndr,   r  48  Pearl 
+Dwyer  Timothy,  molder,   r  1137  Folsom 
+Dwyer  Timothy  J,  teamster,  r  239  Hart- 
+---
+Earle  John       B,       with       Anglo-London- 
+Paris   Nat   Bank,   r  Oakland 
+Earle  Louis     H,     special     agt     Hartford 
+---
+Elliott  G,    watchman,    r    223a   Clara 
+Elliott  Geo,    lodgings,    1738    Fillmore 
+Elliott   Geo,    switchman,    r    202    Hartford 
+---
+Engelage  Madeline,    widow,    r    1164    Ala- 
+bama 
+Engelberg  Anna,   widow,   r    231    Hartford 
+---
+Henry  A)    plumbers,   633   Hayes 
+Ernst  Herman,  cashier,  r  171  Hartford 
+---
+Ernst  Richard,     salesman,     r     204     Fill- 
+more • 
+Ernst  Thos  B,  musician,  r  171  Hartford 
+---
+Evans  Chas    (Western   Dairy   Co)    r    136 
+Hartford 
+---
+Evans  Chas  Jr,  collr  Western  Dairy  Co, 
+r  136  Hartford 
+---
+Evans  Wm  B,  foreman  Western  Dairy 
+Co,   r   136   Hartford 
+---
+Apts,  r  2306  Market 
+Ewan  Antonea,   widow,  r  238  Hartford 
+---
+ti)    r    1901    Stockton 
+Fanucchi  Benardo,  groceries,  391   Chart- 
+---
+Feeney  Annie,  widow,  r  318  Madrid 
+Feeney  Cecelia  C,  widow,  r  455   Minna 
+Feeney  Daniel  F,  plasterer,  r  131a  Hart- 
+---
+Feeney  T,   picture   wkr,    r    1453    Post 
+Feeney  Thos  F,  elev  opr,  r  632a  3d  Av 
+Feeney  Thos   J,   policeman,    r   131    Hart- 
+---
+Finn  Hannah  Miss,  r  2182a  Market 
+i'lnn  James,  driver,  r  611  Bryant 
+Finn  Jas,  lab,  r  32  Hartford 
+---
+Co,  r  1206  Fulton 
+Finn  John,  opr,  r  142  Hartford 
+---
+Co,  r  Palace  Hotel 
+Fitzsimmons  Jas,   r  48  Hartford 
+---
+Foster)    r    935    Leavenworth 
+Foster  Thoe,   bartndr,   r  1519   Mason 
+Foster  Thos,  teamster,  r  184   Hartford 
+---
+fornia 
+Fraser  Clara,  widow,  r  1640  Hayes 
+Fraser  Cyril,    laundrywkr,    r    266    Hart- 
+---
+865  Valencia 
+Galvin  Jos,  elev  opr,  r  150  Hartford 
+---
+291,   13th 
+Galvin  Michael   P,    carp,    r    150   Hartford 
+---
+Galvin  Patrick,   foreman,   r  1682  Howard 
+Galvin  Paul,  lab,  r  150  Hartford 
+---
+Galvin  Wm,   r   937    Shotwell 
+Galvin  Wm,   fireman,   r  2215   Greenwich 
+Galvin  Wm,   gasmkr,  r  150  Hartford 
+---
+Garrity  Jas   Jr,   mtrman,   r  1811   Haight 
+Garrity  Jas   L,   lineman,   r   135    Capp 
+Garrity  John,   lab,   r   57   Hartford 
+---
+Linden 
+Geraghty  John,    lab,    r    5    Aztec 
+Geraghty  John,    lab,    r   57    Hartford 
+---
+r  497   Guerrero 
+Gibson  E  E,  millinery.  376  Sutter 
+Gibson  E  E,   propr  Hotel  Hartford,   1151 
+---
+Giles  Martha  C,  widow,   42,   19th  Av 
+Giles  Michael   J,   salesman   Geo   W   Cas- 
+well Co,  r  57  Hartford 
+---
+Av 
+Gilliland  Adam,   asst    genl   agt   Hartford 
+---
+Nat  Bank,  r  Berkeley 
+Glockner  Otto,    mach,   r  73   Hartford 
+---
+Sacramento 
+Granville  Gordon  H,   lab,  r  182  Hartford 
+---
+Granville  Jas  J,  elk,  r  4231,  18th 
+Granville  Jos  C,  painter,   r  579  Waller 
+Granville  Jos  O,  plumber,  r  182  Hartford 
+---
+dero 
+Haderlein  Carl,   sausagemkr,   r  863   Eddy 
+Hadfield  Chas.  lab.   r  258  Hartford 
+---
+O'Farrell 
+Hammond  Fred,   elk  Hart-Wood  Lumber 
+---
+Hardy  Nellie,    widow,    r    40    Hartford 
+---
+Harrington  Wm     D,     stableman,     r     226 
+Hartford 
+---
+cor  Railroad  and  Jamestown  Aves 
+Harrison  The,  lodgings,  456  Harrison 
+Harrison  Thos,  teamster,  r  57  Hartford 
+---
+HARTFORD  CABPETS  AND  BUGS, 
+---
+WnrU^H  ?6k    A^  ^b>    r    108    Naglee   Av 
+Hartford  John,    driver  Engine   33    r   0,U 
+---
+Broad  ' 
+Hartford  John   Jr,   lab,   r   234   Broad 
+---
+Mann   &   Co,    genl   agts    339-341    San- 
+some, tel  Kearny  4566 
+Hartford  The,    1151   Polk 
+---
+#®*Hartford.      See   Harford 
+---
+Heai8thAda     M     MiSS>     millinery.     4316 
+Healey  Albert  M,  molder,  r  3271    21st 
+Hea  ey  Arthur    cook,   r   257    Hartford 
+---
+r1T24^thiAvbr0ker'    514    Califor™. 
+He  Hartford  F'  clk  A  T  &  S  F  Ry,  r  257 
+---
+&  Prov  Co,  r  Alameda 
+Heinshut  Fredk,  ironwkr,  r  73  Sumner 
+Heintz  C  D,  cond,  r  123  Hartford 
+---
+Market,    r    Oakland 
+Hendrickson  Walter,      elk        Hart-Wood 
+---
+Herrington  Wm    M,    dentist,    2298    Mar- 
+ket,  r  24   Hartford 
+---
+Bank   Bldg 
+Herzberg  August,   r   180   Hartford 
+---
+r  2404  Broadway 
+Heyman  Benj,   pawn   broker,   r   126,    3d 
+Heyman  Edw,     elk    Hart-Wood    Lumber 
+---
+Hickok  Benj  F  Mrs,  widow,  r  2283  Green 
+Hicks  A  Clifton,  dentist,  r  1339,  48th  Av 
+Hicks  Ada,   widow,    r    71    Hartford 
+---
+Holland   Sandstone  Brick  Co,   22  Battery 
+Ho    and  Sarah,  widow,  r  667  Lake  View 
+Holland   Sophia,  widow,  r  53  Hartford 
+---
+ter 
+Hollingbery  Wm  V,  r  2073  Sutter 
+Hollingbery  Wm    V    Jr,     elk     Hartford 
+---
+Holluschickie  Club,  700  Mason 
+Hollwegs  John,  cigars,  r  70  Hartford 
+---
+Hnae    r  San  Anselmo 
+Holm°easVamie,  widow,  r  201%  Alma 
+Holmes  Martin  T.  tailor    r  266  Hartford 
+---
+Hotel  Harder,    1538   Kentucky 
+Hotel  Harrison,   397,   4th 
+Hotel  Hartford,    1151    Polk 
+---
+520    Alabama 
+Hurley  Jas,   lab,   r  127a  Perry 
+Hurley  Jas,   lab,   r   226  Hartford 
+---
+City 
+lies  Henry,  marble  cutter,  r  406  Haight 
+Ilg  Ernest,  cabtmkr,  r  164  Hartford 
+---
+Ilg  Ernest  I,  cabtmkr,  r  164  Hartford 
+---
+Ilg  Henry  I,  buyer  Getz  Bros  &  Co,  r  164 
+Hartford 
+---
+Ilg  Wm  H,  carpet  layer,  r  164  Hartford 
+---
+Jackson  Lawrence    L,    policeman,    r    148 
+Hartford 
+---
+Jacono  Eugene,  lab,  r  14  Hill 
+Jacono  John,    metalwkr,    r    25    Hartford 
+---
+Jeffers  Milo  F,  mfrs  agt,  995  Market,  r 
+45  Hartford 
+---
+Co    distributors,    143,    2d 
+Justet  E,  engraver,  r  250  Hartford 
+---
+Co,   r  641   California 
+Kaeintz  Chas  D,  cond,  r  123  Hartford 
+---
+3310    Sacramento,    r    440    Laurel 
+Kaeintz  Emil  A,  candy  mkr,  r  123  Hart- 
+---
+Kaeintz  Fredk,    bottler,    r    2209    Leaven- 
+worth 
+Kaeintz  Louis,  printer,  r  123  Hartford 
+---
+Kavanaugh  Jas  T,  pipefitter,  r  2748  Rail- 
+road Av 
+Kavanaugh  John,  contr,  r  43  Hartford 
+---
+Kavanaugh  John    J,    marine    engr,    r    43 
+Hartford 
+---
+lett,  r  1457a  15th 
+Kenney  Mary,  widow,  r  1212  Alabama 
+Kenney  Michael,    salesman,    r    57    Hart- 
+---
+Kenney  Patrick    J,    driver    Engine    40,    r 
+57  Hartford 
+---
+Kenney  Thos,    bkkpr,    468,    39th   Av 
+Kenney  Thos,   molder,   r   157   Octavia 
+Kenney  Thos,  teamster,  r  61  Hartford 
+---
+«S*Kenniff.     See  Conniff  and  Cunift 
+Kennigar  Jos,  steward,  r  3068,  24th 
+Kennison  Edgar    M,      cashier      Hartford 
+---
+tenson,    r    1484,    11th    Av 
+Keogh  Frank    T,    insp,    r   2512    Clay 
+Keogh  Jas,    lab,    r    57    Hartford 
+---
+Keogh  Letitia,   widow,    r   157    Jordan   Av 
+Keogh  Marie,   widow,   r   2512   Clay 
+Keogh  Michael,    mtrman,    r   57    Hartford 
+---
+Kins  John   J,   foreman,   r   175   Delmar 
+King  John  L,  millwright,  r  242  Hart- 
+---
+r  1374.   49th  Av 
+Knight  Margaret,    widow,    r   44    Hartford 
+---
+Knight  Oliver  M,  cigars,   2301   Market,   r 
+44  Hartford 
+---
+Krieger  Axel,   porter,   r  4200    Judah 
+Krieger  Chas,  baker,  r  108a  Fair  Oaks 
+Krieger  Chas,   candy   mkr,    r   166     Hart- 
+---
+Krieger  Walter  H,  with  Shreve  &  Co,   r 
+166  Hartford  Av 
+---
+&  Levinson,   r   1894   Pine 
+Kronholm  Wm  F    lab,  r  156  Hartford 
+---
+Lacoste  John   B,   butcher,    693    Castro,    r 
+276    Hartford 
+---
+Laird  John  H,  elk  Jos  A  Stulz  Co,  r  39 
+Hartford 
+---
+tractors,   1017-1023    Monadnock    Bldg 
+tels   Kearny    3526,    J    3456 
+Langenberger  Fredk   H,   elk,    r   65   Hart- 
+---
+Larking  Arthur      H,      foreman      Haslett 
+Whse  Co,  r  269  Hartford 
+---
+La  Rue  Melvin,  draftsman  Thos  Day  Co, 
+r  40  Hartford 
+---
+Lausten  C     M     Mrs      (Foerster-Lausten 
+Co)   r  28  Hartford  „„„  tt    , 
+---
+nita  Av  tkm    __     .^      . 
+Lausten  H    I,   mach,    r   28   Hartford 
+---
+T^fin  S3.S 
+Lawler  Michael,  marine  engr,  r  75  Hart- 
+---
+Haight 
+Lawrence  Stephen,    supt,    r    2514,    16th 
+Lawrence  Theo  B,  elk  Hart-Wood  Lum- 
+---
+Ledden  Jos    W,    broker,    r    5o7,    3d    Av 
+Ledden   Thos   J,    salesman,   r   523,   3d   Av 
+Ledderhos  Albert,    trimmer,    r    123    Hart- 
+---
+1855    Laguna 
+Lewis  Jerome,   painter,   r   53   Hartford 
+---
+r   2606   Folsom 
+Link  Wm,   butcher,    r   186   Hartford 
+---
+Loos  Jos   (Kimbell  &  Loos)   r  Oakland 
+Loose  Chas  J,   electn,   r  87,   11th 
+Loose  Harry,  elk  Hart-Wood  Lumber  Co, 
+---
+Lorenzen  Wm  T,  carp,  r  1045,   14th 
+Lorenzetti  Fred,    scavenger,    r   528    Ivy 
+Lorenzi  Bruno,   elk,   r  218  Hartford 
+---
+r  1279  Jackson 
+Mailes  J,    cook,    r   328,   3d 
+Mailey  Robt   T,   seaman,    r   126   Hartford 
+---
+Howard 
+Maloney  Bridget,    widow,    r    100    Sickles 
+Maloney  Bridget   T,    widow,   r   149    Hart- 
+---
+beth 
+Maloney  Wm,    well    borer,    r    108    Sickles 
+Maloney  Wm    J,    plumber,    r    149    Hart- 
+---
+Office,  r  2222  Clay 
+MANN  HBJiCO   (Henry  R  and  Harold 
+R)    genl   agts   Hartford   Steam   Boiler 
+---
+Matthai  Edw,  r  3319  Mission 
+Matthai  Frank,  r  3319  Mission 
+Matthai  Fred     W,     cashier     Hart-Wood 
+---
+849    Dolores 
+McArdle  Georgia   Mrs,    r   172   Hartford 
+---
+McCann  Edw  V,   engr,   r   4521,   20th 
+McCann  Ellen,   widow,   r   545,   7th   Av 
+McCann  Eugene  P,  elk,  r  259  Hartford 
+---
+McCann  Mary,  widow,   r  29   Noe 
+McCann  Mary  J,   notions,   2817   Geary 
+McCann  Matthew,    engr,    r    259    Hartford 
+---
+Mission 
+McCarty  Dennis  J,  teamster,  r  226  Hart- 
+---
+McConalogue  Edw,     elk    Williams,       Di- 
+mond  &  Co,  r  72  Hartford 
+---
+McConalogue  Jas,    mach,    r    72    Hartford 
+---
+McConalogue  John  L,  pattern  mkr,  r  72 
+Hartford 
+---
+McConalogue  Julia,   widow,    r   72      Hart- 
+---
+480  Pine 
+McDonough  Thos,   bartndr,  r   650,   4th 
+McDonough  Thos,  cond,   r  32  Hartford 
+---
+McGowan  Patrick    J,    watchman,    r    250 
+Hartford 
+---
+nay  Co)   r  670  Oak 
+McKannay  Louis  J,  plumber,  r  157  Hart- 
+---
+McKay  D   B,    salesman   Hale   Bros,    r    56 
+Hartford 
+---
+Buckbee  &  Co,  r  1027  Page 
+McNeill  Archibald,    printer,    r    243    Hart- 
+---
+McPhillips  Edw    E,    elk    W    A    Plummer 
+Mfg  Co,   r  20  Hartford 
+---
+McPhillips  Harold   E,   elk  Kern  Trading 
+&  Oil  Co,   r  20  Hartford 
+---
+McQuinn  Frank    C    J,    sign    writer,    r    25 
+Hartford 
+---
+McTaggart  Daniel,    mach,    r    556    Waller 
+McTaggart  John  O,  r  218,  21st  Av 
+McTamney  Jos   P,   elk,    r   73   Hartford 
+---
+McTamney  Patrick,    r    73    Hartford 
+---
+McTernan  Thos  F.  hoseman  Chemical 
+Engine  No  3,   r  147   Hartford 
+---
+Michau   I   Rene,   bartndr,   r   55    Columbus 
+Michaud  David   C,    r   688   Hayes 
+Miche  Andrew,    janitor,    r   39   Hartford 
+---
+Mills  Fred,  carman,  r  2407  Mission 
+Mills  Fredk.  special  police,  r  521  Natoma 
+Mills  Fred  A,  steamfitter,  r  159  Hartford 
+---
+r   1430    O'Farrell 
+Moll  Fred,   printer,   r   870   Capp 
+Moll  Fred   H,    pressman,    r    174   Hartford 
+---
+Moll  Henry,  elk  A  Harms,  r  174  Hartford 
+---
+Moll  Jacob,    r    174    Hartford 
+---
+Supply  Co,  r  Oakland 
+Moll  Wm  H,  trimmer,  r  174  Hartford 
+---
+West    1427 
+Morehouse  Chas  A,   elk   Morehouse,   Nel- 
+son  &   Le   Baron,    r   262   Hartford 
+---
+Morrison  Alexander    J,    painter,    r      155 
+Hartford 
+---
+Mullarky  Jas,  lab,  r  502,   20th 
+Mullateiotes  G,    lab,   r   250,    4th 
+Mullee  Thos  F,  gaswkr,  r  56  Hartford 
+---
+Mullee  Ann,   widow,   r   56   Hartford 
+---
+Nagle   Patrick,  lab.  r   158  Texas 
+Nagle   Peter  B,  atty,  Hearst  Bldg,  r  Sausalito 
+Nagle  Thos   J,    mach,   r    148    Hartford 
+---
+National  Electric  Co  (Inc)  103  Turk 
+NATIONAL    FIRE   INSURANCE    CO    OF 
+HARTFORD,    Willard   O    Wayman   and 
+---
+NEW  YORK  UNDERWRITERS  AGENCY 
+OF  HARTFORD  CONN,  H  R  Mann 
+---
+Works,  r  277  Clinton  Park 
+Noble   Mary  A,  widow,  r  225  Hartford 
+---
+4014  Geary 
+Noriega  Anthony   L,,  r  414,  27th 
+Noriega  Frances,  widow,  r  19  Hartford 
+---
+Noriega  Manuel,    with    Shreve    &    Co,    r    19 
+Hartford 
+---
+r   159  Powell 
+Norton   Horace   E,  salesman    Hartford   Car- 
+---
+Novick  Bernard,  tailor,  r   1034   Pierce 
+Novicki  Demetrio,  stableman,  r  3214,  18th 
+Novis  Edw   F,   barber,   r   119    Hartford 
+---
+shoemkr,  r  60   Hartford 
+---
+O'Leary  Cornelius,  plumber,  r  313     Hearst 
+O'Leary  Cornelius  T,  policeman,  r  3874,  24th 
+OILeary  Daniel  (O'Leary  Bros)  r  74  Hart- 
+---
+17th 
+O'Shea  Frank  J,  elk,  r  130  Hartford 
+---
+Parkinson  Thos,  engraver  Bulletin,  r  120 
+Hartford 
+---
+r  1690  Washington 
+Peterson  John   P,   janitor,    r    1257    Fulton 
+Peterson  John    P,    seaman,    r    280    Hart- 
+---
+Powers  Nellie,   dressmkr,   r   279,    10th  Av 
+Powers   Patrick,    r    12    De    Boom 
+Powers  Patrick,    lab,    r    74    Hartford 
+---
+Irving 
+Pritchard  Geo,   carp,    r   255    Hartford 
+---
+Rattagan   and   Radican 
+Ratto  Andrew   (Ratto  Bros)   r  3305,  20th 
+Ratto  Antone,    carp,    r    253    Hartford 
+---
+whol  produce,  49  Washington 
+Ratto  Jos,  bldr,  r  251a  Hartford 
+---
+664   Hayes 
+Rayner  Alice,  widow,  r  612  Plymouth  Av 
+Rayner  Edwin   E,    elk    Hart-Wood   Lum- 
+---
+Re  Louis,  scavenger,  r  2284  Lombard 
+Rea  Emanuel,    brasswkr,    r   265,    10th 
+Rea  Ernestine,  widow,  r  241  Hartford 
+---
+Reilly  Austin,     carp,    r    2959a   24th 
+Reilly  Bernard,    boxmkr,    r    48    Majestic 
+Reilly  Bernard,   elk   P   O,   r   57   Hartford 
+---
+Reilly  Jas,   with   W  Davis  &  Sons,   r   57 
+Hartford 
+---
+Reilly  Matthew,   with  W   Davis  &  Sons, 
+r    57    Hartford 
+---
+Rencurel  Frank    C,      marble    wkr,      r    36 
+Hartford 
+---
+Co,   r  Oakland 
+Robb  Russell,  salesman,  r  248  Lexington 
+Robb  Walter,  painter,  r  219  Hartford 
+---
+Robb  Wm,    stenogr    Balfour,    Guthrie    & 
+Co,    r   219   Hartford 
+---
+Roberts  Wm   N,    elk,   r   138a   S'tillman 
+Roberts  Wm  P,  watchman,  r  57  Hart- 
+---
+Roddock  Wm,    electn,    r   2455    Harrison 
+Roddv   Bridget,    widow,    r    1485,    9th    Av 
+Roddy  Edw,    r   73    Hartford 
+---
+Roddy  Henry,    cond,    r    1394    McAllister 
+Roddy  Jas  E,  salesman,  r  75  Hartford 
+---
+Rowcroft  Alice,  milliner,  r  262  Hartford 
+---
+Co,  r  550  Eddy 
+Rowley   Bert    H,      foreman      Hart-Wood 
+---
+Schermer  Robt,    masseur,    r    26    Sanchez 
+£2TSchermer.     See  Schirmer 
+Schermerhorn  Mary,  widow,  r  184  Hart- 
+---
+R  Ford  Co,  r  Alameda 
+Schneider  August  L,  bartndr,  r  131  Hart- 
+---
+Schreiber  Bernhard,   r  224   Ashbury 
+Schreiber  Chas,   cook,   r   2870  Howard 
+Schreiber  Chas   F,   r   128   Hartford 
+---
+Haight 
+Schreiber  Louise,    widow,    r    1296    Haight 
+Schreiber  Morris,   teamster,   r   160   Hart- 
+---
+Shalin  Henry,   cigarmkr,   r   396   Guerrero 
+Shall  C,   mach,    r   216   Golden   Gate  Av 
+Shallenberger  Prank     G,      elk     Hartford 
+---
+gineering &   Supply   Co,   r   2895   How- 
+ard 
+Sheppard  Chas,    electn,   r   70   Hartford 
+---
+Silverthorn  Herbert    S,    elk    Louis    Taus- 
+sig &  Co,  r  3320,  21st 
+Silverthorn   Louisa,    widow,    r    241    Hart- 
+---
+Smith  Harry,    blksmith,    1222    Folsom,    r 
+160   Hartford 
+---
+Spaulding  L,   r   2507   Pine 
+Spaulding  Milton  E,  special  agt  Hart- 
+---
+Stafford  Arthur  P,  millman,  r  858  Caro- 
+lina 
+Stafford  Chas,   cook,   r   61   Hartford 
+---
+Hinkelbein)    plumbers,    1553    Polk 
+Staley  F  W,  photgr,  r  44,  4th 
+Staley  Geo  W,  electn,  r  225  Hartford 
+---
+Staley  John  W,  mgr  Mission  Loan  Co,  r 
+225     Hartford 
+---
+Staley  Lee,    elk,    r    3122    California 
+Staley  Robt  G,   elk  r  225   Hartford 
+---
+Stein  Jacob,     cleaning    and    dyeing,     25 
+Hartford 
+---
+Steinbring  Chas,    butcher,    2299    Market, 
+r   145    Hartford 
+---
+Co,    r    Oakland 
+Sturges  Eleanor  J  Miss,  r  35  Hartford 
+---
+Sturges  Herbert   K,   r   35   Hartford 
+---
+Sturges  Selden,    teacher    Public    School, 
+r   35   Hartford 
+---
+27th 
+Sullivan  Patrick,    r    277    Hartford 
+---
+Sullivan  Patrick  J,  paver,  r  1524   Waller 
+Sullivan  Patrick  J,  tel  opr,  r  569  Waller 
+Sullivan  Peter  J,  r  148a  Hartford 
+---
+Sutherland  Alexander     R     T,      salesman 
+Murphy,  Grant  &  Co,  r  52  Hartford 
+---
+r  1536   Sacramento 
+Sweeney  Daniel    J,    driver,    r    227    Hart- 
+---
+Sweeney  Dennis,    lab,    r    24    Collingwood 
+Sweeney  Dennis,   lab,   r  55   Clementina 
+Sweeney  Dennis    J,    r    227    Hartford 
+---
+24th 
+Sybenga  John,  buttermkr.  r  25  Hartford 
+---
+Therien  Jos  A,  elk  Crocker  Nat  Bank,  r  41 
+Hartford 
+---
+Therien  Jos  H,  machinery,  r  41   Hartford 
+---
+681   Market,  r  Oakland 
+Thomas  Chas   E  Jr.  r  3375   Army 
+Thomas  Chas  F,  caulker,  r  48  Hartford 
+---
+King,  r  Alameda  _  • 
+TOWLEB    ALFKED     P,    mgr   Hartford 
+---
+Av  eor  Pine 
+TRAVELERS'      INSURANCE        CO         (of 
+Hartford,  Conn)  A  S  Holman  mgr  life 
+---
+Tuggle  Samuel  P.  physician,  2216  Steiner 
+Tulte  Christopher    C,    solr,    r    274    Hart- 
+---
+Tuite  Jas    policeman,    r    250   Clementina 
+Tuite  Jas  T.  bkkpr,  r  599,  2d  Av 
+Tuite  Jane,  widow,  r  274   Hartford 
+---
+Tuite  Jos,   elk,   r   156   Hartford 
+---
+Tuite  Mary  J  Miss,  r  274  Hartford 
+---
+Tweed  Robt   J,  painter,  r   126   Sagamore 
+Tweedale  Claude,  carp,  r  3256,  20th 
+Tweeddale  Frank,  watchman,  r  39  Hart- 
+---
+TYSON  GEORGE  K,  genl  agent  German 
+American,   German   Alliance,   Phoenix 
+of    Hartford    and    Protector    Under- 
+---
+motorcycle,  bicycle,  solid  motor  and 
+vehicle  tires,  United  States  Automo- 
+bile tires,  Hartford,  Morgan  &  Wright 
+---
+r    609   Ashbury 
+Vardas  Nicholas  E,  restaurant,   503   Cas- 
+tro, r  75  Hartford 
+---
+Vella  Gaetano   F,   poultry,    539    Sansome, 
+r  147  Hartford 
+---
+Venturelli  Frank,     fruits,     3901,     18th,     r 
+161  Hartford 
+---
+Villa  Ernest,    cook,   r   1420   Powell 
+Villa  Frank,  barber,  r  1900  Page 
+Villa  G   F,   r   147   Hartford 
+---
+r  3762,  20th 
+Vincent  Winifred,    r   167    Hartford 
+---
+Wallace  Wm,   marble   cutter,    r   44   Hart- 
+---
+NATIONAL   EIRE    INSURANCE    CO.   OF 
+HARTFORD. 
+---
+Av 
+Weis  Nicholas,    baker,    r    71    Hartford 
+---
+Albion  Av 
+Welch  Austin  S,  elk  P  O,  r  Burlingame 
+Welch  B,  barber,  r  65  Hartford 
+---
+White  Marv   J,   widow,   r   2345   Bush 
+White  Matthew  W,   lab,  r  2941   Howard 
+White  Michael,    lab,    r    251    Hartford 
+---
+White  Wm  L,  salesman  TJ  S  Steel  Prod- 
+ucts Co,   r  Frultvale 
+White  Wm    T,   teamster,   r   251   Hartford 
+---
+3324   Washington 
+Wolber  John  H,  metalwkr,  r  151  Hale 
+Wolbold  John    H,    special    agt    Hartford 
+---
+Underwriters,  r  Sausalito 
+Woods  Edw,  lather,  r  322   Cumberland 
+Woods  Edw,    painter,    r    40    Hartford 
+---
+Co,   r  Oakland 
+Woodward  Horace  R,  electn,  r  161  Hart- 
+---
+GRAND  RAPIDS 
+HARTFORD 
+---
+UNITED  STATES'  TIRE  CO. 
+automobile  tires,  Hartford,  O  &  J, 
+---
+TORY,   227    San   Bruno   Av 
+Gullixson  Bros,  2086-2098  Market 
+Hartford  Carpets  and  Rugs.  770  Mission 
+---
+172  Geary 
+Stein  Jacob,  25  Hartford 
+---
+chants Exch  Bldg 
+NATIONAL   FIRE   INSURANCE   CO    (of 
+Hartford)    NW    cor    Sacramento    and 
+---
+Hotel   Harrison,    397,    4th 
+Hotel  Hartford.    1151    Polk 
+---
+Hanify  J  R     Co,  24  Market 
+Hardy  Jas  H,   4th  and   Channel 
+Hart-Wood  Lumber  Co,  Fife  Bldg 
+---
+California   Rug  Co,    2175   Lombard 
+Hartford  Carpets  &  Rugs,  770  Mission 
+---
+Nonis  S,   503   Lyon 
+Normura    F    I.    483,    8th    Av 
+O'Connor  John,   60  Hartford 
+---

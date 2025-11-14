@@ -1,0 +1,10 @@
+[SKIPPED:insurance-ish] Mtna   Insurance   Co.  of    Hartford,    Conn., 
+[SKIPPED:insurance-ish] ^tna    Liire    Insurance  Co.  of  *Hart- 
+[SKIPPED:insurance-ish] Charter  Oak  L.ire  Ins.  Co.  of  Hart- 
+[SKIPPED:insurance-ish] Connecticut  Fire  Ins.  Co.  of  Hartford,    0 
+[SKIPPED:insurance-ish] nix of  Hartford,    and  Home  Ins. 
+[SKIPPED:insurance-ish] Orient  Fire  Ins.  Co.  of  Hartford, 
+[SKIPPED:insurance-ish] *hoenixFire  Ins.  Co., of  Hartford,  A.  E.  Ma- 
+[SKIPPED:insurance-ish] Harvey  W.,  agent,  Hartford  Fire  Ins. 
+[SKIPPED:insurance-ish] James  W.,  agent,   Hartford  Fire  Ins. 
+[SKIPPED:Hartford Fire] Thane  Joseph  E.,  clerk  with  Hartford  Fire 

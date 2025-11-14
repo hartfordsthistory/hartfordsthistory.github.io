@@ -1,0 +1,7 @@
+5402 
+HART  W  H  H,  atty-at-law,  925  Golden  Gate  av 
+HART-WOOD  LUMBER  CO,  F  A  Hart  pres,  W  H  Wood 
+---
+change Bldg,  and  First  Natl  Bank  Bldg,  Berkeley 
+Hartford  Rubber  Works  Co,  411  Golden  Gate  av 
+---

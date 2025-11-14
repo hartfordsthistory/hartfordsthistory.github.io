@@ -1,0 +1,15 @@
+Britton    Patrick,    laborer,    dwl    E  s    Hartford   nr 
+---
+Caftey  Edward,  storekeeper  Occidental  Hotel,  dwl 
+S  s  Eighteenth  nr  Hartford
+---
+Courtney  Gregory,  waiter  Occidental  Hotel,  dwl  S 
+W  cor  Eighteenth  and  Hartford 
+---
+Crowley  Kate,  (widow;  dwl  Es  Hartford  nr  Eight- 
+---
+Maloney  Patrick,  laborer,   dwl   E  s   Hartford  nr 
+---
+Morgan  Levi  A.,  laborer  with  Edward  Kennedy, 
+dwl  S  s  Eighteenth  bet  Hartford  &  Castro 
+---

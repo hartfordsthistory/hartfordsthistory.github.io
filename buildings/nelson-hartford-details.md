@@ -6,7 +6,7 @@ toc: true
 ---
 
 ## plans
-first one was the three-story one
+first one was the three-story one - not a Nelson
 
 layouts - a and b plans
 2- and 3-light = 2 and 3 bedroom.

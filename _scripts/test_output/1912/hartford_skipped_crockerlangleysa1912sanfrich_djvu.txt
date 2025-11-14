@@ -1,0 +1,47 @@
+[SKIPPED:insurance-ish] JETNA    LIFE    INSURANCE    CO     < Hart- 
+[SKIPPED:insurance-ish] JETNA    LIFE    INSURANCE    CO     (Hart- 
+[SKIPPED:Hartford Fire] Barrett  Edmond    P,    elk    Hartford    Fire 
+[SKIPPED:insurance-ish] Bradford  Clark  C,   insp  Hartford   Steam 
+[SKIPPED:insurance-ish] Cassel  A,    elk   Hartford    Fire    Ins    Co,    r 
+[SKIPPED:Hartford Conn] ANCE  CO  (Hartford,  Conn)  Benjamin 
+[SKIPPED:insurance-ish] Crawford  Geo   J,   elk   Hartford   Fire   Ins 
+[SKIPPED:Hartford Fire] Dennis  Wm  S,  special  agt  Hartford  Fire 
+[SKIPPED:Hartford Fire] Devine  Geo  E,  special  agt  Hartford  Fire 
+[SKIPPED:insurance-ish] Fitzgerald  Edw  J,  elk  Hartford  Fire  Ins 
+[SKIPPED:insurance-ish] Gallagher  Hugh,    elk   Hartford    Fire    Ins 
+[SKIPPED:insurance-ish] Gilliland  Wm    J,    elk    Hartford    Fire    Ins 
+[SKIPPED:insurance-ish] Hahn  Henry    C,     insp     Hartford     Steam 
+[SKIPPED:(of Hartford] (of  Hartford,  Conn)  Palache  &  Hewitt 
+[SKIPPED:insurance-ish] Hawkins  Olaf,   r    49   Hartford 
+[SKIPPED:Hartford Fire] Hewitt  Pixwell,   genl   agt   Hartford  Fire 
+[SKIPPED:insurance-ish] Hill  Robt,    insp    Hartford    Steam    Boiler 
+[SKIPPED:insurance-ish] Kerr  Jas,    elk    Hartford    Fire    Ins    Co,    r 
+[SKIPPED:insurance-ish] Larkins  Jas  A,  painter,  r  273  Hartford 
+[SKIPPED:insurance-ish] McAllister  A,  elk  Hartford  Fire  Ins  Co, 
+[SKIPPED:insurance-ish] Merkle  Walter,    elk    Hartford    Fire    Ins 
+[SKIPPED:Hartford Fire] Mitchell  Ralph    F,    elk    [Hartford    Fire 
+[SKIPPED:insurance-ish] Mordoff  Homer  F,  elk  Hartford  Fire  Ins 
+[SKIPPED:insurance-ish] Mueh  Herbert  N,  elk  Hartford  Fire  Ins 
+[SKIPPED:insurance-ish] Mund  Melville,    elk    Hartford    Fire    Ins 
+[SKIPPED:insurance-ish] Hartford  Fire  Ins  Co  and  Citizens 
+[SKIPPED:insurance-ish] Parkinson  Root,    teamster,    r    120    Hart- 
+[SKIPPED:insurance-ish] Phoenix  Insurance  Co   of  Hartford,    210- 
+[SKIPPED:insurance-ish] Reed  Lon  J,  insp  Hartford  Steam  Boiler 
+[SKIPPED:insurance-ish] Reimers  Wm,  elk  Hartford  Fire  Ins  Co, 
+[SKIPPED:insurance-ish] Ringo  R,    elk    Hartford    Fire    Ins    Co,    r 
+[SKIPPED:insurance-ish] Sargent  M.   elk  Hartford  Fire  Ins  Co,  r 
+[SKIPPED:insurance-ish] Schutz  Leo  C,  elk  Hartford  Fire  Ins  Co, 
+[SKIPPED:insurance-ish] Standard  Fire  Insurance  Co  (Hartford 
+[SKIPPED:insurance-ish] Tobin  Jas  M,   elk  Hartford  Fire  Ins  Co, 
+[SKIPPED:insurance-ish] Tompkins  Jos  P,  elk  Hartford  Fire  Ins 
+[SKIPPED:insurance-ish] Warner  Josiah    B,    chief    insp    Hartford 
+[SKIPPED:insurance-ish] Travelers'     Insurance    Co    of    Hartford, 
+[SKIPPED:(of Hartford] (of   Hartford)    NW   cor    Sansome   and 
+[SKIPPED:insurance-ish] Hartford    Fire    Insurance    Co,    430    Cali- 
+[SKIPPED:(of Hartford] Orient  Insurance  Co  (of  Hartford,  Conn) 
+[SKIPPED:(of Hartford] Phoenix  Insurance  Co  (of  Hartford, 
+[SKIPPED:(of Hartford] Protector    Underwriters     (of     Hartford) 
+[SKIPPED:insurance-ish] Standard  Fire  Insurance  Co  (Hartford, 
+[SKIPPED:(of Hartford] Travelers  Insurance  Co  (of  Hartford, 
+[SKIPPED:insurance-ish] Hartford    Steam    Boiler    Inspection    and 
+[SKIPPED:insurance-ish] Protector  Underwriters  of  Hartford,  218 

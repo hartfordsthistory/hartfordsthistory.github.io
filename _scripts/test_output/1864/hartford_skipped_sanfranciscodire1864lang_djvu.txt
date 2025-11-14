@@ -1,0 +1,6 @@
+[SKIPPED:insurance-ish] HARTFORD  FIRE  INSURANCE  CO.  Hartford, 
+[SKIPPED:insurance-ish] PHCENIX    INSURANCE   CO.   Hartford,   R.   H. 
+[SKIPPED:insurance-ish] HARTFORD  INSURANCE  CO.,  Hart.,  Assets,  $1,500,000.    Bigelow  &  Brother,  Agents, 
+[SKIPPED:insurance-ish] ^TNA  INSURANCE  COMPANY— Hartford ; 
+[SKIPPED:insurance-ish] ^TNALIFE  INSURANCE  COMPANY— Hart- 
+[SKIPPED:insurance-ish] HARTFORD  FIRE  INSURANCE  COMPANY 
