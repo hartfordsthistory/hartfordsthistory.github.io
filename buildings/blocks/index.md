@@ -33,6 +33,18 @@ Should have some pretty map image of Hartford st here.
 > Tierney Patrick, laborer, dwl E s Hartford bet Eighteenth and Nineteenth 
 > Ward Peter, clerk 14 Metropolitan Market, dwl N 8 Nineteenth bet Noe and Hartford 
 
+1871 (bad OCR, hard to parse)
+> Morgan  Levi  A.,  laborer,  dwl  Ss  Eighteenth  bet  Hartford  and  Castro 
+
+1872
+
+> Britton, Patrick, laborer, dwl E  s Hartford   nr Eighteenth
+> Caftey  Edward,  storekeeper  Occidental  Hotel,  dwl S  s  Eighteenth  nr  Hartford
+> Courtney  Gregory,  waiter  Occidental  Hotel,  dwl  SW  cor  Eighteenth and Hartford 
+> Crowley  Kate, widow  dwl  Es  Hartford  nr  Eightteenth 
+> Maloney  Patrick,  laborer,   dwl   E  s   Hartford  nr Eighteenth
+> Morgan  Levi  A.,  laborer  with  Edward  Kennedy,  dwl  S  s  Eighteenth  bet  Hartford  &  Castro 
+---
 
 [1880 Langley](https://archive.org/details/langleyssanfranc1880sanf/page/n57/mode/2up)
 street directory

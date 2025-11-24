@@ -1,29 +1,23 @@
 
-Caflfrey  Edward, storekeeper  Occidental  Hotel 
-res  S  9  Eighteenth  nr  Hartford 
+Caflfrey  Edward, storekeeper  Occidental  Hotel  res  S  s  Eighteenth  nr Hartford 
 ---
-Courtney, John,  widow,  res  SE  cor  Eighteenth  and 
-Hartford 
+Courtney, John,  widow,  res  SE  cor  Eighteenth  and  Hartford 
 ---
-J.  F.,  watchman.  Palace  Hotel 
 Crowley  Kate,    widow,  res   E  s   Hartford  bet Eighteenth and Nineteenth
 ---
-Hassel  Henry,  vegetables,  6  Clay-st  Market, 
-res  Nineteenth  bet  Noe  and  Hart- 
+Hassel  Henry,  vegetables  6  Clay st  Market, res  Nineteenth  bet  Noe  and  Hartford
 ---
 Maloney Patrick,  milkranch,  E  s  Hartford  bet Eighteenth and Nineteenth
 ---
-McMichael  Charles,  milkman,  res  E  s  Hartfor nr Eighteenth
+McMichael  Charles,  milkman,  res  E  s  Hartford near Eighteenth
 ---
-McMullen  Canada,  blacksmith,  res  S  s  Eigh- 
-teenth ijet  Hartford  and  Castro 
+McMullen  Canada,  blacksmith,  res  S  s  Eighteenth between  Hartford  and  Castro 
 ---
-Murray  Peter,  gardener,  res  S  s  Eighteenth 
-bet  Noe  and  Hartford 
+Murray  Peter,  gardener,  res  S  s  Eighteenth bet  Noe  and  Hartford 
 ---
 Eadey Joseph, laborer,   res    E    s   Hartford    nr Eighteenth
 ---
 Woods  I.,  widow,  res  SW  cor   Hartford 
 ---
-Maloney  P, milk dealer,  Hartford  bet  Eighteenth  and  Nine- 
+Maloney  P, milk dealer,  Hartford  bet  Eighteenth  and  Nineteenth
 ---

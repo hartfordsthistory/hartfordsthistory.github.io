@@ -1,23 +1,23 @@
 ---
 Baun  Joseph,  driver,  dwl  SE  cor  Hartford  and  Eighteenth 
 ---
-Britton  Patrick,  laborer,  dwl  E  s  Hartford,  bet  Eighteenth 
+Britton  Patrick,  laborer,  dwl  E  s  Hartford,  between  Eighteenth and  Nineteenth 
 ---
-Caffrey  Edward,  laborer,  dwl  S  s  Eighteenth  nr  Hartford 
+Caffrey  Edward,  laborer,  dwl  S  s  Eighteenth  near  Hartford 
 ---
-Glinnan  William,  laborer,  dwl  E  s  Hartford  bet  Eight- 
+Glinnan  William,  laborer,  dwl  E  s  Hartford  between  Eighteenth and  Nineteenth 
 ---
-Maloney  Patrick,  dairyman,  E  s  Hartford  bet  Eighteenth 
+Maloney  Patrick,  dairyman,  E  s  Hartford  between  Eighteenth and  Nineteenth 
 ---
-McMichael  Charles,  dairj'man,  SE  cor  Hartford  and  Eight- 
+McMichael  Charles,  dairyman,  SE  cor  Hartford  and  Eighteenth
 ---
-Norton  Patrick,  laborer,  dwl  E  s  Hartford  bet  Eighteenth 
+Norton  Patrick,  laborer,  dwl  E  s  Hartford  between  Eighteenth and  Nineteenth 
 ---
-It  Pearce  Frederick,  teamster  Union   Iron  Works,  dwl  N  s   Nineteenth  bet  Noe  and  Hartford 
+It  Pearce  Frederick,  teamster  Union   Iron  Works,  dwl  N  s   Nineteenth  between  Noe  and  Hartford 
 ---
-Reedy  Michael,- laborer,  dwl  S  s  Eighteenth  nr  Hartford 
+Reedy  Michael, laborer,  dwl  S  s  Eighteenth  near  Hartford 
 ---
-Woods  I.  (widow),  dwl  W  s  Hartford  nr  Nineteenth 
+Woods  I.  (widow),  dwl  W  s  Hartford  near  Nineteenth 
 ---
-Malone  P.,  E  s  Hartford  nr  Nineteenth 
+Malone  P.,  E  s  Hartford  near  Nineteenth 
 ---
