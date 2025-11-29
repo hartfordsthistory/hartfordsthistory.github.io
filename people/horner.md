@@ -14,14 +14,18 @@ https://imagesofoldhawaii.com/john-meirs-horner/
 ---
 
 Certainly was an [opinionated old coot in his dotage](https://search.worldcat.org/search?q=au%3D%22Horner%2C+J.+M.%22&author=Horner+J+M%7CHorner%2C+J.+M&orderBy=publicationDateAsc&datePublished=1830-1910).
-Archive.org produced an OCR, and I've [excerpted his autobiography here](horner_autobiography.txt).
+
 
 ---
 _[National finance and public money; settling the money question; government ownership of railroads and telegraphs;](https://archive.org/details/nationalfinancep00hornrich/page/n1/mode/2up) by J. M. Horner AND [Some Personal History of the Author](https://archive.org/details/nationalfinancep00hornrich/page/n257/mode/2up)_
 
+Archive.org produced an OCR, and I've [excerpted his autobiography here](horner_autobiography.txt).
+
 ---
 [Voyage of the Ship Brooklyn, by John M. Horner](https://archive.org/details/improvementera0910unse/page/794/mode/1up?q=brooklyn) from _Improvement Era_ Aug 1906
 [Part 2 of same](https://archive.org/details/improvementera0911unse/page/890/mode/1up?q=horner), Sept 1906
+
+Excerpted [in text form here](horner-voyage_of_the_brooklyn.txt)
 
 ---
 Excerpted from [California and Californians Vol 4](https://www.google.com/books/edition/California_and_Californians/-fgHAQAAIAAJ?hl=en&gbpv=1&dq=john%20m%20Horner&pg=PA365&printsec=frontcover) 1926 by Rockwell D. Hunt and Nellie Van de Grift Sanchez 
