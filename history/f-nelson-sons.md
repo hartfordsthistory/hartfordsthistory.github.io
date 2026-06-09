@@ -8,7 +8,7 @@ Kids joined.
 Eldest son did some mail classes in architecture. Started designing own homes.
 George was around to talk to interviewers
 
-https://goo.gl/maps/RrftMCowkZJj4UMRA
+<https://goo.gl/maps/RrftMCowkZJj4UMRA>
 <!--
 > Nelson's Business Practice
 In the 1880s, Fernando Nelson first established his career

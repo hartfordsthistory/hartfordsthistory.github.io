@@ -1,7 +1,33 @@
 {
-    "cSpell.words": [
-        "Sanborn",
-        "Duboce",
-        "Crocker"
-    ]
+  "cSpell.words": [
+    "Sanborn",
+    "Duboce",
+    "Crocker"
+  ],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.markdownlint": "explicit"
+  },
+  "[markdown]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "markdownlint.fixAllOnSave": true
+  },
+  "spellright.language": [
+    "en"
+  ],
+  "spellright.documentTypes": [
+    "markdown",
+    "latex",
+    "plaintext"
+  ],
+  "markdownlint.ignore": [
+    "_redirects"
+  ],
+  "prettier.singleQuote": true,
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  }
 }

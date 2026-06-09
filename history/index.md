@@ -16,7 +16,6 @@ Some topics I'll be writing about:
 - The Castro Theater
 - LGBT in the Castro
 
-
 <!-- - [Original inhabitants: Ohlone](/history/ohlone)
 - [Mission Dolores](/history/mission-dolores)
 - [Eureka Valley](/history/eureka-valley)

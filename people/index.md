@@ -6,7 +6,7 @@ This page will eventually talk about some of the people who steered the events t
 
 - First up, the Yelamu and Ramaytush Ohlone people, the original inhabitants of this area
 - Spanish Missionaries
-- Californios
+- [Californios](/people/californios/)
 - [J. P. Treadwell Sr.](/people/jptreadwell-sr/)
 - [Marshall L Meeteer](/people/meeteer/), the most misspelled man in all my researches
 - Andrew Spaulding, little known silversmith

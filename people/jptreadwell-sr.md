@@ -8,7 +8,7 @@ The 1894 block book shows the entire block owned by J P Treadwell, who left his 
 [Aug 10 1903 Argonaut](https://www.google.com/books/edition/Argonaut/MJtCAQAAIAAJ?hl=en&gbpv=1&bsq=treadwell) ([page 94](https://www.google.com/books/edition/Argonaut/MJtCAQAAIAAJ?hl=en&gbpv=1)):
 > The estate of James Parker Treadwell has been appraised at 443,404.22 The items of report are as follows Realty in this city 270,855 cash 1,943 mortgage 39,000 a third interest in the estate of Thalia and Maud Treadwell 89,145 stock in the Spring Valley Water Company 36,635.
 
-Treadwell came to San Francisco in 1851 along with his brother Leonard. It was fairly early in the Gold Rush, and Leonard formed Treadwell & Co, merchant mechanics, to sell tools and equipment for mining and farming. JP, who had lost a leg at age 8 and was unsuited to the physical pursuit of this industry, instead became a prominent citizen; he was an attorney, helped found the SF Bar Association, and a became justice of the SF court system. They were, to put it mildly, filthy rich.
+Treadwell came to San Francisco in 1851 along with his brother Leonard. It was fairly early in the Gold Rush, and Leonard formed "Treadwell & Co, merchant mechanics", to sell tools and equipment for mining and farming. JP, who had lost a leg at age 8 and was unsuited to the physical pursuit of this industry, instead became a prominent citizen; he was an attorney, helped found the SF Bar Association, and a became justice of the SF court system. They were, to put it mildly, filthy rich.
 
 The block 114 was divided up to be sold at auction, however it looks like a few friends or associates of the Treadwells got the jump on the auction, and bought ahead of time.
 (Ref: Christesen purchase, Nelson buying, lots withdrawn.)
@@ -41,9 +41,8 @@ came to SF in 1851
 
 [Listed in the 1852 directory](https://archive.org/details/awmorgancossanfr1852awmo/page/59/mode/1up):
 > Treadwell & Co., hardware and agricultural store, c California and Battery
-> Treadwell, L.L. 
+> Treadwell, L.L.
 > Treadwell, J.P.
-
 
 1856, defended his brother Leonard Linton Treadwell (Treadwell & Co) from [a patent infringement case](https://smcgs.org/resources/Documents/Databases/Private%20Common%20Law%20Case%20Files.pdf).
 

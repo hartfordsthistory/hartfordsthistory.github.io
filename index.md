@@ -4,22 +4,27 @@ read_time: false
 classes: wide
 ---
 
-[This is a work in progress. :)](/about/) Last updated June 15, 2025.
+[This is a work in progress. :)](/about/) Last updated June 8, 2026.
 
 This page is devoted to documenting the history of this tiny slice of Eureka Valley, partly because I enjoy researching and sharing.
 
-Hartford St North is an example of blue-collar Victorians in the "streetcar suburbs" growing in San Francisco at the turn of the century. These houses are the transition period between the vernacular, non-professional infill housing in chaotically inclusive urban spaces, and the commissioned exclusive automobile-reliant suburbs of the 1920s and later. While Hartford North was a new residential-only block and thus exempt from the "annoyances of neighborly industry", it was also populated by workers of those industrial jobs, as well as itinerant peddlers and service laborers. As non-status buildings - specifically meant to be _owned_ by blue-collar workers and not just rented to them - the buildings on Hartford St are a rare survival, and illustrate the incredible quality of life available to migrants willing to make the trip West.
+If you're standing by my sign, turn uphill and look to your right, at the three-story blue house on the other side of the street. Then read on to see a photo of that house being built.
 
-The 0-100 block of Hartford St is (*almost*) solely the work of "master builder" Fernando Nelson, who famously built thousands of homes in SF over the course of his half-century career, and acted as one-man loan agency to many of his customers.
+Hartford St North is an example of blue-collar Victorians in the "streetcar suburbs" growing in San Francisco at the turn of the 20th century. While they seem elaborately luxurious to modern eyes, the houses on this block were actually called "cottages" by the builder and later owners. As non-status buildings - specifically meant to be _owned_ by blue-collar workers and not just rented to them - the buildings on Hartford St are a rare survival, and illustrate the incredible quality of life available to migrants willing to make the trip West.
 
-If you're still standing in front of my sign, turn around and look across the street to the blue house. Then scroll down to the picture.
+These houses are the transition period between the vernacular, non-professional infill housing in chaotically-inclusive urban spaces, and the commissioned exclusive automobile-reliant suburbs of the 1920s and later. While Hartford North was a new residential-only block and thus exempt from the "annoyances of neighborly industry", it was also populated by workers of those industrial jobs, service workers, day-laborers,and itinerant peddlers.
+
+It's particularly funny, given all that, that this street has been dubbed "The Little Painted Ladies", after the famous mansions of Alamo Square.
+
+The 0-100 block of Hartford St is (_almost_) solely the work of "master builder" Fernando Nelson, who famously built thousands of homes in SF over the course of his half-century career, and acted as one-man loan agency to many of his customers.
 
 ## The first new house on Hartford St
+
 A moment in time - 10:30 am on June 28, 1900
 
-_Ed note: Laura wrote this long description to the block mailing list, and as the rest of this site is a mess, is including it here for interested folks. This is best enjoyed with the picture open in a separate tab so you can zoom in on the different parts._
+_Ed note: This description is best enjoyed with the picture open in a separate tab so you can zoom in on the different parts._
 
-This is a scan of a glass plate negative by [D.H. Wulzen Jr.](/people/dhwulzen/), whose family owned the pharmacy at the southwest corner of 17th and Castro (the building that says "drugs" on the side). As his grandson Warren says:
+The image below is a scan of a glass plate negative by [D.H. Wulzen Jr.](/people/dhwulzen/), whose family owned the pharmacy at the southwest corner of 17th and Castro (the building that says "drugs" on the left side). As his grandson Warren says:
 
 > "Late in the 1890s, DHW took on a Kodak agency and he became seriously interested in more than just snapshots. He acquired an 8x10 and a 5x7 glass plate camera. His pharmaceutical training made the necessary chemical processes for coating the plates and developing the photos easy for him. (Sidenote, our father, Frank Eastman Wulzen, learned these processes in DHW's darkroom and later became a commercial photographer himself.)"
 
@@ -29,9 +34,9 @@ This is a scan of a glass plate negative by [D.H. Wulzen Jr.](/people/dhwulzen/)
 
 The bright white street near the center of this photo is Castro St north of Market St, and to the upper left you can see the Corona Heights quarry still being worked. The gore point of the east intersection of 17th and Market (Jane Warner Plaza, where the Shell is now) is still a grass lot, and south across the street are some of the oldest buildings in the neighborhood, some even appearing on the 1869 US Coastal Survey map.
 
-The whole block between 17th and 18th and between Castro and Noe had been purchased by prominent early SF attorney James Parker Treadwell Sr some time between 1854 and 1864, and so was omitted from the Eureka Valley Homestead Association and so escaped a lot of the [legal wrangling](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~289005~90060593) that came from the piecemeal sale of Noé's estate, and John Miers Horner's bankruptcy sale in 1857. You can see a low fence around the part not owned by Treadwell, and the varied houses around it. Many of the buildings at the center of this picture were torn down around 1921 for the construction of the Castro Theater.
+The whole block between 17th and 18th and between Castro and Noe was purchased by prominent early SF attorney James Parker Treadwell Sr some time between 1854 and 1864, and so was omitted from the Eureka Valley Homestead Association and so escaped a lot of the [legal wrangling](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~289005~90060593) that came from the piecemeal sale of Noé's estate, and John Miers Horner's bankruptcy sale in 1857. You can see a low fence around the part not owned by Treadwell, and the varied houses around it. Many of the buildings at the center of this picture were torn down around 1921 for the construction of the Castro Theater.
 
-Treadwell had owned the rest of the block at his death in late 1884, and it remained in acrimonious probate until around 1900. (He left his estate in such a contested shambles that parts of it did not clear probate until _1905 or 1906_.) Between 1884 and 1900, Fernando Nelson purchased a many of the available plots of land in Eureka Valley, and subdivided, built, and sold it off to form a large portion of the local housing stock. His goal was to build houses near the desirable horse-drawn streetcar lines, for people who wanted to work in the Barbary Coast, but live far away from it the noise and crime. He must have had his eye on this last empty plot of land for some time, waiting to snatch it up. Earlier pictures of the plot show cattle grazing on the land (probably from the dairies in the neighborhood - both up 19th on Kite Hill, and just up the existing original block of Hartford st), and locals clearly had no qualms cutting through diagonally on foot or in their wagons.
+Treadwell had owned the rest of the block at his death in late 1884, and it remained in acrimonious probate until around 1900. (He left his estate in such a contested shambles that parts of it did not clear probate until _1905 or 1906_.) Between 1884 and 1900, Fernando Nelson purchased a many of the available plots of land in Eureka Valley, and subdivided, built, and sold it off to form a large portion of the local housing stock. His goal was to build houses near the desirable horse-drawn streetcar lines, for people who wanted to work in the Barbary Coast, but live far away from it the noise and crime. He must have had his eye on this last empty plot of land for some time, waiting to snatch it up. Earlier pictures of the plot show cattle grazing on the land (probably from the dairies in the neighborhood - both up 19th on Kite Hill, and just up the existing original middle block of Hartford St), and locals clearly had no qualms cutting through diagonally on foot or in their wagons.
 
 In this picture, you can see the start of Nelson's grading on the southwest part of the block as he divided it into lots and laid out the continuation of Hartford St. (Ask us about Ford St West some time.) One of the tributaries of Dolores Creek originally flowed downhill just south of 18th St, so building up the base of the block there was a hedge against spring flooding. The SF newspapers are also full of stories of residents of Hartford St fighting tax assessments for additional road grading, and even then the central block is still quite steep.
 
@@ -49,8 +54,7 @@ This corner lot was so tiny that the owners donated it to the [Olivet Congregati
 
 In 2015 the old-new church on Dolores was renovated to become the Children's Day School Middle School.
 
-
-## More to come...
+## More to come
 
 Among the many subjects I'll be eventually writing about, we have:
 
