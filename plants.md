@@ -1,5 +1,5 @@
 ---
-title: Laua's garden
+title: Laura's garden
 read_time: false
 classes: wide
 ---
