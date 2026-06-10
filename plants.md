@@ -13,23 +13,26 @@ Here's a little info about what's in the garden bed in 2026:
 We love lavender, and it comes in a lot of different types. It's generally hardy and drought tolerant, and seems to love our California climate as long as you can keep its roots from getting soggy.
 
 - _Lavandula x intermedia "Provence"_ - This is also known as French perfume lavender. It grows big and bushy, produces lots of strongly-scented cylindircal flower heads, and can be shaved down over and over and bounce back after each harvest. It's not great for cooking though because it tastes a bit menthol-y.
-![alt text](images/lavandula-int-provence.png)
+
+  ![alt text](images/lavandula-int-provence.png)
 
 - _Lavandula intermedia 'Alba'_ - This is a white version of, I think, the standard Provence variety.
-![alt text](images/lavandula-int-alba.png)
+
+  ![alt text](images/lavandula-int-alba.png)
 
 - _Lavandula intermedia 'Phenomenal'_ - this is a fairly new variety. It's supposed to produce a lot more oil in the flower heads than normal Provence, and you're supposed to be able to harvest it and it'll grow back and flower a second time in a season. We'll see!
-![alt text](images/lavandula-int-phenomenal.png)
+
+  ![alt text](images/lavandula-int-phenomenal.png)
 
 ### Petunias
 
 - _Petunia grandiflora - Starry Sky/Night Sky_ - this is the most striking flower in the planter, deep purple with white flecks. The density of the white dots changes depending on the average temperature while the blossom was forming, so some will be solid purple, and some will be nearly white, depending on how foggy it's been. They are aggressive trailing spreaders and we're not mad about it!
 
-![alt text](images/petunia-starry-sky.png)
+  ![alt text](images/petunia-starry-sky.png)
 
 - Petunia grandiflora - Waterfall mix - This is always a nice mix of white, light lavender/purple, and deep purple, and they provide a nice variety and fill in the spaces between other plants.
 
-![alt text](images/petunia-waterfall.png)
+  ![alt text](images/petunia-waterfall.png)
 
 ### Yerba Buena
 
@@ -41,8 +44,8 @@ Creeping between the petunias and other plants you'll find _Clinopodium douglasi
 
 Agapanthus, also sometimes called "African lily" or "Lily of the Nile", is super popular in California because it's very drought hardy, and doesn't need a whole lot of maintenance. That said, if left alone they can become badly overgrown, and in places with more rain than here, they can be classed as invasive.
 
-- Really quite big purple agapanthus - it was here when we got here, and we keep having to chop it out, separate it, replant a little and give the rest away.
-- Quite small polite purple agapanthus - it was also already here when we got here, but has been much easier to manage, and puts out more flowers per capita than the giant one.
+- Really **quite big** purple agapanthus - it was here when we got here, and we keep having to chop it out, separate it, replant a little and give the rest away.
+- Quite small _polite_ purple agapanthus - it was also already here when we got here, but has been much easier to manage, and puts out more flowers per capita than the giant one.
 - _Agapanthus 'Getty White'_
 - _Agapanthus 'Mood Indigo'_
 - _Agapanthus 'Indigo Frost'_ (or _'Twister'_ - we're not sure which one we got and won't know until it blooms)
