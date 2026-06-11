@@ -44,17 +44,19 @@ Noé was alcalde of Yerba Buena in 1842-43.
 
 In 1846, near the Noé was appointed alcalde by U.S. Navy Commodore Robert F. Stockton, under his authority as military governor of the occupied territory. Also appointed alcalde, and serving concurrently with Noé, was Navy Lt. Washington Allon Bartlett. As a military officer, Bartlett was a direct representative of the military governor, functionally similar to the office of prefect in the Mexican system. One of the last acts of the Noé/Bartlett year was to rename Yerba Buena to its current name, San Francisco.
 
-
-
 ## Selling on
 
-Noé's wife died in 1848, while the state was still in post-war turmoil, leaving him with his three sons to provide for. So he began selling off, deeding, and distributing his lands. 
+Noé's wife died in 1848, while the state was still in post-war turmoil, leaving him with his three sons to provide for. So he began selling off, deeding, and distributing his lands.
 
 He sold half of his original 50 vara Portsmouth Square lot at Grant and Clay to Charles A. Gurley for $20,000. He later deeded the rest of the lot to his son Miguel on December 26, 1855. (Miguel sold that property to Francisco de Leon on November 24, 1856, for one dollar.)
 
 In 1852, with the change from absentee Mexican government to the newly-formed State of California, Noé was required to file land claims for all of his properties in order to keep them. The legal process and fees dragged out until the first resolution in 1857 - which was immediately appealed.
 
-In 1854, he sold a large part of Rancho San Miguel to John Meirs Horner and his brother William J. Horner. By the time Noé obtained a US land patent to Rancho San Miguel in 1857, he had already sold much of it. He died in 1862 and passed what remained of the rancho to his children. By 1862, French financier François Louis Alfred Pioche owned most of the rancho, but lost it in a foreclosure sale in 1878. In 1880, former Mayor of San Francisco Adolph Sutro bought the northwesterly portion.[8]
+In 1854, Noé sold a large part of Rancho San Miguel to John Meirs Horner and his brother William J. Horner, and the sales continued.
+
+May 6, 1845 Noe to Andres Hoeppner
+
+He died in 1862 and passed what remained of the rancho to his children. By 1862, French financier François Louis Alfred Pioche owned most of the rancho, but lost it in a foreclosure sale in 1878. In 1880, former Mayor of San Francisco Adolph Sutro bought the northwesterly portion.[8]
 
 In 1895, Noé's heirs contended that his sale to Horner was illegal, and unsuccessfully sued to have half of the rancho land, their mother's share, restored to them.
 
