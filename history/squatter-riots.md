@@ -9,3 +9,5 @@ CIty un-claims land that has people on it.
 Squatters now have legal rights to Californio land.
 
 Riots!
+
+<https://en.wikipedia.org/wiki/Squatters%27_riot>
