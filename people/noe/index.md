@@ -28,19 +28,20 @@ Some of the colonists went back to Mexico in disgust, but many of the colonists,
 
 In June 1835 William Richardson started a trading station and port at Yerba Buena, and in 1836 some of the remaining colonists joined him.
 
-In these early days, Noé had a 50 vara lot on Portsmouth Square, and a lot on Grant at Clay.
+In these early days, Noé had a 50 vara lot on Portsmouth Square near the modern day intersection of Grant at Clay.
 
 ## Rancho Las Camaritas
 
 Juan Alvarado granted Noé the 18.57 acres (8 ha) Rancho Las Camaritas on January 21 1840. (US Northern District land case 387).
 
-The land is located in San Francisco's Mission District within the area bounded by 14th Street, Mission Street, 16th Street, and Shotwell Street, with its southern border parallel to and about 300 feet north of 16th Street (the property extending 825 feet south from 14th Street and the same distance east from Mission Street).
+The land is located in San Francisco's Mission District within the area bounded by 14th Street, Mission Street, 16th Street, and Shotwell Street, with its southern border parallel to and about 300 feet north of 16th Street (the property extending 825 feet south from 14th Street and the same distance east from Mission Street).  825/2.75 = 300 varas.
 
 ![alt text](las-camaritas.png)
 
 Noe supposedly turned control of Las Camaritas over to former Alcalde Francisco Guerrero around 1846, after he and his wife moved to their new home on Rancho San Miguel. Guerrero was killed in 1851 while coming back to the Mission from a Public Land Commission hearing.
 
 Ownership of Las Camaritas was disputed in court by the U.S. government from 1856 until 1882 due to conflicting documentation presented by its American owner Ferdinand Vassault after a string of sales initiated by Jose Noe sometime between 1842 and 1846.
+![1873 plat map](las-camaritas-plat.png) [1873 plat map via david rumsey](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~24655~930031:Plat-32--San-Francisco-?sort=pub_list_no%2Cpub_list_no_initialsort%2Cpub_list_no_initialsort%2Cpub_list_no_initialsort&mi=35&trs=719&qvq=w4s:/where%2FSan%2BFrancisco%2B(Calif.);q:san%20francisco%20county;sort:pub_list_no%2Cpub_list_no_initialsort%2Cpub_list_no_initialsort%2Cpub_list_no_initialsort;lc:RUMSEY~8~1)
 
 ## Rancho San Miguel
 
