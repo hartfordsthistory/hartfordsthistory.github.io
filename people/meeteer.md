@@ -28,6 +28,8 @@ We don't know when he departed Maryland, and we don't know when he arrived in Sa
 
 The [Daily Alta California, Volume 9, Number 112, 23 April 1857](https://cdnc.ucr.edu/?a=d&d=DAC18570423.2.12&srpos=1&e=-------en--20--1-byDA-txt-txIN-%22meeteer%22-------) mentions an "M L Meeteer" making an heroic and ultimately unsuccessful rescue attempt of two children from a burning building. If this is our Marshall, this is the first evidence of the Meeteer family on the West Coast.
 
+> M. L. Meeteer testified that be saw the fire bursting out of the roof: ran to the spot, and saw two women and a man in his shirt-sleeves; one of the women cried out. "My God ! save my children ;" he asked where they were; she replied, " Upstairs;" he then rushed up, bul not knowing the room in which the children were, he got into the wrong room ; it was very dark, and the smoke almost suffocated him ; he groped about and found ai empty bed ; as he had not bven told where the children were, except up-stairs, and finding an empty bed, hi was led to believe they had been saved. He thinks if he had been told the exact place where the children were he could have reached them, but they must have been dead before that. 
+
 In 1857, somewhere in California, Mary Frances Meeteer was born. Some records show December 8, 1857, in San Francisco.
 
 Marshal first appears in [the 1859 edition of the Langley directory](https://archive.org/details/sanfranciscodire1859lang/page/198/mode/1up) as "Meeteer, Marshal L. builder, 183 Montgomery, dwl SW cor Powell and Geary."
@@ -50,6 +52,15 @@ The San Francisco Bulletin for October 2, 1876 Real estate transactions lists:
 > M.L. Meeteer and wife to C.L. Wulff, lot 24x80 on the east line of Castro, 203 ft south of 17th st, $1800.
 
 In the 1880 census, Marshall and Elizabeth are still living on Castro St. Mary (now age 23) is listed as a single music teacher, still living in her father's household. Two widows, Elizabeth's sister Mary C Kelly, 68, a "resident", and E Doggett, 40, a boarder from England and also a music teacher, are now also living with the family. Mary C Kelly passes away 15 Jun 1880, and is buried in the [Odd Fellows Cemetery San Francisco](https://www.outsidelands.org/odd_fellows.php). (And then moved to Greenlawn Memorial Park, Colma.)
+
+[Daily Alta California, Volume 32, Number 10938, 26 March 1880](https://cdnc.ucr.edu/?a=d&d=DAC18800326.2.44&srpos=3&e=-------en--20-DAC-1-byDA-txt-txIN-%22meeteer%22-------)
+![alt text](images/meeteers-leave-sf.png)
+> M. L. Meeteer and wife to Isaac M. Kalloch, lot 80x80; on east Una of Castro street, 100 feat Bouth of Seventeenth, $3760. 
+
+Hmmmm.... I think we had a typesetters error. Poor man and his poor surname.
+
+[Daily Alta California, Volume 32, Number 11023, 19 June 1880](https://cdnc.ucr.edu/?a=d&d=DAC18800619.2.48&srpos=3&e=-------en--20-DAC-1-byDA-txt-txIN-+Kalloch+castro-------)
+> M. L. MoOleer and wife to Annie F. Kalloch, lot 68x80, commencing 80 feet east of Castro street, and 180 south of Seventeenth, $6.
 
 Mary Frances marries the Englishman Charles H McCurrie on the 29th of June, 1882. Charles, who's 35 at the time of the marriage, is a widower - his wife Isabella Britton passed away in Dec 1876, a few scant weeks after the birth of Isabelle Britton McCurrie on 20th September 1876. Much of this part of the family remains a little murky, as newspapers were a bit unspecific. At any rate, Mary and Charles raise Isabelle as their own, much to the confusion of later researchers.
 

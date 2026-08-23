@@ -3,5 +3,8 @@
         "Sanborn",
         "Duboce",
         "Crocker"
-    ]
+    ],
+    "workbench.editorAssociations": {
+    "*.svg": "default"
+    }
 }
