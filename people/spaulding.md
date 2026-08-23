@@ -89,16 +89,11 @@ Indeed, backtracking we find Henry Stewart Spaulding, who does not appear in "Th
 
 Henry is listed as the proprietor of a real estate company. Presumably he stayed there until his death in 1963, because their daughter Marion Jane lived in the same building (a duplex) at 773 Castro at the time of his death. She lived only a few years later, passing away in 1969 and thus ending this branch of the Spaulding line.
 
-
-
-
-
 ---
 
 [Sacramento Daily Union, Volume 29, Number 4424, 26 May 1865](https://cdnc.ucr.edu/?a=d&d=SDU18650526.2.5&srpos=1&e=-------en--20--1-byDA-txt-txIN-%22andrew+Spaulding%22-------)
 
-> Passengers from the East. — The following persons in addition to those recently published in the Ukios came passengers by the Moses Taylor, which recently arrived from Panama: W. F. HowUn, Miss X. E. Tripp, Mrs. C. C. Smart and infant, aad one child ; W. H. Andrews, Mrs Maria J. Spaulding and infant, Elizabeth Rea, E. T. Rees, W. V. Brown, W. Walden and wife. Ellen Boyle, Mrs. It. Welch, two children and infant : George lieattie and wife, J. Peaker and wife, J. P. Emerston and wife, A. W. Worm, W. B. Duncroe, John Torrey, Andrew Spaulding and wife, 
-
+> Passengers from the East. — The following persons in addition to those recently published in the Ukios came passengers by the Moses Taylor, which recently arrived from Panama: W. F. HowUn, Miss X. E. Tripp, Mrs. C. C. Smart and infant, aad one child ; W. H. Andrews, Mrs Maria J. Spaulding and infant, Elizabeth Rea, E. T. Rees, W. V. Brown, W. Walden and wife. Ellen Boyle, Mrs. It. Welch, two children and infant : George lieattie and wife, J. Peaker and wife, J. P. Emerston and wife, A. W. Worm, W. B. Duncroe, John Torrey, Andrew Spaulding and wife,
 
 [Daily Alta California, Volume 20, Number 6762, 20 September 1868](https://cdnc.ucr.edu/?a=d&d=DAC18680920.2.7&srpos=2&e=-------en--20--1-byDA-txt-txIN-%22andrew+Spaulding%22-------)
 
@@ -106,11 +101,9 @@ Wins a prize for his watchmaker's lathe at the Mechanic's Industrial Fair
 
 > In addition to the list already published in the Alta the following further awards have been made public by the Board of Managers of the Mechanics' Institute. [...] Andrew Spaulding, for watchmaker's lathe, diploma.
 
-
 [Daily Alta California, Volume 25, Number 8381, 9 March 1873](https://cdnc.ucr.edu/?a=d&d=DAC18730309.2.56.1&srpos=3&e=-------en--20--1-byDA-txt-txIN-%22andrew+Spaulding%22------- )
 
 > BORN. In this city, February 25th, to the wife of Andrew Spaulding, a daughter.
-
 
 [Ventura Signal, Volume VI, Number 1, 22 April 1876](https://cdnc.ucr.edu/?a=d&d=VS18760422.2.22.8.2&srpos=6&e=-------en--20--1-byDA-txt-txIN-%22andrew+Spaulding%22-------)
 
@@ -118,12 +111,9 @@ It looks like the Spaulding family got into inventing... fruit drying machines?
 
 > Parties wishing to see the Fruit dried by this Machine can obtain samples of the proprietors, also of Strong & Williamson, 418 Clay street,San Francisco, or W. R. Strong & Co., Sacramento. Address SPAULDING & BRO., EAST PORTLAND, OREGON. ANDREW SPAULDING, 122 FOURTH ST., SAN FRANCISCO. Agents Wanted throughout the United States.
 
-
 [Pacific Appeal, Volume XV, Number 31, 23 March 1878](https://cdnc.ucr.edu/?a=d&d=PA18780323.2.10.1&srpos=8&e=-------en--20--1-byDA-txt-txIN-%22andrew+Spaulding%22-------)  Ad for Andrew's watchmaking and repair - 22 Fourth st
 
 [Daily Alta California, Volume 35, Number 12079, 20 May 1883](https://cdnc.ucr.edu/?a=d&d=DAC18830520.2.59.1&srpos=9&e=-------en--20--1-byDA-txt-txIN-%22andrew+Spaulding%22-------)  Andrew's mother passes away
-
-
 
 These might be a different guy - in Fresno
 
@@ -131,7 +121,7 @@ These might be a different guy - in Fresno
 
 Real estate transaction Feb 2 1884 - Fresno??
 
-> A A Dietrick to Andrew Spaulding, E 1/2 of Sec 29, T14 S, R17, E, $5. 
+> A A Dietrick to Andrew Spaulding, E 1/2 of Sec 29, T14 S, R17, E, $5.
 
 [Expositor, Volume IV, Number 131, 1 March 1884](https://cdnc.ucr.edu/?a=d&d=FDE18840301.2.2&srpos=11&e=-------en--20--1-byDA-txt-txIN-%22andrew+Spaulding%22-------)
 
@@ -139,11 +129,10 @@ Real estate transaction Feb 2 1884 - Fresno??
 
 ... this goes on to 1886
 
-
 [Daily Alta California, Volume 42, Number 14218, 9 August 1888](https://cdnc.ucr.edu/?a=d&d=DAC18880809.2.61&srpos=31&e=-------en--20--21-byDA-txt-txIN-%22andrew+Spaulding%22-------)
 
 > Mortgages
-> Andrew Spaulding to [Hibernia Savings and Loan Society], 2 years, 6 per cent. lot on E line of Castro, 125 S of Serente«ntb. st, S 55, E 148, N 80, W 68, S 25, W 80, to beginning. $2000. 
+> Andrew Spaulding to [Hibernia Savings and Loan Society], 2 years, 6 per cent. lot on E line of Castro, 125 S of Serente«ntb. st, S 55, E 148, N 80, W 68, S 25, W 80, to beginning. $2000.
 
 [Daily Alta California, Volume 82, Number 33, 2 February 1890](https://cdnc.ucr.edu/?a=d&d=DAC18900202.2.70&srpos=32&e=-------en--20--21-byDA-txt-txIN-%22andrew+Spaulding%22-------)
 
@@ -173,12 +162,10 @@ Okay this was apparently a sensational story, it's reported all up and down Cali
 
 > Andrew Spaulding, a trustee of the church, testified that he had nothing to do with the lighting apparatus, and had not requested Durrant to repair it.
 
-
 [Sausalito News, Volume 12, Number 18, 6 June 1896](https://cdnc.ucr.edu/?a=d&d=SN18960606.2.42.2&e=-------en--20--41-byDA-txt-txIN-%22andrew+Spaulding%22-------)
 
 > State and County Tax Sale
 > Spaulding, Andrew, assessment number 2036, road district number two, Eastland school district, the mortgage interest in lots in Mill Valley, known as lots one and two, block two, 2A, valued at $700, improvements $1300, asssessed to John C. Spencer, created by a mortgage executed by John C. Spencer to Andrew Spaulding and recorded in liber ten of mortgages on page 187, for the sum of $2000, valued at $2000; total value of all property after deduction by State Board of Equalization $1800; total tax due thereon $27, due on first installment $13.50, due on second installment $13.50; add to first installment 20 per cent, add to second installment 5 per cent; total tax due thereon with penalties and costs .......................... $30 87
-
 
 [San Francisco Call, Volume 80, Number 168, 15 November 1896](https://cdnc.ucr.edu/?a=d&d=SFC18961115.2.181.10&srpos=44&e=-------en--20--41-byDA-txt-txIN-%22andrew+Spaulding%22-------)
 
@@ -186,7 +173,6 @@ They attended a surprise party party
 
 > SURPRISE PARTY. Musicale and Reception in Honor of Mrs. R. W. Moore.
 > A MOST successfully planned surprise party was that given to Mrs. R. \V. Moore at her residence on Valencia street, corner of Twentieth, lust Monday evening. Quite an ambitious programme waa rendered, consisting of instrumental selections by Miss Lotta Underbill ; vocal solos by Miss Grace Corwin. Mrs. W. Z King and H. Jones and a recitation by Miss Boardman. Remarks befitting the occasion were made by Dr. J. George GiDson, Rev. A. • M. Russell and A. B. Cheney, after which an elegant supper was served.
-
 
 [San Francisco Call, Volume 82, Number 46, 16 July 1897](https://cdnc.ucr.edu/?a=d&d=SFC18970716.2.124.4&srpos=45&e=-------en--20--41-byDA-txt-txIN-%22andrew+Spaulding%22-------)
 
@@ -205,11 +191,9 @@ Still more.
 
 > 12-8-'06 — Andrew Spaulding to Susan Spaulding, lot I blk 135. as laid down and No. on map of Horton's addition made by Jas Pascoe, said lot I being bounded on the east by Tenth street, according to aforesaid map, being the same lot described in that certain deed from J. W. Gate to Andrew Spaulding, dated 11-6-69. and recorded 12-4-'69. Deeds, page 401, also lots 5, 6, blk 28, Ocean Beach Tract; consideration, love and affection.
 
-
 [Fresno Evening Herald, Volume XLVI, Number 152, 25 June 1912](https://cdnc.ucr.edu/?a=d&d=FHD19120625.2.34&srpos=50&e=-------en--20--41-byDA-txt-txIN-%22andrew+Spaulding%22-------)
 
 > Mrs. W. C. Guard presided over a congenial gathering of old friends today at her L street home, complimenting Mrs. Andrew Spaulding of San Francisco who is the house guest of Mrs. W. E. Toms. The afternoon was passed informally over their workbags and at its conclusion ices were served. Mrs. Spaulding is a delegate to the Christian Endeavor convention and arrived several days ago in order to visit friends befors the sessions of the convention begin.
-
 
 [San Francisco Call, Volume 111, Number 4, 4 December 1911](https://cdnc.ucr.edu/?a=d&d=SFC19111204.2.49.6&srpos=49&e=-------en--20--41-byDA-txt-txIN-%22andrew+Spaulding%22-------)
 

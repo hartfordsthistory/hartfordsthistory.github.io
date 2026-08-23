@@ -10,7 +10,7 @@ Renumbered AGAIN poor things, in 1900 when Fernando Nelson began construction of
 
 The first two blocks of Hartford St appear some time between [John Miers Horner](https://en.wikipedia.org/wiki/John_M._Horner) and his brother getting the plot in 1854 ([map here](https://hdl.huntington.org/digital/collection/p15150coll4/id/3502/), look for the pencilled in 112, 113, 114 at the top of the map), and when they had to liquidate due to financial panic in 1857 - [there's an 1858 map showing the wild overlapping land claims](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~289005~90060593), but it does show the two blocks of Hartford clearly labeled. There are rumors that they couldn't get much money for it because of squatters, and I wouldn't be surprised if Hartford St had already been settled for awhile.
 
-Hartford St first appears on the [1858 Map of Western Addition Land Claims](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~289005~90060593), after not appearing in the Horner land grant in 1854. We know the Horners had to sell up in 1857, 
+Hartford St first appears on the [1858 Map of Western Addition Land Claims](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~289005~90060593), after not appearing in the Horner land grant in 1854. We know the Horners had to sell up in 1857.
 
 ![Homestead Map](eureka-valley-homestead-central.png)
 
