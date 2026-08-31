@@ -22,6 +22,8 @@ However! There's also [a very handy interactive map to help you look up Sanborn 
 - 1900 [https://www.loc.gov/resource/g4364sm.g4364sm_g00813190006/?sp=51](https://www.loc.gov/resource/g4364sm.g4364sm_g00813190006/?sp=51)
 - 1905 - [https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~214223~5501578:Vol--6,-Page-671-672--San-Francisco?sort=Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No&qvq=q:Pub_List_No%3D%225850.000%22%20AND%20Short_Title%3D%22vol.%206%22%20;sort:Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No;lc:RUMSEY~8~1&mi=28&trs=66](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~214223~5501578:Vol--6,-Page-671-672--San-Francisco?sort=Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No&qvq=q:Pub_List_No%3D%225850.000%22%20AND%20Short_Title%3D%22vol.%206%22%20;sort:Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No;lc:RUMSEY~8~1&mi=28&trs=66)
 - 1914 - [https://www.loc.gov/resource/g4364sm.g4364sm_g00813191407/?sp=11](https://www.loc.gov/resource/g4364sm.g4364sm_g00813191407/?sp=11)
+- 1915 via SF Property Information Map ([PDF](images/San+Francisco+1913-1915+vol.+7%252C+1914%252C+Sheet+667_Page_1_Image_0001.pdf))
+- 1919 via SF Property Information Map ([PDF](images/1919+sanborn+#667.pdf))
 - 1914 - 1950 [https://www.loc.gov/resource/g4364sm.g4364sm_g00813195007/?sp=13](https://www.loc.gov/resource/g4364sm.g4364sm_g00813195007/?sp=13)
 
 ### Block Books
@@ -31,6 +33,12 @@ However! There's also [a very handy interactive map to help you look up Sanborn 
 - Jan 1906 [https://archive.org/details/sanfranciscobloc1906bloc/page/241/mode/1up](https://archive.org/details/sanfranciscobloc1906bloc/page/241/mode/1up)
 - Oct 1906 [https://archive.org/details/sanfranciscobloc1906octbloc/page/234/mode/1up](https://archive.org/details/sanfranciscobloc1906octbloc/page/234/mode/1up)
 - 1909 [https://archive.org/details/sanfranciscoorig3190910bloc/page/234/mode/1up](https://archive.org/details/sanfranciscoorig3190910bloc/page/234/mode/1up)
+
+### Real estate records
+
+- Edward's Abstracts [Jan 2 - Dec 31 1900](https://archive.org/details/mccords-edwards-abstract-from-records_1900-12-31_no-2610-no-2912/page/n5/mode/2up) - this one covers the first year of property transfers on the block. [There are a WHOLE LOT MORE](https://archive.org/details/sfpl_mccords-edwards-abstract-from-records) covering up to 1931. Normally they're only really useful if you know the date of the purchase, but Archive.org did some OCR so they are _sorta_ searchable now too.
+
+- Andrews Real Property directory of San Francisco - [1943](https://archive.org/details/andrewsrealprope1943andr/page/n298/mode/1up) and [1949](https://archive.org/details/andrewsrealprope1949andr/page/n304/mode/1up)
 
 ## Open SF history
 
