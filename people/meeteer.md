@@ -2,7 +2,7 @@
 title: Marshall Meeteer
 ---
 
-**Marshal(l) L** (Louis, Lewes, Lowes) **Meeteer** (Matear, Meetcer, Meter, Meteer, Meeter, Mateer, Meetier, Metier)
+**Marshal(l) L** (Louis, Lewes, Lowes) **Meeteer** (Matear, Meetcer, Meter, Meteer, Meeter, Mateer, Meetier, Metier, and McCleer)
 
 (Possibly the _most-misspelled_ man in San Francisco history)
 
@@ -56,12 +56,41 @@ In the 1880 census, Marshall and Elizabeth are still living on Castro St. Mary (
 
 [Daily Alta California, Volume 32, Number 10938, 26 March 1880](https://cdnc.ucr.edu/?a=d&d=DAC18800326.2.44&srpos=3&e=-------en--20-DAC-1-byDA-txt-txIN-%22meeteer%22-------)
 ![alt text](images/meeteers-leave-sf.png)
-> M. L. Meeteer and wife to Isaac M. Kalloch, lot 80x80; on east Una of Castro street, 100 feat Bouth of Seventeenth, $3760. 
+> M. L. Meeteer and wife to Isaac M. Kalloch, lot 80x80; on east Una of Castro street, 100 feet South of Seventeenth, $2750. 
 
 Hmmmm.... I think we had a typesetters error. Poor man and his poor surname.
 
 [Daily Alta California, Volume 32, Number 11023, 19 June 1880](https://cdnc.ucr.edu/?a=d&d=DAC18800619.2.48&srpos=3&e=-------en--20-DAC-1-byDA-txt-txIN-+Kalloch+castro-------)
-> M. L. MoOleer and wife to Annie F. Kalloch, lot 68x80, commencing 80 feet east of Castro street, and 180 south of Seventeenth, $6.
+> M. L. McCleer and wife to Annie F. Kalloch, lot 68x80, commencing 80 feet east of Castro street, and 180 south of Seventeenth, $5.
+
+
+<!-- Meeteer to Isaac Kalloch & separately Annie?
+
+Kallochs arrive  [Daily Alta California, Volume 30, Number 10426, 28 October 1878](https://cdnc.ucr.edu/?a=d&d=DAC18781028.2.46&srpos=1&e=-------en--20-DAC-1-byDA-txt-txIN-+Kalloch+castro-------)
+
+
+
+[Daily Alta California, Volume 32, Number 10938, 26 March 1880](https://cdnc.ucr.edu/?a=d&d=DAC18800326.2.44&srpos=3&e=-------en--20-DAC-1-byDA-txt-txIN-%22meeteer%22-------)
+![alt text](images/meeteers-leave-sf.png)
+> M. L. Meeteer and wife to Isaac M. Kalloch, lot 80x80; on east Una of Castro street, 100 feet South of Seventeenth, $2750. 
+
+
+[Daily Alta California, Volume 32, Number 11023, 19 June 1880](https://cdnc.ucr.edu/?a=d&d=DAC18800619.2.48&srpos=3&e=-------en--20-DAC-1-byDA-txt-txIN-+Kalloch+castro-------)
+> M. L. McCleer and wife to Annie F. Kalloch, lot 68x80, commencing 80 feet east of Castro street, and 180 south of Seventeenth, $5.
+
+Annie Kalloch to M. E. Garvey.    
+[Daily Alta California, Volume 36, Number 12369, 27 February 1884](https://cdnc.ucr.edu/?a=d&d=DAC18840227.2.42&srpos=4&e=-------en--20-DAC-1-byDA-txt-txIN-+Kalloch+castro-------)
+> Annie F. Kalloch to M.E. Garvey, lot 25x80, on E. line of Castro st, 100 S. of Seventeenth, 
+
+[Daily Alta California, Volume 42, Number 13768, 12 May 1887](https://cdnc.ucr.edu/?a=d&d=DAC18870512.2.65&srpos=9&e=-------en--20-DAC-1-byDA-txt-txIN-garvey+castro-------)
+> Mary E. Garvey to R. S. Williams, lot 25x80 on E. line of Castro, 100 S. of Seventeenth st., $1,300.
+
+[Daily Alta California, Volume 42, Number 13805, 18 June 1887](https://cdnc.ucr.edu/?a=d&d=DAC18870618.2.78&srpos=1&e=--1886-----en--20-DAC-1-byDA-txt-txIN-%22R+s+williams%22+castro-------)
+> A. F. Farman to A. Spaulding. lot 20x60, on S. line of Frank place, 97.6 W. of Mason, $1. 
+> R. S. Williams to same, lot 25x80, on E. line of Castro, 100 S. of Seventeenth st., $15.
+
+
+-->
 
 Mary Frances marries the Englishman Charles H McCurrie on the 29th of June, 1882. Charles, who's 35 at the time of the marriage, is a widower - his wife Isabella Britton passed away in Dec 1876, a few scant weeks after the birth of Isabelle Britton McCurrie on 20th September 1876. Much of this part of the family remains a little murky, as newspapers were a bit unspecific. At any rate, Mary and Charles raise Isabelle as their own, much to the confusion of later researchers.
 
