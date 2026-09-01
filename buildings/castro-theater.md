@@ -11,3 +11,8 @@ title: Castro Theater
 
 The Call records a few engagements, mostly with serialized movies, a few traveling shows that put their ads in the papers, and a series of political speeches and rallies around the [1919 SF mayoral election](https://en.wikipedia.org/wiki/1919_San_Francisco_mayoral_election), where James "Sunny Jim" Rolph gave some campaign speeches. 
 
+
+In 1921 the Nasser brothers begin a new building designed by Timothy Pfleuger. 
+
+![alt text](images/1921-june-11-call-handsome-amusement.png)
+_[San Francisco Call, Volume 109, Number 134, 11 June 1921](https://cdnc.ucr.edu/?a=d&d=SFC19210611.1.10&e=-------en--20-SFC-21-byDA-txt-txIN-%22castro+theater%22-------)_
