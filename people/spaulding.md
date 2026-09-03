@@ -2,12 +2,14 @@
 title: Andrew Spaulding and family
 ---
 Andrew Thomas Spaulding and Susan Shockley Spaulding.
-b May 21, 1834, in Milford, Hillsborough, New Hampshire.
-m Susan Shockley April 5, 1865 in Milan Indiana.
-d. Nov 23, 1906 in San Francisco, CA
+
+Andrew born May 21, 1834, in Milford, Hillsborough, New Hampshire.
+
+married Susan Shockley April 5, 1865 in Milan, Indiana.
+Andrew died Nov 23, 1906 in San Francisco, CA
 
 Susan Shockley Spaulding
-b Jan 15, 1840.
+b Jan 15, 1840, d. Nov 27, 1915.
 
 - Henry S Spaulding - 1870 (?)
 - George Henry b April 16 1866 d Sept 22 1876
@@ -31,7 +33,7 @@ Lived in SF Ward 10 in 1870 - downtown basically.
 Andrew was a watchmaker and jeweler and silversmith who came to SF in 1867, working at a number of different jewelry stores and investing in real estate.
 Bought Matear House.
 
-a watchmaker and jeweler working in San Francisco, CA  c. 1867-1880. (It appears he retired, moved, or went bust after that.)
+A watchmaker and jeweler working in San Francisco, CA  c. 1867-1880. (It appears he retired, moved, or went bust after that.)
 Directory listings:
 
 - 1867 San Francisco Dir.: listed under Jewelers, 23 Second, San Francisco, CA
@@ -58,7 +60,7 @@ In Sept 1878 they’re back in CA and another son is born. He only lives to 1885
 
 [Daily Alta California for 21 Nov 1885](https://cdnc.ucr.edu/?a=d&d=DAC18851122&dliv=userclipping&cliparea=1.8%2C4856%2C7483%2C1080%2C147&factor=2&e=01-09-1874-31-09-1888--en--20-BAR%2cCS%2cCSC%2cC%2cLVCH%2cRI%2cDAC%2cDCE%2cSACDI%2cDMT%2cDND%2cDNL%2cDPN%2cDSRB%2cES%2cESN%2cGGG%2cHE%2cHT%2cHTES%2cMCT%2cMJ%2cODT%2cOT%2cPA%2cbeacon%2cSFC%2cSFE%2cWAC-1-byDA-txt-txIN-%22susan+spaulding%22-------), Andrew Taylor Spaulding Jr passes away, "beloved and only child" aged 7 years 1 mo and 22 days.
 
-In 1886, Andrew Spaulding buys the parcel on Block 114 from Elizabeth Meeteer.
+In 1886, Andrew Spaulding buys [the parcel on Block 114](/buildings/matear-house/) from R. S. Williams.
 
 On October 18th, 1892 Great Register of California lists him as 5'7¼", with a fair complexion, blonde hair and green eyes. He's listed as a watchmaker, from New Hampshire, and as living at 405 Castro... up on the corner?
 
@@ -154,7 +156,7 @@ Huh.
 > July 3, 95 — Cypress Lawn Impt Co to Andrew Spaulding, lot 51 Sec “E" Cypress Lawn Cemetery 200 [presumably dollars]
 
 [Expositor, Volume XXVIII, Number 17, 22 October 1895](https://cdnc.ucr.edu/?a=d&d=FDE18951022.2.2&srpos=36&e=-------en--20--21-byDA-txt-txIN-%22andrew+Spaulding%22-------)
-Maybe it is the same guy? Out in Fresno they're reporting he's involved the [Theodore Durant](https://en.wikipedia.org/wiki/Theodore_Durrant) [murder](https://www.cdcr.ca.gov/insidecdcr/2018/07/14/1897-film-of-convicted-killer-durrant-shapes-prison-policy/) [case](https://www.kqed.org/news/11965502/murder-in-the-belfry-how-the-story-of-theodore-durrant-captivated-victorian-san-francisco)] where a body was found at Emmanuel Church.  
+Maybe it is the same guy? Out in Fresno they're reporting he's involved the [Theodore Durant](https://en.wikipedia.org/wiki/Theodore_Durrant) [murder](https://www.cdcr.ca.gov/insidecdcr/2018/07/14/1897-film-of-convicted-killer-durrant-shapes-prison-policy/) [case](https://www.kqed.org/news/11965502/murder-in-the-belfry-how-the-story-of-theodore-durrant-captivated-victorian-san-francisco) where a body was found at Emmanuel Church.  
 
 > The first step was to refute the statement of Durrant that the trustees of Emmanuel Church asked him to repair the gas fixtures at the church last April. P. D. Cole, C. G. Noble, Joseph Davis, Andrew Spaulding and A. D. Vogel, trustees of the church, when called to the stand, testified that they did not ask Durrant to make repairs.
 
@@ -169,7 +171,7 @@ Okay this was apparently a sensational story, it's reported all up and down Cali
 
 [San Francisco Call, Volume 80, Number 168, 15 November 1896](https://cdnc.ucr.edu/?a=d&d=SFC18961115.2.181.10&srpos=44&e=-------en--20--41-byDA-txt-txIN-%22andrew+Spaulding%22-------)
 
-They attended a surprise party party
+They attended a surprise party...
 
 > SURPRISE PARTY. Musicale and Reception in Honor of Mrs. R. W. Moore.
 > A MOST successfully planned surprise party was that given to Mrs. R. \V. Moore at her residence on Valencia street, corner of Twentieth, lust Monday evening. Quite an ambitious programme waa rendered, consisting of instrumental selections by Miss Lotta Underbill ; vocal solos by Miss Grace Corwin. Mrs. W. Z King and H. Jones and a recitation by Miss Boardman. Remarks befitting the occasion were made by Dr. J. George GiDson, Rev. A. • M. Russell and A. B. Cheney, after which an elegant supper was served.
