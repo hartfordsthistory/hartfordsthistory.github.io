@@ -7,7 +7,7 @@ title: The Kallochs
 Kallochs arrive  [Daily Alta California, Volume 30, Number 10426, 28 October 1878](https://cdnc.ucr.edu/?a=d&d=DAC18781028.2.46&srpos=1&e=-------en--20-DAC-1-byDA-txt-txIN-+Kalloch+castro-------)
 
 [Daily Alta California, Volume 32, Number 10938, 26 March 1880](https://cdnc.ucr.edu/?a=d&d=DAC18800326.2.44&srpos=3&e=-------en--20-DAC-1-byDA-txt-txIN-%22meeteer%22-------)
-![alt text](images/meeteers-leave-sf.png)
+![alt text](images/1880-03Mar-26-DailyAltaCalifornia-meeteers-leave-sf.png)
 > M. L. Meeteer and wife to Isaac M. Kalloch, lot 80x80; on east Una of Castro street, 100 feet South of Seventeenth, $2750. 
 
 

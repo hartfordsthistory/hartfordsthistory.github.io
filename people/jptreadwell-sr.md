@@ -35,14 +35,23 @@ Harvard lawyer, reportedly extremely studious, even withdrawn in contemplation.
 
 Graduated late (1844) because he published a satirical thing the faculty were mad about
 
-Passed the bar in 1850
+Passed the bar in 1850. [20 June 1850](https://cdnc.ucr.edu/?a=d&d=DAC18500620.2.14&srpos=1&e=-------en--20--1-byDA-txt-txIN-%22j+p+treadwell%22-------), listed on the passenger list for the Steamship Tennessee.
 
-came to SF in 1851
+Helped [found The Sons of New England in Oct 1850](https://cdnc.ucr.edu/?a=d&d=DAC18501020.2.7&srpos=3&e=-------en--20--1-byDA-txt-txIN-%22j+p+treadwell%22-------). (They had a [party on Dec 22 1851, sounds fun](https://cdnc.ucr.edu/?a=d&d=DAC18511223.2.6&srpos=1&e=-------en--20--1-byDA-txt-txIN-%22new+england+festival%22+treadwell-------). And I guess he was also a contemporary of Judge Terry? Different Terry)
 
 [Listed in the 1852 directory](https://archive.org/details/awmorgancossanfr1852awmo/page/59/mode/1up):
 > Treadwell & Co., hardware and agricultural store, c California and Battery
 > Treadwell, L.L.
 > Treadwell, J.P.
+
+I guess [he had some insolvency issues in 1853](https://cdnc.ucr.edu/?a=d&d=DAC18530621.2.22.2&srpos=10&e=-------en--20--1-byDA-txt-txIN-%22j+p+treadwell%22-------).
+![alt text](images/1853-06Jun-12-DailyAlta-treadwell-buckets.png)
+
+And maybe again in 1855 - his property in one of the 50 Vara lots was levied for unpaid taxes.
+![alt text](images/1855-02feb-13-DailyAlta-treadwell-levied.png)
+[Daily Alta California, Volume 6, Number 43, 13 February 1855](https://cdnc.ucr.edu/?a=d&d=DAC18550213.1.1&e=-------en--20--1-byDA-txt-txIN-%22j+p+treadwell%22-------)
+
+[1855](https://cdnc.ucr.edu/?a=d&d=DAC18550530.2.8&srpos=16&e=-------en--20--1-byDA-txt-txIN-%22j+p+treadwell%22-------), insolvency case.
 
 1856, defended his brother Leonard Linton Treadwell (Treadwell & Co) from [a patent infringement case](https://smcgs.org/resources/Documents/Databases/Private%20Common%20Law%20Case%20Files.pdf).
 
@@ -58,6 +67,11 @@ in 1867 lived at 528 Clay st.
 - James Jr murder-suicide
 
 Treadwell sued a SF business after he was in an elevator fall, and left his capacious estate in such absolute chaos that it was in probate court and appeals until at least 1904
+
+[Attempted Incendiarism](https://cdnc.ucr.edu/?a=d&d=DAC18590502.2.9&srpos=24&e=-------en--20--21-byDA-txt-txIN-%22j+p+treadwell%22-------) of a house he was renting out to someone else. 1859.
+
+1871 - fighting the grading ![alt text](images/1871-04Apr-05-DailyAlta-treadwell-grading.png)
+[Daily Alta California, Volume 23, Number 7683, 5 April 1871](https://cdnc.ucr.edu/?a=d&d=DAC18710405.2.16&srpos=2&e=-------en--20--1-byDA-txt-txIN-%22j+p+treadwell%22+market+seventeenth-------)
 
 ### Biographical
 

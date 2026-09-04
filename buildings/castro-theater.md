@@ -14,5 +14,5 @@ The Call records a few engagements, mostly with serialized movies, a few traveli
 
 In 1921 the Nasser brothers begin a new building designed by Timothy Pfleuger. 
 
-![alt text](images/1921-june-11-call-handsome-amusement.png)
+![alt text](images/1921-06Jun-11-SFCall-handsome-amusement.png)
 _[San Francisco Call, Volume 109, Number 134, 11 June 1921](https://cdnc.ucr.edu/?a=d&d=SFC19210611.1.10&e=-------en--20-SFC-21-byDA-txt-txIN-%22castro+theater%22-------)_

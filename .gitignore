@@ -4,6 +4,8 @@ _site
 .DS_Store
 .env
 .jekyll-cache
+.local-tmp
+
 
 # Amplitude wizard
 .amplitude/dashboard.json

@@ -29,7 +29,7 @@ We don't know when he departed Maryland, and we don't know when he arrived in Sa
 
 The [Daily Alta California, Volume 9, Number 112, 23 April 1857](https://cdnc.ucr.edu/?a=d&d=DAC18570423.2.12&srpos=1&e=-------en--20--1-byDA-txt-txIN-%22meeteer%22-------) mentions an "M L Meeteer" making an heroic and ultimately unsuccessful rescue attempt of two children from a burning building. If this is our Marshall, this is the first evidence of the Meeteer family on the West Coast.
 
-> M. L. Meeteer testified that be saw the fire bursting out of the roof: ran to the spot, and saw two women and a man in his shirt-sleeves; one of the women cried out. "My God ! save my children ;" he asked where they were; she replied, " Upstairs;" he then rushed up, bul not knowing the room in which the children were, he got into the wrong room ; it was very dark, and the smoke almost suffocated him ; he groped about and found ai empty bed ; as he had not bven told where the children were, except up-stairs, and finding an empty bed, hi was led to believe they had been saved. He thinks if he had been told the exact place where the children were he could have reached them, but they must have been dead before that. 
+> M. L. Meeteer testified that be saw the fire bursting out of the roof: ran to the spot, and saw two women and a man in his shirt-sleeves; one of the women cried out. "My God ! save my children ;" he asked where they were; she replied, " Upstairs;" he then rushed up, bul not knowing the room in which the children were, he got into the wrong room ; it was very dark, and the smoke almost suffocated him ; he groped about and found ai empty bed ; as he had not bven told where the children were, except up-stairs, and finding an empty bed, hi was led to believe they had been saved. He thinks if he had been told the exact place where the children were he could have reached them, but they must have been dead before that.
 
 In 1857, somewhere in California, Mary Frances Meeteer was born. Some records show December 8, 1857, in San Francisco.
 
@@ -56,15 +56,24 @@ In the 1880 census, Marshall and Elizabeth are still living on Castro St. Mary (
 
 Somewhere in there Mary starts stepping out with an Englishman named Charles H McCurrie. Charles is a musician and a businessman, and seems to have a different direction and occupation in every San Francisco Directory. From his records it's clear he's a man of letters, and a musician. He started a company in 1874 with his friend Weber, "McCurrie, Weber & Co.", publishing sheet music out of San Francisco. You can see [an example in the Berkeley archives](https://digicoll.lib.berkeley.edu/record/99930#) (but there are a lot of [other examples](https://library.artstor.org/#/asset/SS7730637_7730637_10278472;prevRouteTS=1680761493981) out there).
 
-Charles is also a widower: his wife Isabella Britton passed away in Dec 1876, a few scant weeks after the birth of a daughter, Isabelle Britton McCurrie, on 20th September 1876. Much of this part of the family remains a little murky, as newspapers were a bit unspecific. 
+Charles is also a widower: his wife Isabella Britton passed away on November 18, 1876, a few scant weeks after the birth of a daughter, Isabelle Britton McCurrie, on 20th September 1876. Much of this part of the family remains a little murky, as newspapers were a bit unspecific.
+
+[Marin Journal, Volume 16, Number 36, 23 November 1876](https://cdnc.ucr.edu/?a=d&d=MJ18761123.2.14&e=------187-en--20--1-byDA-txt-txIN-mccurrie+isabella-------)
+![1876-11Nov-23-MarinJournal-belle_britton.png](images/1876-11Nov-23-MarinJournal-belle_britton.png)
+
+![alt text](images/1876-11Nov-20-DailyAltaCA-mccurrie-isabella-obit.png)
+[Daily Alta California, Volume 28, Number 9724, 20 November 1876](https://cdnc.ucr.edu/?a=d&d=DAC18761120.2.52.1&srpos=3&e=------187-en--20--1-byDA-txt-txIN-mccurrie+isabella-------)
+
+![alt text](images/1876-11Nov-23-MarinJournal-belle_britton.png)
+[Marin Journal, Volume 16, Number 37, 23 November 1876](https://cdnc.ucr.edu/?a=d&d=MJ18761123.2.16&srpos=5&e=------187-en--20--1-byDA-txt-txIN-mccurrie+isabella-------)
 
 Somewhere around 1879/1880, the whole family ups stakes (Mary and Charles, with parents in tow) and moves across the Bay to the Oakland area. Perhaps the Barbary Coast became a little too much to bear, or perhaps there were other opportunities in the East Bay. It's unclear, because they still own property in San Francisco.
 
-[They sell off the house to Isaac and Annie Kalloch](/buildings/matear-house/). The exact timing is a little weird because sales could happen and not be *recorded* for some time. 
+[They sell off the house to Isaac and Annie Kalloch](/buildings/matear-house/). The exact timing is a little weird because sales could happen and not be _recorded_ for some time.
 
 [Daily Alta California, Volume 32, Number 10938, 26 March 1880](https://cdnc.ucr.edu/?a=d&d=DAC18800326.2.44&srpos=3&e=-------en--20-DAC-1-byDA-txt-txIN-%22meeteer%22-------)
-![alt text](images/meeteers-leave-sf.png)
-> M. L. Meeteer and wife to Isaac M. Kalloch, lot 80x80; on east Una of Castro street, 100 feet South of Seventeenth, $2750. 
+![alt text](images/1880-03Mar-26-DailyAltaCalifornia-meeteers-leave-sf.png)
+> M. L. Meeteer and wife to Isaac M. Kalloch, lot 80x80; on east Una of Castro street, 100 feet South of Seventeenth, $2750.
 
 Hmmmm.... I think we had a typesetters error. Poor man and his poor surname.
 
@@ -73,32 +82,25 @@ Hmmmm.... I think we had a typesetters error. Poor man and his poor surname.
 
 Mary Frances marries Charles H McCurrie on the 29th of June, 1882, in San Francisco. Charles is 35 at the time of the marriage, and they raise his daughter Isabelle as their own, much to the confusion of later researchers.
 
-![alt text](images/1882-july-11-mccurrie-meeteer.png)
+![alt text](images/1882-07Jul-11-Unknown-mccurrie-meeteer.png)
 _[Daily Alta California, Volume 34, Number 11767, 11 July 1882](https://cdnc.ucr.edu/?a=d&d=DAC18820711.2.63.1&srpos=4&e=-------en--20-DAC-1-byDA-txt-txIN-%22meeteer%22-------)_
-
-
 
 <!-- Meeteer to Isaac Kalloch & separately Annie?
 
 Kallochs arrive  [Daily Alta California, Volume 30, Number 10426, 28 October 1878](https://cdnc.ucr.edu/?a=d&d=DAC18781028.2.46&srpos=1&e=-------en--20-DAC-1-byDA-txt-txIN-+Kalloch+castro-------)
 
 [Daily Alta California, Volume 32, Number 10938, 26 March 1880](https://cdnc.ucr.edu/?a=d&d=DAC18800326.2.44&srpos=3&e=-------en--20-DAC-1-byDA-txt-txIN-%22meeteer%22-------)
-![alt text](images/meeteers-leave-sf.png)
+![alt text](images/1880-03Mar-26-DailyAltaCalifornia-meeteers-leave-sf.png)
 > M. L. Meeteer and wife to Isaac M. Kalloch, lot 80x80; on east Una of Castro street, 100 feet South of Seventeenth, $2750. 
-
 
 [Daily Alta California, Volume 32, Number 11023, 19 June 1880](https://cdnc.ucr.edu/?a=d&d=DAC18800619.2.48&srpos=3&e=-------en--20-DAC-1-byDA-txt-txIN-+Kalloch+castro-------)
 > M. L. McCleer and wife to Annie F. Kalloch, lot 68x80, commencing 80 feet east of Castro street, and 180 south of Seventeenth, $5.
 -->
 
-
-
 Marshall appears in the 1882 Alameda County census, listed as a "Marshall Lewis Meeteer", 67, Architect, [Third Ward, 2](https://localwiki.org/oakland/Ward_Boundaries_%28Historic%29) - Sept 29 1882. This places him in a fairly narrow area of what is now Oakland CA, but we don't have an exact street address, alas.
 
-
-
 Elizabeth buys a property across the street from Charles Monmonier in 1884.
-![alt text](images/1884-sept-23-eliz-meeteer.png)
+![alt text](images/1884-09Sep-23-Unknown-eliz-meeteer.png)
 _[Daily Alta California, Volume 37, Number 12581, 23 September 1884](https://cdnc.ucr.edu/?a=d&d=DAC18840923.2.59&srpos=5&e=-------en--20-DAC-1-byDA-txt-txIN-%22meeteer%22-------)_
 
 Marshall dies April 2nd, 1885, and Elizabeth [passes away October 7 1892](https://www.findagrave.com/memorial/105562559/elizabeth-mee_teer) [in Oakland](https://cdnc.ucr.edu/?a=d&d=SFC18921010&dliv=userclipping&cliparea=1.8%2C4796%2C5223%2C917%2C113&factor=2&e=-------en--20--1--txt-txIN--------). The rest of the family appears in Alameda, not far away, where they remain through about 1910.

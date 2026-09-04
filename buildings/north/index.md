@@ -43,9 +43,9 @@ Interestingly, she sells this parcel separately.
 
 _(NB: all of this could probably be resolved by looking at the block book, I just haven't had time to do so.)_
 
-It looks like Andrew Christensen was the first person to buy a lot on the newly-subdivided Mission 114 block per this SFCall notice from 9th June 1900. If that's the first house, then he must've started building nearly immediately since our "[first building on Hartford St](https://history.hartfordstreet.online/images/DHWulzen-Hartford-June-28-1900-1030am.png)" photo is dated 28 June 1900.
+It looks like Andrew Christensen was the first person to buy a lot on the newly-subdivided Mission 114 block per this SFCall notice from 9th June 1900. If that's the first house, then he must've started building nearly immediately since our "[first building on Hartford St](https://history.hartfordstreet.online/images/1900-06Jun-28-DHWulzen-hartford-1030am.png)" photo is dated 28 June 1900.
 
-![Treadwell-Christensen sale](/buildings/images/SFCall-9-June-1900-retxns.jpg)
+![Treadwell-Christensen sale](/buildings/images/1900-06Jun-09-SFCall-retxns.jpg)
 
 _The San Francisco Call for 9th June, 1900_
 
@@ -55,7 +55,7 @@ It looks like his brother bought the adjacent lot a month later.
 
 > Thalia Treadwell (single) to Jens Chr Christensen, lot on E line of Hartford street, 163:6 S of Seventeenth, S26:2 by E 123; $10.
 
-![](/buildings/images/SFCall-8-July-1900-retxns.jpg)
+![](/buildings/images/1900-07Jul-08-SFCall-retxns.jpg)
 
 _The San Francisco Call for 8th July, 1900_
 
@@ -64,7 +64,7 @@ The [first builder contract I found](https://cdnc.ucr.edu/?a=d&d=SFC19000620&dli
 ![18 June builder contract](images/1900-june-18-christensen-contract.png)
 It's signed on 18th June, [recorded 19th June](https://archive.org/details/mccords-edwards-abstract-from-records_1900-12-31_no-2610-no-2912/page/n300/mode/1up?q=christensen), and reported the next day in the _Call_:
 
-![](/buildings/images/SFCall-20-June-1900-builder-contracts.jpg)
+![](/buildings/images/1900-06Jun-20-SFCall-builder-contracts.jpg)
 
 _The San Francisco Call for 20th June, 1900_
 
@@ -84,13 +84,13 @@ At any rate, Fernando Nelson bought a Hartford chunk of the Treadwell block in N
 24th October, recorded 2nd Nov 1900:
 ![alt text](images/1900-nov-2-treadwells-to-nelson.png)
 
-![](/buildings/images/SFCall-5-Nov-1900-renews.png)
+![](/buildings/images/1900-11Nov-05-SFCall-renews.png)
 
  [San Francisco Call, Volume 87, Number 158, 5 November 1900](https://cdnc.ucr.edu/?a=d&d=SFC19001105.2.104&srpos=5&e=01-01-1899-01-12-1900--en--20--1-byDA-txt-txIN-%22fernando+nelson%22-------)
 
 He later bought up the other side of the block from 18th and Noe north:
 
-![](/buildings/images/SFCall-24-Dec-1900-renews.png)
+![](/buildings/images/1900-12Dec-24-SFCall-renews.png)
 
 _[San Francisco Call, Volume 87, Number 24, 24 December 1900](https://cdnc.ucr.edu/?a=d&d=SFC19001224.2.106&srpos=3&e=-------en--20--1-byDA-txt-txIN-%22fernando+nelson%22+treadwell-------)_
 

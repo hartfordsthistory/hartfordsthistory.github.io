@@ -85,7 +85,7 @@ His widow Susan Shockley Spaulding moved across the street to 458 Castro, where 
 apparently real estate investments?
 Parking lot behind what is now castro theater was called "Spalding [sic] court".
 
-At his death, Spaulding's [Nov 26 1906 obituary](/images/spaulding-a-obit-26-nov-1906-petaluma.jpg) _in a paper in Petaluma_ lists him and Susan as the parents of H. S. Spaulding who recently married Susie Hocking "of this City".
+At his death, Spaulding's [Nov 26 1906 obituary](/images/1906-11Nov-26-Unknown-spaulding-obit-petaluma.jpg) _in a paper in Petaluma_ lists him and Susan as the parents of H. S. Spaulding who recently married Susie Hocking "of this City".
 
 Indeed, backtracking we find Henry Stewart Spaulding, who does not appear in "The Spaulding Memorial" at all, and his wife Susie, living just up the road at 771 Castro Street in the 1950 census. (Another Spaulding appears nearby - so unclear if these folks are actually related to Andrew?)
 

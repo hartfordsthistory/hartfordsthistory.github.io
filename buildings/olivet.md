@@ -3,7 +3,7 @@ title: Olivet Congregational Church
 classes: wide
 ---
 
-![](/buildings/images/olivet.png)
+![](/buildings/images/Unknown-Unknown-Unknown-Unknown-olivet.png)
 
 On the tiny diagonal slip of land at the southwest corner of 17th and Noe you can see a tiny church sitting squeezed between fences. That weird diagonal line is the edge of the original Rancho San Miguel land grant, so that parcel is just out of a contested area. (You can actually still see this border in satellite photos of the buildings along upper Market st.)
 

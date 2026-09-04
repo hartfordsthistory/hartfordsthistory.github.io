@@ -1,10 +1,47 @@
 ---
 title: John Meirs Horner
 ---
+b. June 15, 1821
+d. May 14, 1907 (in Hawaii)
 
-Farmer. Became a Mormon and headed west. Friend of Brannan?
-Managed to go bust in CA. "Horner's Addition".
+Arrived in CA in 1846 on the Brooklyn with Sam Brannan.
+Originally a teacher in New Jersey, began farming in Mission San Jose in 1847, bought 30,000 acres from Pio Pico and put it to the plow, making immense profits which he in turn invested into more land. Founded Union City, and lived along its north edge - then known as Centerville.
+
+![engraved portrait of Mr Horner](images/john-miers-horner.jpeg)
+_1854 engraving from [Gleason's Pictorial Drawing Room Companion](https://www.google.com/books/edition/Gleason_s_Pictorial/4fbsSupGupQC?hl=en&gbpv=1&dq=%22Mr.%20Horner%2C%20the%20Greatest%20Farmer%20in%20California%22&pg=RA1-PA164&printsec=frontcover) "Mr. Horner, the Greatest Farmer in California."_
+
+- Established a commission house (store) in San Francisco, under the firm name of J. M. Horner & Co., to sell their own and others' produce.
+- We secured by purchase the steamer Union to carry our produce to market.
+- First agricultural fair. (And second)
+- Flouring mills not being sufficient in California at this time, we built one at Union City, with eight run of burrs, at a cost of eighty-five thousand dollars, and ground our grain and that of others.
+- We equipped and ran a stage line in connection with our steamer, as far up the valley as San Jose, twenty-five miles. Thus completing a through passenger line from San Francisco to San Jose. We opened sixteen miles of public roads, mostly through our own land, and fenced the larger part on both sides.
+
+> the unsettled state of land titles rendered investments in land almost as hazardous as depositing money in commercial banks, as we found to our cost. The United States opposed all land titles. and requested proof of their genuineness to be made before its land commissioners, reserving the right of appeal to its district court, in the event the commissioners decided against the government; and to appeal again to its supreme court, if the district court decided against it. Thus years of costly law suits, and in some cases ruin to owners of land titles, intervened before final settlement. We suffered from the law's delay in settling titles, and from squatters keeping from as, by force, a goodly portion of our lands, being encouraged to do so by the government; for as long as the government withheld final confirmation, the squatter continued to hold possession, however good the title. We suffered more mentally and financially during these years from the above named causes, than from all floods and four-footed animals in former years.
+
+Purchased some part of Rancho San Miguel from [Jose de Jesús Noé](/people/noe/) in mid 1853 and called it "Horner's Addition". This was when the land and titles were all very confused with the delayed conversion of the Californio lands.
+
+[Via SF Genealogy](https://legacy.sfgenealogy.org/sf/history/hgoe04.htm):
+
+> "In San Francisco county, we paid two hundred and eighty-five thousand dollars for five thousand two hundred and fifty acres of land adjoining the city of San Francisco, and expended nearly eight thousand dollars upon it in surveys, fences and other improvements. One thousand and fifty acres of these lands we surveyed and staked into streets, blocks, and lots, extending the streets of San Francisco over it. It is now, and has been for over thirty years, a part of that flourishing city." —John M. Horner
+
+He says a large number of squatters devalued his property:
+> [...] the closer these squatters could get to San Francisco, the better they liked it; and if the land was surveyed and staked into streets, blocks, and lots, the better, as then they could and did sell lots cheap to innocent parties.
+
+Basically, with the owners living in Union City, there was little or nothing that could be done to prevent some random guy from setting up shop and selling the lots to unwary newcomers.
+
+> There is an interesting account of the early days of the development of Horner's Addition in the writings of Caroline Barnes Crosby who lived with the Horner's during 1854 and 1855. One the accounts read:
+
+>> "Sun 29th [January 1854] A beautiful pleasant morning. . .Alma Frances and myself took a walk over the hills, to take a view of br Horners new purchase, and to get a peep at the Spanish house where we expect to reside, after a few weeks. We admired the scenery very much; and think in short time it will be a great place. We walked from bluff to bluff untill we arrived at the top of a high one nearly in front of the dobie house where the spaniard resides of whom Mr H bought the land. We then sat down to admire the prospect. And we came to the conclusion that altho it was not quite retired, yet it was a most beautiful and romantic place. . ." [pages 239-240]
+
+Started the Eureka Homestead Association, but very few lots sold.[The Panic of 1854-7](https://en.wikipedia.org/wiki/Panic_of_1857) took out his and his brothers' investments.
+
+> ...the first wave of money panic struck California, and swept over America with such disastrous results, from 1853 to 1859. [...] thousands of tons of farm products were never sent to market, for there was no sale; good potatoes were ten cents per bushel, but there were no ten cents
+> All this happened in the Golden State of California, in 1854, where millions of gold and silver were dug from its mines every month. Most, or all, of it was sent to San Francisco as soon as produced, and tons of it were hoarded in banks, treasury vaults, napkins, old bonnets, and other places, thought safe to keep money, after drawing it from the banks. Gold was gloated over and worshiped. A man with a few hundred dollars in gold coin was independent, while the owner of scores of thousands of property was poverty stricken, and permitted it to be sold for taxes, and in some cases never redeemed it. Some with ready money held it for purchasing properties at the depreciated rates for which it was sold by the sheriff, and money could not be borrowed on real estate, however good the title.
+
 Ended up in "The Sandwich Islands" (Hawaii) because he heard from Spreckels that there were about to be large sugar cane plantations started in Maui. So thither went he and the rest is history.
+
+> ...At this time my oldest son was cultivating sugar cane in the Hawaiian Islands, and hearing that Mr. Claus Spreckels was about to open the largest sugar plantation known, he advised us to see Mr. Spreckels and get a contract from him to cultivate cane for him. If we could do so, he thought, we would do better in the Islands than in California.
+> We saw Mr. Spreckels, and contracted with him to go to the islands and cultivate cane on shares. In fulfillment of this contract we sold our farms, chartered a schooner, and placed there in our families—eighteen souls—our household eflects, horses and farming tools, and started for the islands, where we arrived on the 25th of December, 1879.
 
 <https://en.wikipedia.org/wiki/John_M._Horner>
 <https://www.foundsf.org/index.php?title=The_Farmer_with_the_Golden_Plow:_John_Meirs_Horner_(1821-1912)>

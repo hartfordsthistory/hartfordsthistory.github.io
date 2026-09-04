@@ -5,21 +5,21 @@ classes: wide
 
 This fine peaked building with the lacy bargeboards is Meeteer House, sometimes called "Matear House". It was originally built by [Marshall Meeteer](/people/meeteer/)(the most-misspelled man in history), a carpenter from Baltimore who came to San Francisco around 1860.
 
-![](/buildings/images/dhwulzen-4-28-1901-meeteer-house-front.jpeg)
+![](/buildings/images/1901-04Apr-28-DHWulzen-meeteer-house-front.jpeg)
 
 <i>Meeteer House at 429 Castro St, on a rainy April 28, 1901. Photo by [DH Wulzen Jr.](/people/dhwulzen/) <br/><a href="/images/dhwulzen-4-28-1901-meeteer-house-front.png" target="_blank" rel="noopener noreferrer">Click to open the full size image in a new tab</a>
  </i>
 
 The style is what we'd generally call "carpenter gothic", which is to say fancy, but fancy made by _hand_ rather than with machined millwork and engine-powered lathes. The house clearly started as a single peaked structure, but quickly developed porches and verandahs. Eureka Valley was [rich in water](/history/water-wars/), and it looks like Meeteer capitalized on that by digging a well and fitting it with a wind-driven pump and a large water tank. With the city's history of fire, these improvements were more than a luxury - they lowered your fire insurance premiums! The rest of the parcel was taken up with gardens, animal sheds, outbuildings, and some rental flats that sat directly at the property line.
 
-![](/buildings/images/dhwulzen-meeteer-back.jpeg)
+![](/buildings/images/Unknown-DHWulzen-meeteer-back.jpeg)
 _Detail of June 28, 1900 photo by [DH Wulzen Jr.](/people/dhwulzen/), showing Meeteer House from behind._
 
 The Meeteer family moved to Oakland around 1880, and the property went through a series of owners.
 
 1. Meeteer to Kalloch
    [Daily Alta California, Volume 32, Number 10938, 26 March 1880](https://cdnc.ucr.edu/?a=d&d=DAC18800326.2.44&srpos=3&e=-------en--20-DAC-1-byDA-txt-txIN-%22meeteer%22-------)
-   ![alt text](images/meeteers-leave-sf.png)
+   ![alt text](images/1880-03Mar-26-DailyAltaCalifornia-meeteers-leave-sf.png)
    > M. L. Meeteer and wife to Isaac M. Kalloch, lot 80x80; on east Una of Castro street, 100 feet South of Seventeenth, $2750. 
 2. Meeteer to Kalloch
    [Daily Alta California, Volume 32, Number 11023, 19 June 1880](https://cdnc.ucr.edu/?a=d&d=DAC18800619.2.48&srpos=3&e=-------en--20-DAC-1-byDA-txt-txIN-+Kalloch+castro-------)
