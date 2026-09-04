@@ -48,7 +48,7 @@ I guess [he had some insolvency issues in 1853](https://cdnc.ucr.edu/?a=d&d=DAC1
 ![alt text](images/1853-06Jun-12-DailyAlta-treadwell-buckets.png)
 
 And maybe again in 1855 - his property in one of the 50 Vara lots was levied for unpaid taxes.
-![alt text](images/1855-02feb-13-DailyAlta-treadwell-levied.png)
+![alt text](images/1855-02Feb-13-DailyAlta-treadwell-levied.png)
 [Daily Alta California, Volume 6, Number 43, 13 February 1855](https://cdnc.ucr.edu/?a=d&d=DAC18550213.1.1&e=-------en--20--1-byDA-txt-txIN-%22j+p+treadwell%22-------)
 
 [1855](https://cdnc.ucr.edu/?a=d&d=DAC18550530.2.8&srpos=16&e=-------en--20--1-byDA-txt-txIN-%22j+p+treadwell%22-------), insolvency case.
