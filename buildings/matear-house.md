@@ -40,9 +40,9 @@ The entire parcel, including house, grounds, and rental flats, ended up in the h
 
 William C. Hopper, a physician, is listed in the SF Directories first as a tenant, and then owner of the address starting in 1907, and continuing until 1912. The SF directory lists several others as living at this address until 1922.
 
-Meeteer house was torn down around 1921 to make way for the Castro Theater. San Francisco nostalgia being what it is, a newspaper columnist eulogized the early block of Castro in 1923 in their column "Cities within a City". [Meeteer House is briefly mentioned](https://archive.org/details/citieswithincity19241sanf/page/n202/mode/1up) (and badly misspelled), and this misspelling continues in historical records to this day.
+Meeteer house was torn down around 1921 to make way for the new Pfluger-designed second location of the Castro Theater. San Francisco nostalgia being what it is, a newspaper columnist eulogized the early block of Castro in 1923 in their column "Cities within a City". [Meeteer House is briefly mentioned](https://archive.org/details/citieswithincity19241sanf/page/n202/mode/1up) (and badly misspelled), and this misspelling continues in historical records to this day.
 
-The parking lot behind the Castro Theater is still called “Spaulding Court” on older city and Sanborn maps.
+The parking lot behind the Castro Theater is still called “Spaulding Court” or "Spalding Court" on older city and Sanborn maps.
 
 
 
