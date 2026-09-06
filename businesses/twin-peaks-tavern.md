@@ -10,7 +10,7 @@ Some sort of building on that site going back to the 1860s.
 
 [Daily Alta California, Volume 42, Number 13788, 1 June 1887](https://cdnc.ucr.edu/?a=d&d=DAC18870601.2.67&srpos=2&e=-------en--20--1-byDA-txt-txIN-%22henry+Hetherington%22-------)
 > Henry Hetherington and wife leases to L. Beni lot 25x40 S Seventeenth, 25 E of Castro, for 7 years, at $16 per month of first 2 years and $20 per month balance of term.
-![alt text](image.png)
+![alt text](images/1887-06Jun-01-DailyAlta-hetherington-lease.png)
 This means that it was set to be leased by Beni until 1894.
 
 Langley 1890:
@@ -36,7 +36,7 @@ Langley directory for 1894:
 > EFFECTS OF DRINK.
 > Henry Hetherington Gives His Aged Wife an Unmerciful Beating.
 > Henry Hetherington, engineer, MB Seventeenth street, is a quiet, peaceable man when sober, but when drunk he is a perfect demon. He is 66 years old, and his wife, Elizabeth, is six years older. He had been drinking heavily yesterday, and when be went home In the afternoon be was in an ugly mood. He found tfault with everthing, and finished no by attacking his old helpmeet. He knocked her down, smashed her in the face, blackening her eyes and cutting open her lips, and bit one of her fingers to the bans. The screams of the badly-beaten woman alarmed the neighbor*, and they rushed in and dragged her bloodthirsty husband away from h#r, He was neld until a policern»n arrived, and was taken to the Seventeenth-street station, where he was fharged with assault to murder. Mrs. Hetherington was taken to tne Receiving Hospital and had her injuries attended to. Her face presented a sorry sight, and she complained of pains all over her body where her husband had struck and kicked her. She is not dangerously injured. She said Henry was a kind anil Indulgent husband as long as ho kept away from drmk. He had beaten her before, but never so badly as yesterday.
-![alt text](image-1.png)
+![alt text](images/1894-06Jun-04-SFCall-effects-of-drink.png)
 
 For 1895: No sign of Henry
 > Hetherington John, r. 2484 Market
@@ -84,15 +84,15 @@ Grocer J Hough, 3997 Seventeenth St, arrested for selling impure oil.
 
 [San Francisco Call, Volume 87, Number 2, 2 June 1901](https://cdnc.ucr.edu/?a=d&d=SFC19010602.2.171&srpos=3&e=-------en--20--1-byDA-txt-txIN-%22elizabeth+Hetherington%22-------)
 > A. M. Speck. as administrator of the estate of Elizabeth Hetherington; has applied for permission to sell the flats, stores and' lot at the Junctin of Market. Castro and Seventeenth streets.
-![alt text](image-3.png)
+![alt text](images/1901-06Jun-02-SFCall-hetherington-estate.png)
 
 [San Francisco Chronicle April 23, 1904](https://infoweb-newsbank-com.ezproxy.sfpl.org/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=WORLDNEWS&req_dat=C4A791F4197B4BD28C27A2A6A0C93929&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Aimage%252Fv2%253A142051F45F422A02%2540EANX-NB-15343B71A680D330%25402416594-1531AF8242B66282%25408-1531AF8242B66282%2540/hlterms%3A%2522henry%2520Hetherington%2522)
-![alt text](image-4.png)
+![alt text](images/1904-04Apr-23-SFChronicle-henry-hetherington.png)
 
 Henry Hetherington dies Aug 3rd 1905.
 [San Francisco Call, Volume 98, Number 67, 6 August 1905](https://cdnc.ucr.edu/?a=d&d=SFC19050806.2.101.6&srpos=5&e=-------en--20--1-byDA-txt-txIN-%22henry+Hetherington%22-------)
 > HETHERINGTON— In this city, August 3, 1900. Henry Hetherington. a native of England, aged 76 years. * CTFrlends and acquaintances are respectfully invited to attend the funeral services Sunday, August 6, at 1:30 o'clock p. m.. at Masonic Temple, Post and Montgomery streets, under the auspices of Golden Gate Lodpe No. 30, F. and A. M. Interment Woodlawn Cemetery, via electric funeral car from Eighieenth and Guerrero streets. Remains at the parlors of the. California undertaking Compary, 713 Post street near Jones.
-![alt text](image-2.png)
+![alt text](images/1905-08Aug-06-SFCall-henry-hetherington-obit.png)
 
 1908 - 3999 17th is a grocery store
 Crocker Langley for 1908:
