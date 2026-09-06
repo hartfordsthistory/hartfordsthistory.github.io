@@ -25,7 +25,7 @@ Graduated 1844, Bar in 1850, came to SF in 1851.
 
  Children Maud, Thalia, and James Parker Jr., Ivan C.
 
-Family members came out to SF also - Leonard Linton Treadwell Sr, Treadwell & Co. died 13 Feb 1876
+Family members came out to SF also - Leonard (Lincoln? Linton?) Treadwell Sr, Treadwell & Co. died 13 Feb 1876
 
 ### About
 
@@ -35,7 +35,9 @@ Harvard lawyer, reportedly extremely studious, even withdrawn in contemplation.
 
 Graduated late (1844) because he published a satirical thing the faculty were mad about
 
-Passed the bar in 1850. [20 June 1850](https://cdnc.ucr.edu/?a=d&d=DAC18500620.2.14&srpos=1&e=-------en--20--1-byDA-txt-txIN-%22j+p+treadwell%22-------), listed on the passenger list for the Steamship Tennessee.
+Passed the bar in 1850.
+
+On [20 June 1850](https://cdnc.ucr.edu/?a=d&d=DAC18500620.2.14&srpos=1&e=-------en--20--1-byDA-txt-txIN-%22j+p+treadwell%22-------), listed on the passenger list for the Steamship Tennessee.  (SS Tennesseee was operated by the Pacific Mail Steam Ship Co, office corner of Sacramento and Liedsdorff. Steamers left the 1st and 16th of every month for Panama and intermediate ports with the US Mail. The Tennessee was a ship of 1300 tons, captained by Geo B Totten USN)
 
 Helped [found The Sons of New England in Oct 1850](https://cdnc.ucr.edu/?a=d&d=DAC18501020.2.7&srpos=3&e=-------en--20--1-byDA-txt-txIN-%22j+p+treadwell%22-------). (They had a [party on Dec 22 1851, sounds fun](https://cdnc.ucr.edu/?a=d&d=DAC18511223.2.6&srpos=1&e=-------en--20--1-byDA-txt-txIN-%22new+england+festival%22+treadwell-------). And I guess he was also a contemporary of Judge Terry? Different Terry)
 
@@ -43,6 +45,11 @@ Helped [found The Sons of New England in Oct 1850](https://cdnc.ucr.edu/?a=d&d=D
 > Treadwell & Co., hardware and agricultural store, c California and Battery
 > Treadwell, L.L.
 > Treadwell, J.P.
+
+[Parker's San Francisco directory for the year 1852-53](https://archive.org/details/sanfranciscodire185253park/page/99/mode/1up) gives the actual block/direction.
+> Treadwell J P. attorney, 118 Mont
+> Treadwell L L. com mer, 56 Battery and 78 California
+> Treadwell & co. com mer, Gala c Bat
 
 I guess [he had some insolvency issues in 1853](https://cdnc.ucr.edu/?a=d&d=DAC18530621.2.22.2&srpos=10&e=-------en--20--1-byDA-txt-txIN-%22j+p+treadwell%22-------).
 ![alt text](images/1853-06Jun-12-DailyAlta-treadwell-buckets.png)
@@ -72,6 +79,8 @@ Treadwell sued a SF business after he was in an elevator fall, and left his capa
 
 1871 - fighting the grading ![alt text](images/1871-04Apr-05-DailyAlta-treadwell-grading.png)
 [Daily Alta California, Volume 23, Number 7683, 5 April 1871](https://cdnc.ucr.edu/?a=d&d=DAC18710405.2.16&srpos=2&e=-------en--20--1-byDA-txt-txIN-%22j+p+treadwell%22+market+seventeenth-------)
+
+1871, Treadwell & Co bankruptcy, they have to sell their property in the Marysville diggings. Finalized May 16, 1872. Later that year they sued the Brotherton brothers for forging checks under their names. Sept 1874, Wm D Brown arrested for defrauding LL.
 
 ### Biographical
 

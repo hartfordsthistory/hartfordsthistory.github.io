@@ -2,7 +2,9 @@
 title: Water Company Wars
 ---
 
-Spring Valley Water Co
+
+
+Spring Valley Water Co - https://archive.org/details/sanfranciscopubliclibrary?tab=collection&query=Tap+records
 Mountain Valley Water Co.
 "tank hill", Joost's Mountain Valley tanks
 Joost's Water Co <https://opensfhistory.org/Display/wnp15.1723.jpg>

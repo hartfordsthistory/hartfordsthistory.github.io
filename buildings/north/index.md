@@ -20,12 +20,23 @@ Due to this partitioning, Hartford St Central and South were weirdly numbered, c
 
 When the third block was cut and it got closer to Market St, the blocks were renumbered _again_ to unify the number scheme, some time between 1900 and 1901. Hartford North became 0-99, Hartford Central became 100-199, and Hartford South became 200-299.
 
+## Treadwell to Treadwell
+
+In 1875, LL Treadwell, JP's brother, sold him the "irregular lot" that is the portion shown. We have to go further back to try to find the purchases of the corner pieces that were already bought and built on by that time. LL died in Feb of the next year.
+
+![alt text](images/1875-05May-15-sfchron-treadwell-to-treadwell.png)
+_San Francisco Chronicle - May 15, 1875, pg 3 Real Estate Transactions_
+
 ## The Treadwell heirs
 
 Oh dear there are [_a lot_ of Treadwell listings in 1900](https://archive.org/details/mccords-edwards-abstract-from-records_1900-12-31_no-2610-no-2912/page/n552/mode/1up?q=treadwell). Though more than half appear to be just cases where A. B. Treadwell, attorney, is involved.
 
-April a quit-claim?
+April 21 1900, a quit-claim on a different parcel. Huh.
 ![alt text](images/1900-apr-26-quit-claim.png)
+
+April 26 1900, Decree
+![alt text](images/1900-04Apr-26-EdwAbs-decree.png)
+> 71,765—Apr 26, 00—Jacob Frowenfeld vs Andrew D Himmelmann adm Hst Andrew Himmelmann, Ivan, Jas P & Thali: Treadwell, Maud & Jos F Nolan, Geo Hazelton, Bdwd W Clayton, Kenneth Melrose & Gee Y Bollinge, Decree quieting title to Pltff, WA 330,S Jackson 137-6 W Fillmore W 55 x § 127-8
 
 On 21 May 1900, the Treadwell court
 ![21 May 1900 - probate distribution of Mission Block 114](images/treadwell-probate.png)
@@ -36,6 +47,8 @@ This deed was recorded [6 June 1900](https://archive.org/details/mccords-edwards
 
 ![5 July 1900 - Thalia Treadwell single](images/5july1900-thalia-single.png)
 Interestingly, she sells this parcel separately.
+
+4 Dec 1900, Decree of Divorce between
 
 ![10 Dec 1900 Maud Treadwell Nolan to Fernando Nelson](images/10dec1900-nolan-nelson.png)
 

@@ -32,11 +32,13 @@ In these early days, Noé had a 50 vara lot on Portsmouth Square near the modern
 
 ## Rancho Las Camaritas
 
-Juan Alvarado granted Noé the 18.57 acres (8 ha) Rancho Las Camaritas on January 21 1840. (US Northern District land case 387).
+Juan Alvarado granted Noé the 18.57 acres (8 ha) Rancho Las Camaritas on January 21 1840. (US Northern District land case 387). ([Ref](https://archive.org/details/jimenoshartnells00jime/page/8/mode/1up?q=noe) "Trecientas vs. en cuadro en el paraje de las camaritas de San Francisco".)
 
 The land is located in San Francisco's Mission District within the area bounded by 14th Street, Mission Street, 16th Street, and Shotwell Street, with its southern border parallel to and about 300 feet north of 16th Street (the property extending 825 feet south from 14th Street and the same distance east from Mission Street).  825/2.75 = 300 varas.
 
 ![alt text](las-camaritas.png)
+
+Noé was alcalde of Yerba Buena in 1842-43.
 
 Noe supposedly turned control of Las Camaritas over to former Alcalde Francisco Guerrero around 1846, after he and his wife moved to their new home on Rancho San Miguel. Guerrero was killed in 1851 while coming back to the Mission from a Public Land Commission hearing.
 
@@ -45,11 +47,9 @@ Ownership of Las Camaritas was disputed in court by the U.S. government from 185
 
 ## Rancho San Miguel
 
-Pio Pico granted Noe the 4,443 acres (1,798 ha) Rancho San Miguel in 1845 (US Northern District land case 6).
+Pio Pico granted Noe the 4,443 acres (1,798 ha) Rancho San Miguel in 1845 (US Northern District land case 6). ([Ref](https://archive.org/details/jimenoshartnells00jime/page/15/mode/1up?q=noe) "Dec. 23 '45, Terreno de la Mision San Francisco.) ([Ref 2](https://archive.org/details/jimenoshartnells00jime/page/49/mode/1up?q=noe), "En 23 de Debre, de 1845, se le libro titulo d D. Jose de Jesus Noe, de un terrene inmediata a la Mision de Dolores, en estencion de un sitio de ganado mayor")
 
-Noé was alcalde of Yerba Buena in 1842-43.
-
-In 1846, near the Noé was appointed alcalde by U.S. Navy Commodore Robert F. Stockton, under his authority as military governor of the occupied territory. Also appointed alcalde, and serving concurrently with Noé, was Navy Lt. Washington Allon Bartlett. As a military officer, Bartlett was a direct representative of the military governor, functionally similar to the office of prefect in the Mexican system. One of the last acts of the Noé/Bartlett year was to rename Yerba Buena to its current name, San Francisco.
+In 1846, Noé was appointed alcalde by U.S. Navy Commodore Robert F. Stockton, under his authority as military governor of the occupied territory. Also appointed alcalde, and serving concurrently with Noé, was Navy Lt. Washington Allon Bartlett. As a military officer, Bartlett was a direct representative of the military governor, functionally similar to the office of prefect in the Mexican system. One of the last acts of the Noé/Bartlett year was to rename Yerba Buena to its current name, San Francisco.
 
 ## Selling on
 
