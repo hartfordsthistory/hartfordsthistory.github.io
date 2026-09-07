@@ -15,6 +15,13 @@ The style is what we'd generally call "carpenter gothic", which is to say fancy,
 ![](/buildings/images/Unknown-DHWulzen-meeteer-back.jpeg)
 _Detail of June 28, 1900 photo by [DH Wulzen Jr.](/people/dhwulzen/), showing Meeteer House from behind._
 
+[San Francisco Evening Post - March 25, 1876](https://infoweb-newsbank-com.ezproxy.sfpl.org/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=WORLDNEWS&req_dat=C4A791F4197B4BD28C27A2A6A0C93929&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Aimage%252Fv2%253A14B412E1BAC042E4%2540EANX-NB-14F20246E8456708%25402406339-14F0F39AB0BC3240%25404-14F0F39AB0BC3240%2540/hlterms%3A%2522meeteer%2522)
+![alt text](image.png)
+
+
+The San Francisco Bulletin for October 2, 1876 Real estate transactions lists:
+> M.L. Meeteer and wife to C.L. Wulff, lot 24x80 on the east line of Castro, 203 ft south of 17th st, $1800.
+
 The Meeteer family moved to Oakland around 1880, and the property went through a series of owners.
 
 1. Meeteer to Kalloch
