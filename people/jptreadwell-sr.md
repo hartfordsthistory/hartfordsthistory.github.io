@@ -77,6 +77,10 @@ Treadwell sued a SF business after he was in an elevator fall, and left his capa
 
 [Attempted Incendiarism](https://cdnc.ucr.edu/?a=d&d=DAC18590502.2.9&srpos=24&e=-------en--20--21-byDA-txt-txIN-%22j+p+treadwell%22-------) of a house he was renting out to someone else. 1859.
 
+[San Francisco Bulletin - July 22, 1869](https://infoweb-newsbank-com.ezproxy.sfpl.org/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=WORLDNEWS&req_dat=C4A791F4197B4BD28C27A2A6A0C93929&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Aimage%252Fv2%253A113ACFC4DAF84818%2540EANX-NB-116E8A6BE129AB78%25402403901-116E8A6C9603E128%25403-116E8A6ECAC74318%2540Mortuary%252BNotice/hlterms%3A%2522L%2520treadwell%2522)
+> In Boston, July 10, Moses Treadwell, merchant of that city, and brother of James P. and Leonard L. Treadwell of this city, aged 60 years.
+[NB: Brother??]
+
 1871 - fighting the grading ![alt text](images/1871-04Apr-05-DailyAlta-treadwell-grading.png)
 [Daily Alta California, Volume 23, Number 7683, 5 April 1871](https://cdnc.ucr.edu/?a=d&d=DAC18710405.2.16&srpos=2&e=-------en--20--1-byDA-txt-txIN-%22j+p+treadwell%22+market+seventeenth-------)
 

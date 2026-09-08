@@ -27,4 +27,4 @@ Direct transit by American Stage [Daily Alta California, Volume 9, Number 171, 2
 
 
 Daily Alta California, Volume 10, Number 223, 15 August 1858
-![alt text](image.png)
+![alt text](images/1858-08Aug-15-DailyAlta-the-willows.png)

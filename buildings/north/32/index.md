@@ -18,14 +18,14 @@ November 5, 1900. He must've been impatient to start, because five months later 
 Joseph Schilling was the vice-president of the family business, "Adam Schilling & Sons" which built engines at the "Golden Gate Machine Works" at 211-213 Main St. His father Adam was the President, and his brothers (George, and Adam J) also worked there.
 
 Some pictures of [an 1894 ad for the "Golden Gate" Gas Engine](http://www.vintagemachinery.org/mfgindex/imagedetail.aspx?id=6439).
-![](images/32-schilling-engine.jpg)
+![](images/32-1894-schilling-engine.jpg)
 
 In the 1889-94 directories he's listed as living in the family home at 1263 18th St.  (His brother Adam J, lived at 4605 18th.)
 In the [1897-98 directory](https://archive.org/details/crockerlangleysa1897sanf/page/1516/mode/1up) he's living with Adam J at 4605 18th.
 In the [1899](https://archive.org/details/crockerlangleysa1899sanf/page/1528/mode/1up)-[1900](https://archive.org/details/crockerlangleysa1900sanf/page/1506/mode/1up) directories he's listed as living at 542 Castro. Catherine gives birth to their first child in July 1899, and I imagine they wanted their own place and saw Nelson putting up the site.
 
 Joseph and Catherine Schilling [buy the house from Fernando Nelson on 25 April 1901](https://cdnc.ucr.edu/?a=d&d=SFC19010425.2.66&srpos=1&e=-------en--20-SFC-1-byDA-txt-txIN-schilling+%22line+of+hartford%22-------), for $3500.
-![San Francisco Call, Volume 87, Number 146, 25 April 1901](images/32-schillings.png)
+![San Francisco Call, Volume 87, Number 146, 25 April 1901](images/32-1901-04Apr-25-SFCall-schillings.png)
 
 > Fernando and Julia A. Nelson to Joseph and Catherine Schilling, lot on W line of Hartford street, 328:3 N of Eighteenth. N 23[sic] by W 102; $3500.
 
@@ -55,13 +55,13 @@ Mary A Donohue buys the house from the Schillings on 14th Nov or 20th? 1904 for.
 
 From [San Francisco Call, Volume 96, Number 170, 17 November 1904](https://cdnc.ucr.edu/?a=d&d=SFC19041117.2.138&srpos=5&e=-------en--20-SFC-1-byDA-txt-txIN-schilling+%22line+of+hartford%22-------)
 
-![alt text](images/32-donohue.png)
+![alt text](images/32-1904-11Nov-17-SFCall-donohue.png)
 
 The price was probably a tax dodge? Or something to do with a mortgage?
 
 Or maybe... [San Francisco Call, Volume 96, Number 173, 20 November 1904](https://cdnc.ucr.edu/?a=d&d=SFC19041120.2.127.82&srpos=21&e=-------en--20-SFC-21-byDA-txt-txIN-%22mary+donohue%22-------):
 > A. Schilling to Mrs. Mary Donohue, lot 25x122 feet, and cottage, on the west side of Hartford street. 166:3 feet south of Seventeenth, $3800.
-![alt text](images/32-donohue.png)
+![alt text](images/32-1904-11Nov-17-SFCall-donohue.png)
 
 [1905](https://archive.org/details/crockerlangleysa1905sanf/page/599/mode/1up)-1911 Crocker Langley: Donohue, Charles A. clerk Blake, Moffitt & Towne. (papermaking)
 
@@ -71,11 +71,11 @@ Something else weird happened at this point, and searching is foiled by bad OCR.
 
 Real estate transaction recorded in the San Francisco Chronicle
 September 24, 1908
-![alt text](images/32-donohue-t1.png)
+![alt text](images/32-1908-09Sep-24-SFChronicle-donohue.png)
 
 Real estate transaction recorded in the San Francisco Chronicle October 14, 1909 shows Mary transferring 32 Hartford to Charles.
 
-![alt text](images/32-donohue-t2.png)
+![alt text](images/32-1909-10Oct-14-SFChronicle-donohue.png)
 
 - 1909: occupation changes to drayman - what happened?
 - 1910: salesman
@@ -98,12 +98,12 @@ Patrick Duffy and Patrick Roddy were in business together as [semi-infamous bark
 
 The 1912 Crocker Langley directory lists Patrick J Duffy as living at 32 Hartford in 1912. This means it could've sold in 1911 but I can't find any information about the sale.
 
-October 15th 1912 there's a marriage license announcement for an Annie T Duffy living at 32, who must've been Patrick's sister. ![alt text](images/32-duffy-01.png)
+October 15th 1912 there's a marriage license announcement for an Annie T Duffy living at 32, who must've been Patrick's sister. ![alt text](images/32-1912-10Oct-15-duffy-marriage.png)
 
 We also know that Patrick Finn, Mary Finn Duffy's brother, lives with them in 1916, and James Finn is listed living with them [in 1919](https://cdnc.ucr.edu/?a=d&d=SFC19190415.2.62&srpos=1&e=-------en--20-SFC-1-byDA-txt-txIN-%2232+hartford+street%22-------).
 
 July 1919 Marriage license for James J Finn.
-![alt text](images/32-duffy-05.png)
+![alt text](images/32-1919-07Jul-finn-marriage.png)
 
 1920 the Duffys are listed as:
 Patrick J Duffy - free owner of his home, 36 years old, a Saloonkeeper, born in California to Irish parents.
@@ -111,7 +111,7 @@ Mary A Duffy - 30, a housewife, born in California to an Irish father and Califo
 Plus four daughters: Mary (10y), Annie (8y), Loretta (6y) and Helen (2y).
 
 Nov 19, 1920, Mary's infant son Thomas passes away.
-![alt text](images/32-duffy-thomas.png)
+![alt text](images/32-1920-11Nov-19-duffy-thomas.png)
 
 The 1930 census they're still at 32, and it also lists a Patricia (8y), values the house at $5000, does not say if it has a radio set, and also lists both Mary and Patrick as having been born in Ireland. Huh. Also Patrick as having naturalized in 1902, and Mary in 1906, married when Patrick was 30 and Mary was 20. Patrick is listed as a 52 year old real estate agent, Mary and Annie are still single at home, but listed as stenographers for an insurance company and a stock & bond company respectively.
 
@@ -124,22 +124,22 @@ They do seem to get up to a lot of trouble, don't they?
 [San Francisco Chronicle - August 22, 1916](https://infoweb-newsbank-com.ezproxy.sfpl.org/apps/news/document-view?p=EANX-NB&t=pubname%3A113ACFC4DAF84818%7C11B84ACF2660E555%7C142051F45F422A02%7C13B0FD2E4DD930E1%7C14B5ABC940427781%21Selected%2520Sources%2520%285%29&sort=YMD_date%3AA&fld-base-0=alltext&maxresults=20&val-base-0=%22patrick%20duffy%22&fld-nav-0=YMD_date&val-nav-0=1909%20-%201930&docref=image/v2%3A142051F45F422A02%40EANX-NB-14EB2777DB33F7C4%402421098-14E913B2F431690F%403-14E913B2F431690F%40) - 
 Trouble at 2999 [sic, 2001] Mission - that looks like it’s a block away from Army (Ceasar Chavez)
 
-![Brawl Leads to Arrest. A brawl in the saloon of Patrick Duffy, 2999 Mission street yesterday in which John Bolton was struck on the head with a bottle lead to the arrest of Edward Finn 21 years old a riveter after being closed by Patrolman James Gremminger and halted by the firing of a volley of shots over his head. ](images/32-duffy-02.png)
+![Brawl Leads to Arrest. A brawl in the saloon of Patrick Duffy, 2999 Mission street yesterday in which John Bolton was struck on the head with a bottle lead to the arrest of Edward Finn 21 years old a riveter after being closed by Patrolman James Gremminger and halted by the firing of a volley of shots over his head. ](images/32-1916-08Aug-22-SFChronicle-duffy-brawl.png)
 
 [San Francisco Chronicle November 29, 1919](https://infoweb-newsbank-com.ezproxy.sfpl.org/apps/news/document-view?p=EANX-NB&t=pubname%3A113ACFC4DAF84818%7C11B84ACF2660E555%7C142051F45F422A02%7C13B0FD2E4DD930E1%7C14B5ABC940427781%21Selected%2520Sources%2520%285%29&sort=YMD_date%3AA&fld-base-0=alltext&maxresults=20&val-base-0=%22patrick%20j%20duffy%22&fld-nav-0=YMD_date&val-nav-0=1909%20-%201930&docref=image/v2%3A142051F45F422A02%40EANX-NB-14ECCCE7D29C9232%402422292-14EB0733F0578F78%403-14EB0733F0578F78%40)
-![Warrants Charge 9 with Dry Violations Warrants charting violation of the wartime prohibition act were issues today by Assistant United States Attorney Wilford Tully against (some people) James Finn and Patrick J Duffy 2000 Mission street, also will have to answer to the charge of violating the law. Duffy was the first San Franciscan arrested by the Federal authorities last July for violating the prohibition law. At that time he was fined $100 and assured the Court he would not commit a second offense.](images/32-duffy-03.png)
+![Warrants Charge 9 with Dry Violations Warrants charting violation of the wartime prohibition act were issues today by Assistant United States Attorney Wilford Tully against (some people) James Finn and Patrick J Duffy 2000 Mission street, also will have to answer to the charge of violating the law. Duffy was the first San Franciscan arrested by the Federal authorities last July for violating the prohibition law. At that time he was fined $100 and assured the Court he would not commit a second offense.](images/32-1919-11Nov-29-SFChronicle-duffy-dry-violations.png)
 
 [San Francisco Call, Volume 106, Number 22, 2 August 1919](https://cdnc.ucr.edu/?a=d&d=SFC19190802.2.134&srpos=13&e=--1910-----en--20-SFC-1-byDA-txt-txIN-%22patrick+duffy%22-------)
-![Drink With 'Kick' Gets Seller into U. S. Court. Patrick Duffy a saloon owner of 2001 Missions street today is preparing to stand trial in the United States District Court. Duffy was held to answer to a charge of selling liquor with a "kick" in it. Department of Justice agents who arrested him say he had sold a ginger ale "chaster" with whiskey in it for 25 cents.](images/32-duffy-04.png)
+![Drink With 'Kick' Gets Seller into U. S. Court. Patrick Duffy a saloon owner of 2001 Missions street today is preparing to stand trial in the United States District Court. Duffy was held to answer to a charge of selling liquor with a "kick" in it. Department of Justice agents who arrested him say he had sold a ginger ale "chaster" with whiskey in it for 25 cents.](images/32-1919-08Aug-02-SFCall-duffy-kick.png)
 
 [Stockton Independent, Volume 117, Number 163, 10 January 1920](https://cdnc.ucr.edu/?a=d&d=SDI19200110.2.37)
-![S. F. Saloonkeeper Is Given Stiff Sentence. San Francisco, Jan. 9.—After United States Attorney Mrs. Anette Adams had informed the court today that friends of Patrick J. Duffy, a local saloonkeeper, had approached her, as well as several others in the United States attorney's office, in an endeavor to have leniency shown Duffy in connection with charges that he violated the war time prohibition law, a fine of $800 and a ten months’ jail sentence was imposed upon the saloonman by Federal Judge Frank S. Dietrich. These were the heaviest penalties ever imposed here in a case of this kind, and were nearly the maximum under the law. Duffy, Mrs. Adams pointed out, was the first person to plead guilty for violating the war time liquor law when it was first enforced here last September. At that time he was lined $100.](images/32-duffy-06.png)
+![S. F. Saloonkeeper Is Given Stiff Sentence. San Francisco, Jan. 9.—After United States Attorney Mrs. Anette Adams had informed the court today that friends of Patrick J. Duffy, a local saloonkeeper, had approached her, as well as several others in the United States attorney's office, in an endeavor to have leniency shown Duffy in connection with charges that he violated the war time prohibition law, a fine of $800 and a ten months’ jail sentence was imposed upon the saloonman by Federal Judge Frank S. Dietrich. These were the heaviest penalties ever imposed here in a case of this kind, and were nearly the maximum under the law. Duffy, Mrs. Adams pointed out, was the first person to plead guilty for violating the war time liquor law when it was first enforced here last September. At that time he was lined $100.](images/32-1920-01Jan-10-StocktonIndep-duffy-sentence.png)
 
 [San Francisco Chronicle - April 15, 1920](https://infoweb-newsbank-com.ezproxy.sfpl.org/apps/news/document-view?p=EANX-NB&t=pubname%3A113ACFC4DAF84818%7C11B84ACF2660E555%7C142051F45F422A02%7C13B0FD2E4DD930E1%7C14B5ABC940427781%21Selected%2520Sources%2520%285%29&sort=YMD_date%3AA&fld-base-0=alltext&maxresults=20&val-base-0=%22patrick%20j%20duffy%22&fld-nav-0=YMD_date&val-nav-0=1909%20-%201930&docref=image/v2%3A142051F45F422A02%40EANX-NB-14EEBE2E2936033B%402422430-14EEB8E4A5238652%408-14EEB8E4A5238652%40):
-![Judge Dietrich announced yesterday that all persons who come before him on the charge of having sold liquor in violation of the national prohibition law may expect severe jail sentences. Patrick J Duffy whose bartender sold two glasses of whisky in violation of the prohibition law is now serving a twelve months' sentence in the County Jail. He was sentenced by Judge Dietrich.](images/32-duffy-07.png)
+![Judge Dietrich announced yesterday that all persons who come before him on the charge of having sold liquor in violation of the national prohibition law may expect severe jail sentences. Patrick J Duffy whose bartender sold two glasses of whisky in violation of the prohibition law is now serving a twelve months' sentence in the County Jail. He was sentenced by Judge Dietrich.](images/32-1920-04Apr-15-SFChronicle-duffy-jail.png)
 
 [Oakland Tribune, Volume 107, Number 117, 25 October 1927](https://cdnc.ucr.edu/?a=d&d=OT19271025.1.38&srpos=7&e=-------en--20--1-byDA-txt-txIN-%22patrick+J+duffy%22-------):
-![First Highball In America Was Made by Actor NEW YORK, Oct. 25. - (AP) The inventor of the Scotch highball was disclosed today. Stirred by assertions in accounts of the bankruptcy of the Adams House of Boston that it had served the first such drink in this country, Patrick J. Duffy, who formerly conducted a cafe patronized by theatrical people, wrote the New York Times that E. J. Ratcliffe, an actor, who came here in the early 90's from London with Mary. Anderson's company, made the first Scotch highball in America. Members of the ancient and honorable artillery of Boston, who came here annually to attend the old guard ball, took the new drink to the Adams House, Duffy said.](images/32-duffy-08.png)
+![First Highball In America Was Made by Actor NEW YORK, Oct. 25. - (AP) The inventor of the Scotch highball was disclosed today. Stirred by assertions in accounts of the bankruptcy of the Adams House of Boston that it had served the first such drink in this country, Patrick J. Duffy, who formerly conducted a cafe patronized by theatrical people, wrote the New York Times that E. J. Ratcliffe, an actor, who came here in the early 90's from London with Mary. Anderson's company, made the first Scotch highball in America. Members of the ancient and honorable artillery of Boston, who came here annually to attend the old guard ball, took the new drink to the Adams House, Duffy said.](images/32-1927-10Oct-25-OakTrib-duffy-highball.png)
 
 Just imagining Duffy writing indignantly to the New York Times.
 

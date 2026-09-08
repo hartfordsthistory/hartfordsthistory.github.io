@@ -31,6 +31,8 @@ Basically, with the owners living in Union City, there was little or nothing tha
 
 > There is an interesting account of the early days of the development of Horner's Addition in the writings of Caroline Barnes Crosby who lived with the Horner's during 1854 and 1855. One the accounts read:
 
+![alt text](images/1854-01Jan-29-Unknown-crosby-diary.png)
+
 >> "Sun 29th [January 1854] A beautiful pleasant morning. . .Alma Frances and myself took a walk over the hills, to take a view of br Horners new purchase, and to get a peep at the Spanish house where we expect to reside, after a few weeks. We admired the scenery very much; and think in short time it will be a great place. We walked from bluff to bluff untill we arrived at the top of a high one nearly in front of the dobie house where the spaniard resides of whom Mr H bought the land. We then sat down to admire the prospect. And we came to the conclusion that altho it was not quite retired, yet it was a most beautiful and romantic place. . ." [pages 239-240]
 
 Started the Eureka Homestead Association, but very few lots sold.[The Panic of 1854-7](https://en.wikipedia.org/wiki/Panic_of_1857) took out his and his brothers' investments.

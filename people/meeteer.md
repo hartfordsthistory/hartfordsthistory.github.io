@@ -84,7 +84,7 @@ Hmmmm.... I think we had a typesetters error. Poor man and his poor surname.
 
 Mary Frances marries Charles H McCurrie on the 29th of June, 1882, in San Francisco. Charles is 35 at the time of the marriage, and they raise his daughter Isabelle as their own, much to the confusion of later researchers.
 
-![alt text](images/1882-07Jul-11-Unknown-mccurrie-meeteer.png)
+![alt text](images/1882-07Jul-11-mccurrie-meeteer.png)
 _[Daily Alta California, Volume 34, Number 11767, 11 July 1882](https://cdnc.ucr.edu/?a=d&d=DAC18820711.2.63.1&srpos=4&e=-------en--20-DAC-1-byDA-txt-txIN-%22meeteer%22-------)_
 
 <!-- Meeteer to Isaac Kalloch & separately Annie?
@@ -102,10 +102,16 @@ Kallochs arrive  [Daily Alta California, Volume 30, Number 10426, 28 October 187
 Marshall appears in the 1882 Alameda County census, listed as a "Marshall Lewis Meeteer", 67, Architect, [Third Ward, 2](https://localwiki.org/oakland/Ward_Boundaries_%28Historic%29) - Sept 29 1882. This places him in a fairly narrow area of what is now Oakland CA, but we don't have an exact street address, alas.
 
 Elizabeth buys a property across the street from Charles Monmonier in 1884.
-![alt text](images/1884-09Sep-23-Unknown-eliz-meeteer.png)
+![alt text](images/1884-09Sep-23-eliz-meeteer.png)
 _[Daily Alta California, Volume 37, Number 12581, 23 September 1884](https://cdnc.ucr.edu/?a=d&d=DAC18840923.2.59&srpos=5&e=-------en--20-DAC-1-byDA-txt-txIN-%22meeteer%22-------)_
 
-Marshall dies April 2nd, 1885, and Elizabeth [passes away October 7 1892](https://www.findagrave.com/memorial/105562559/elizabeth-mee_teer) [in Oakland](https://cdnc.ucr.edu/?a=d&d=SFC18921010&dliv=userclipping&cliparea=1.8%2C4796%2C5223%2C917%2C113&factor=2&e=-------en--20--1--txt-txIN--------). The rest of the family appears in Alameda, not far away, where they remain through about 1910.
+Marshall dies April 2nd, 1885, in San Leandro ([ref](https://infoweb-newsbank-com.ezproxy.sfpl.org/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=WORLDNEWS&req_dat=C4A791F4197B4BD28C27A2A6A0C93929&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Aimage%252Fv2%253A113ACFC4DAF84818%2540EANX-NB-1172147B62410330%25402409636-1172147C79B8C390%25404-1172147FCB1ECD40%2540Mortuary%252BNotice/hlterms%3Amarshal%2520meeteer)).
+
+Elizabeth sells a lot to M.C. Kofoed.
+![alt text](images/1885-05May-16-SFBulletin-elizabeth-kofoed-sale.png)
+[San Francisco Bulletin - May 16, 1885](https://infoweb-newsbank-com.ezproxy.sfpl.org/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=WORLDNEWS&req_dat=C4A791F4197B4BD28C27A2A6A0C93929&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Aimage%252Fv2%253A113ACFC4DAF84818%2540EANX-NB-117215E87A9BFF70%25402409678-117215EA118A6310%25406-117215EF1344F7D8%2540Real%252BEstate%252BTransactions%252BRecord%252Bfor%252Bthe%252BTwenty-Four%252BHours%252BEnding%252Bat%252BNoon%252BSaturday/hlterms%3Ameeteer)
+
+Elizabeth [passes away October 7 1892](https://www.findagrave.com/memorial/105562559/elizabeth-mee_teer) [in Oakland](https://cdnc.ucr.edu/?a=d&d=SFC18921010&dliv=userclipping&cliparea=1.8%2C4796%2C5223%2C917%2C113&factor=2&e=-------en--20--1--txt-txIN--------). The rest of the family appears in Alameda, not far away, where they remain through about 1910.
 
 Mary Frances Meeteer, who spells her name a different way on every other document, has five children with  Charles Henry McCurrie, only some of whom survive to adulthood. In 1927 they're randomly living at 45 Court St in Norfolk Virginia.
 

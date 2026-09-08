@@ -8,6 +8,11 @@ Some sort of building on that site going back to the 1860s.
 
 1857, Henry Hetherington is in a marine disaster, the sinking of the California Mail Steamer _Central America_ (formerly the _George Law_) by hurricane 11th Sept 1856 off the coast of Havana. He and 54 others (of the original ~450 pax) were picked up at sea by the brig _Maine_, and returned to New York in October.
 
+March 25th 1876, they buy the corner from the Meeteers:
+![alt text](images/1876-03Mar-25-SFEveningPost-meeteer-hetherington.png)
+> Lot 75x100 on the SE cor of Seventeenth and Castro; M L Meeteer to H Hetherington; $4,800
+[Evening Post - March 25, 1876](https://infoweb-newsbank-com.ezproxy.sfpl.org/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=EANX-NB&req_dat=C4A791F4197B4BD28C27A2A6A0C93929&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Aimage%252Fv2%253A14B412E1BAC042E4%2540EANX-NB-14F20246E8456708%25402406339-14F0F39AB0BC3240%25404-14F0F39AB0BC3240%2540/hlterms%3Ameeteer)
+
 [Daily Alta California, Volume 42, Number 13788, 1 June 1887](https://cdnc.ucr.edu/?a=d&d=DAC18870601.2.67&srpos=2&e=-------en--20--1-byDA-txt-txIN-%22henry+Hetherington%22-------)
 > Henry Hetherington and wife leases to L. Beni lot 25x40 S Seventeenth, 25 E of Castro, for 7 years, at $16 per month of first 2 years and $20 per month balance of term.
 ![alt text](images/1887-06Jun-01-DailyAlta-hetherington-lease.png)

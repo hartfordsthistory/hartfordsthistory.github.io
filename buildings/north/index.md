@@ -12,13 +12,30 @@ Hartford St North is an example of blue-collar Victorians in the "streetcar subu
 
 Hartford St North was originally listed as "Mission block 114", and only much later (when the City consolidated the previous different survey block numbers) became "Block 3582" as it's known today.
 
-This was the last block in the area to be developed, due to the conflicting land claims, and the protracted probate battle (and intra-family strife) in the J.P. Treadwell estate. The middle and southerly blocks were parceled out in the Eureka Homestead Association much earlier. But also the Market/17th/Castro corner had a saloon on it long before - more research required there.
+This was the last block in the area to be developed, due to the conflicting land claims, and the protracted probate battle (and intra-family strife) in the J.P. Treadwell estate. The middle and southerly blocks were parceled out in the Eureka Homestead Association much earlier. We know that 114 wasn't part of the purchase, which meant it was likely sold by Pioche and Robinson _before_ 13th of April, 1863. But also the Market/17th/Castro corner had a saloon on it long before - more research required there.
 
 ![1894 block book](/buildings/north/images/blockbook-1894-north.png)
 
 Due to this partitioning, Hartford St Central and South were weirdly numbered, consecutively upwards as you went south on the west side, then crossing the street and continuing as you went north. These were renumbered later to fit the SF municipal scheme, which is to say the house numbers increase by about 100 each block you get further away from Market, and odd numbers are on one side, even on the other.
 
 When the third block was cut and it got closer to Market St, the blocks were renumbered _again_ to unify the number scheme, some time between 1900 and 1901. Hartford North became 0-99, Hartford Central became 100-199, and Hartford South became 200-299.
+
+## Treadwell inter-family drama begins
+
+![alt text](images/1874-01Jan-24-SFBulletin-legal-notices-treadwell.png)
+> LEGAL NOTICES.
+> IN THE DISTRICT COURT OF THE Fourth Judicial District of the State of California, in and for the City and County of San Francisco.
+> EDWARD FALES, Plaintiff, vs. JAMES P. TREADWELL, DAVID R. FRASER, SUSAN CHANDLER, SARAH A. KENDALL, HENRIETTA DAVIS, LEONARD L. TREADWELL and SAMUEL WOODWARD, Defendants. Action brought in the District Court of the Fourth Judicial District of the State of California, in and for the city and county of San Francisco, and the amended complaint filed in said city and county of San Francisco, in the office of the Clerk of said District Court.
+> The People of the State of California send greeting to James P. Treadwell, David R. Fraser, Susan Chandler, Sarah A. Kendall, Henrietta Davis, Leonard L. Treadwell and Samuel Woodward, and to all the joint tenants, tenants in common, and to all persons having any interest in or any liens of record by mortgage, judgment or otherwise, upon the property, or upon any particular portion thereof, and generally to all persons unknown who have any claim or interest in the property described in the complaint, defendants:
+> You are hereby required to appear in an action brought against you by the above-named plaintiff in the District Court of the Fourth Judicial District of the State of California, in and for the city and county of San Francisco, and to answer the amended complaint filed therein within ten days (exclusive of the day of service) after the service on you of this summons—if served within this county; or, if served out of this county, but in this District, within twenty days; otherwise, within forty days, or judgment by default will be taken against you, according to the prayer of said amended complaint.  
+> The said action is brought to obtain a partition of the premises described in the complaint, situate in the said city and county of San Francisco, between the plaintiff and said James P. Treadwell, and to quiet plaintiff’s title as to each and all the other defendants above named, and for the costs of this action, including reasonable counsel fees, with interest thereon. Said property is described as follows: Commencing at the corner formed by the intersection of the easterly line of Castro street with the northerly line of Eighteenth street; thence running northerly along the easterly line of Castro street 245 feet to land of M. L. Meeteer; thence easterly at right angles, parallel with Eighteenth street, 148 feet; thence northerly at right angles, parallel with Castro street, 275 feet to Seventeenth street; thence easterly along the southerly line of Seventeenth street to the intersection of said southerly line of Seventeenth street with the northerly line of the Rancho San Miguel; thence along the northerly line of said Rancho, east by south, until the said line is intersected by the westerly line of Noe street; thence southerly along the westerly line of Noe street 465½ feet to Eighteenth street; thence westerly along the northerly line of Eighteenth street 560 feet to the point of commencement.
+> And you are hereby notified that if you fail to appear and answer the said amended complaint, as above required, the said plaintiff will apply to the Court for the relief demanded in the complaint.
+> Given under my hand and seal of the District Court of the Fourth Judicial District of the State of California, in and for the city and county of San Francisco, this 14th day of November, in the year of our Lord one thousand eight hundred and seventy-three.
+> [Official seal.]
+> WILLIAM HARNEY, Clerk.
+> By JAS. E. ASCHCOM, Deputy Clerk.
+Published at least three times - Jan 24, Jan 31, Feb 28
+[San Francisco Bulletin - January 24, 1874](https://infoweb-newsbank-com.ezproxy.sfpl.org/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=WORLDNEWS&req_dat=C4A791F4197B4BD28C27A2A6A0C93929&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Aimage%252Fv2%253A113ACFC4DAF84818%2540EANX-NB-119BFEF220A00D00%25402405548-119BFEF262286668%25402-119BFEF347F5EB08%2540Advertisement/hlterms%3Ameteer)
 
 ## Treadwell to Treadwell
 
