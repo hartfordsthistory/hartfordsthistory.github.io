@@ -4,6 +4,8 @@ title: Castro Theater
 
 Bit of a placeholder still.
 
+The Castro Theater opened in 1910 at 485 Castro St, which is now the home of Cliff's Variety. (Cliff's Variety was then on the southeast corner of 18th and Castro, where the big Bank of America is now.)
+
 [San Francisco Call, Volume 109, Number 17, 17 December 1910](https://cdnc.ucr.edu/?a=d&d=SFC19101217.2.84&srpos=2&e=-------en--20-SFC-1-byDA-txt-txIN-%22castro+theater%22-------)
 
 > LEADING EVENTS OF THE WEEK AMONG THE IMPROVEMENT CLUBS
