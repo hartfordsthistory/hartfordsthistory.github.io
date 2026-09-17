@@ -4,6 +4,7 @@ title: 32 Hartford
 
 > W line of Hartford street, 166:3 S of Seventeenth, S 25 by W 102.
 
+![alt text](images/1975-03mar-04-sfassessor-inventory-32-hartford.png)
 
 ## House history
 
@@ -34,8 +35,19 @@ In [1905-1907](https://archive.org/details/crockerlangleysa1905sanf/page/1640/mo
 
 ## Donohues - Nov 1904 - ?? 1911
 
-
 This part gets muddy, because of the large number of Mary Donohues active in San Francisco at this time. Where a spouse is mentioned it becomes easier to be sure this is the right one, but some of them are still unclear.
+
+Mary A Donohue buys the house from the Schillings on 14th Nov or 20th? 1904 for... $10. There are two listings for the same house - one for Joseph and one for Adam.
+
+From [San Francisco Call, Volume 96, Number 170, 17 November 1904](https://cdnc.ucr.edu/?a=d&d=SFC19041117.2.138&srpos=5&e=-------en--20-SFC-1-byDA-txt-txIN-schilling+%22line+of+hartford%22-------)
+
+![alt text](images/32-1904-11Nov-17-SFCall-donohue.png)
+
+The price was probably a tax dodge? Or something to do with a mortgage?
+
+Or maybe... a typo? [San Francisco Call, Volume 96, Number 173, 20 November 1904](https://cdnc.ucr.edu/?a=d&d=SFC19041120.2.127.82&srpos=21&e=-------en--20-SFC-21-byDA-txt-txIN-%22mary+donohue%22-------):
+> A. Schilling to Mrs. Mary Donohue, lot 25x122 feet, and cottage, on the west side of Hartford street. 166:3 feet south of Seventeenth, $3800.
+![alt text](images/32-donohue-2.png)
 
 The Donohues were active in the real estate pages, both singly and together. For example:
 
@@ -51,36 +63,31 @@ Shortly after:
 [San Francisco Call, Volume 93, Number 173, 22 May 1903](https://cdnc.ucr.edu/?a=d&d=SFC19030522.2.116&srpos=18&e=-------en--20-SFC-1-byDA-txt-txIN-%22mary+donohue%22-------)
 > City and County of San Francisco to Charles A. and Mary Donohue. lot on N line of Fell street. 137:6 E of Devisadero [sic], E 25 by N 137:6; $----  [NB: private sale? auction? price unknown?]
 
-Mary A Donohue buys the house from the Schillings on 14th Nov or 20th? 1904 for... $10. There are two listings for the same house - one for Joseph and one for Adam.
+In [1905](https://archive.org/details/crockerlangleysa1905sanf/page/599/mode/1up)-1911 Crocker Langley lists
+> Donohue, Charles A. clerk Blake, Moffitt & Towne. (papermaking)
 
-From [San Francisco Call, Volume 96, Number 170, 17 November 1904](https://cdnc.ucr.edu/?a=d&d=SFC19041117.2.138&srpos=5&e=-------en--20-SFC-1-byDA-txt-txIN-schilling+%22line+of+hartford%22-------)
+[The 1906 block book](https://archive.org/details/sanfranciscobloc1906bloc/page/241/mode/2up) lists “Mary Donahue” as the owner of 32.
 
-![alt text](images/32-1904-11Nov-17-SFCall-donohue.png)
-
-The price was probably a tax dodge? Or something to do with a mortgage?
-
-Or maybe... [San Francisco Call, Volume 96, Number 173, 20 November 1904](https://cdnc.ucr.edu/?a=d&d=SFC19041120.2.127.82&srpos=21&e=-------en--20-SFC-21-byDA-txt-txIN-%22mary+donohue%22-------):
-> A. Schilling to Mrs. Mary Donohue, lot 25x122 feet, and cottage, on the west side of Hartford street. 166:3 feet south of Seventeenth, $3800.
-![alt text](images/32-1904-11Nov-17-SFCall-donohue.png)
-
-[1905](https://archive.org/details/crockerlangleysa1905sanf/page/599/mode/1up)-1911 Crocker Langley: Donohue, Charles A. clerk Blake, Moffitt & Towne. (papermaking)
-
-[The 1906 block book](https://archive.org/details/sanfranciscobloc1906bloc/page/241/mode/2up) lists “Mary Donahue” as the owner.
-
-Something else weird happened at this point, and searching is foiled by bad OCR. Mary was the sole owner at the original 1904 sale, but on 24 Sept 1908 Charles is listed as the owner, passing the property back to Mary for $10. On 19 Oct 1909, Mary passes it back to him as "a gift".  Whaaaat. During this time Charles' occupation changes to drayman, and we know they have a lodger named Peter Ennis ([who gets engaged in Dec 1908](https://cdnc.ucr.edu/?a=d&d=SFC19081224.2.114.3&srpos=3&e=-------en--20-SFC-1-byDA-txt-txIN-%2232+hartford+st%22-------)). It sounds as if they're strapped for cash or something.
+Something else weird happened at this point, and searching is foiled by bad OCR. Mary was the sole owner at the original 1904 sale, but on 24 Sept 1908 Charles is listed as the owner, passing the property back to Mary for $10.
 
 Real estate transaction recorded in the San Francisco Chronicle
 September 24, 1908
 ![alt text](images/32-1908-09Sep-24-SFChronicle-donohue.png)
 
+On 19 Oct 1909, 11 months later, Mary passes it back to him as "a gift".  Whaaaat.
+
 Real estate transaction recorded in the San Francisco Chronicle October 14, 1909 shows Mary transferring 32 Hartford to Charles.
 
 ![alt text](images/32-1909-10Oct-14-SFChronicle-donohue.png)
 
-- 1909: occupation changes to drayman - what happened?
+During this time Charles' occupation changes to drayman - what happened? Is this still the right guy?
+
+- 1909: drayman
 - 1910: salesman
 - 1911: just clerk
 - 1912: janitor, 939 Stanyan
+
+We know they have a lodger named Peter Ennis ([who gets engaged in Dec 1908](https://cdnc.ucr.edu/?a=d&d=SFC19081224.2.114.3&srpos=3&e=-------en--20-SFC-1-byDA-txt-txIN-%2232+hartford+st%22-------)). It sounds as if they're strapped for cash.
 
 [1910 census](https://www.ancestryheritagequest.com/discoveryui-content/view/1587149:7884)
 Charles A Donohue, Night Watchman, age 50 - listed as owning their home, freely (un-mortgaged)
@@ -121,7 +128,7 @@ Patrick Duffy passes away May 31 1939.
 
 They do seem to get up to a lot of trouble, don't they?
 
-[San Francisco Chronicle - August 22, 1916](https://infoweb-newsbank-com.ezproxy.sfpl.org/apps/news/document-view?p=EANX-NB&t=pubname%3A113ACFC4DAF84818%7C11B84ACF2660E555%7C142051F45F422A02%7C13B0FD2E4DD930E1%7C14B5ABC940427781%21Selected%2520Sources%2520%285%29&sort=YMD_date%3AA&fld-base-0=alltext&maxresults=20&val-base-0=%22patrick%20duffy%22&fld-nav-0=YMD_date&val-nav-0=1909%20-%201930&docref=image/v2%3A142051F45F422A02%40EANX-NB-14EB2777DB33F7C4%402421098-14E913B2F431690F%403-14E913B2F431690F%40) - 
+[San Francisco Chronicle - August 22, 1916](https://infoweb-newsbank-com.ezproxy.sfpl.org/apps/news/document-view?p=EANX-NB&t=pubname%3A113ACFC4DAF84818%7C11B84ACF2660E555%7C142051F45F422A02%7C13B0FD2E4DD930E1%7C14B5ABC940427781%21Selected%2520Sources%2520%285%29&sort=YMD_date%3AA&fld-base-0=alltext&maxresults=20&val-base-0=%22patrick%20duffy%22&fld-nav-0=YMD_date&val-nav-0=1909%20-%201930&docref=image/v2%3A142051F45F422A02%40EANX-NB-14EB2777DB33F7C4%402421098-14E913B2F431690F%403-14E913B2F431690F%40) -
 Trouble at 2999 [sic, 2001] Mission - that looks like it’s a block away from Army (Ceasar Chavez)
 
 ![Brawl Leads to Arrest. A brawl in the saloon of Patrick Duffy, 2999 Mission street yesterday in which John Bolton was struck on the head with a bottle lead to the arrest of Edward Finn 21 years old a riveter after being closed by Patrolman James Gremminger and halted by the firing of a volley of shots over his head. ](images/32-1916-08Aug-22-SFChronicle-duffy-brawl.png)
@@ -144,7 +151,6 @@ Trouble at 2999 [sic, 2001] Mission - that looks like it’s a block away from A
 Just imagining Duffy writing indignantly to the New York Times.
 
 ## Gilmores/Gillmores
-
 
 Gardens, cementwork.
 
