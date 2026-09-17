@@ -23,6 +23,24 @@ b Jan 15, 1840, d. Nov 27, 1915.
 - [The Spalding Memorial](https://www.google.com/books/edition/The_Spalding_Memorial/CMqvixWYtS4C?hl=en&gbpv=1&bsq=8457) on Google Books.  Note that this is a different spelling :thinking:
 Born 21 May 1834, Milford, Hillsborough, New Hampshire, United States
 
+Won a sixth prize at the San Francisco College, for his small celestial globe.
+![alt text](images/1857-10Oct-10-SFBulletin-sf-college-prizes.png)
+> Examination and Prizes of the San Francisco College.
+> The third annual examination of the students and pupils of this institution closed on Thursday last, after having occupied four days. The exercises consisted of questions and translations from the higher and elementary classics, problems and questions in mathematics and arithmetic; also, questions on history, geography, globe problems, English grammar and composition, and the foreign languages. Yesterday morning prizes were awarded to the successful competitors. A departure from the usual method was observed in this respect. No student had been allowed to study any one subject to the exclusion of all others, so that no undue opportunity was given to any one competitor to excel in his favorite object. The examination was so much the more satisfactory, as no time had been spent in forced study in getting up the exercises for display. The marks exhibited the character of the contest, which, from the circumstance of its being half viva voce and half written, afforded equal opportunity to the nervous and timid as to the bold and self-confident, in signalizing themselves. The marks and prizes were as follows:
+> FIRST DIVISION; QUESTIONS, &c., 650 MAXIMUM - 250 MINIMUM.
+> J. Naphthaly, 494, first prize—large terrestrial globe
+> S. Throckmorton, 444, second do.—small terrestrial globe.
+> W. Mighell, 338, third do—embossed letter case.
+> C. King, 338, third do—large box of colors.
+> C. Slade, 294, fourth do—bronze inkstand.
+> S. Inge, 289, fifth do—large box of colors.
+> A. Spaulding, 285, sixth do—small celestial globe.
+> A. Kostromitinoff, 276, seventh do—gold pencil case.
+> Max Koster, 258, eighth do—a case of books.
+[San Francisco Bulletin - October 10, 1857](https://infoweb-newsbank-com.ezproxy.sfpl.org/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=EANX-NB&req_dat=C4A791F4197B4BD28C27A2A6A0C93929&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Aimage%252Fv2%253A113ACFC4DAF84818%2540EANX-NB-11720775DA77E8D0%25402399598-117207761F677D60%25401-117207770EA7F400%2540Examination%252Band%252BPrizes%252Bof%252Bthe%252BSan%252BFrancisco%252BCollege/hlterms%3A%2522a%2520spaulding%2522%2520)
+
+
+
 He gave his mother a portrait hair locket in 1861, presumably on leaving home.
 
 <https://sterlingflatwarefashions.com/Res/Indiv/S/SpauldingAndrew.html>
