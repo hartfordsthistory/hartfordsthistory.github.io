@@ -6,6 +6,9 @@ _site
 .jekyll-cache
 .local-tmp
 
+_transfer/
+_scripts/surya_env/*
+
 
 # Amplitude wizard
 .amplitude/dashboard.json

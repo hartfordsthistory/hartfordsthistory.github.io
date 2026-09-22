@@ -1,0 +1,3366 @@
+- id: "1859-directory-hartford_"
+  year: 1859
+  raw_text: "HARTFORD — AND THE —"
+  parsed:
+    surname: "HARTFORD"
+    given_name: "— AND THE —"
+    occupation: ""
+    address_raw: ""
+  person_ref: "hartford_"
+  building_ref: ""
+
+- id: "1861-directory-nyhartford_a"
+  year: 1861
+  raw_text: "NY.-Hartford; A. Low & Co., Agents, 426 California."
+  parsed:
+    surname: "NY.-Hartford;"
+    given_name: "A. Low & Co., Agents, 426 California."
+    occupation: ""
+    address_raw: ""
+  person_ref: "nyhartford_a"
+  building_ref: ""
+
+- id: "1862-directory-hartford_and"
+  year: 1862
+  raw_text: "HARTFORD AND PHENIX"
+  parsed:
+    surname: "HARTFORD"
+    given_name: "AND PHENIX"
+    occupation: ""
+    address_raw: ""
+  person_ref: "hartford_and"
+  building_ref: ""
+
+- id: "1865-directory-r_with"
+  year: 1865
+  raw_text: "R WITH THE \"PHENIX OF HARTFORD.\""
+  parsed:
+    surname: "R"
+    given_name: "WITH THE \"PHENIX OF HARTFORD.\""
+    occupation: ""
+    address_raw: ""
+  person_ref: "r_with"
+  building_ref: ""
+
+- id: "1868-directory-bourne_jasper"
+  year: 1868
+  raw_text: "Bourne Jasper J., brickmaker, dwl S s Hartford nr"
+  parsed:
+    surname: "Bourne"
+    given_name: "Jasper J., brickmaker, dwl S s Hartford nr"
+    occupation: ""
+    address_raw: ""
+  person_ref: "bourne_jasper"
+  building_ref: ""
+
+- id: "1868-directory-ward_peter"
+  year: 1868
+  raw_text: "Ward Peter, dwl N & Nineteenth nr Hartford"
+  parsed:
+    surname: "Ward"
+    given_name: "Peter, dwl N & Nineteenth nr Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "ward_peter"
+  building_ref: ""
+
+- id: "1868-directory-hartford_and"
+  year: 1868
+  raw_text: "Hartford; and"
+  parsed:
+    surname: "Hartford;"
+    given_name: "and"
+    occupation: ""
+    address_raw: ""
+  person_ref: "hartford_and"
+  building_ref: ""
+
+- id: "1869-directory-byrnes_s"
+  year: 1869
+  raw_text: "Byrnes S s Eighteenth bet Hartford and Noe"
+  parsed:
+    surname: "Byrnes"
+    given_name: "S s Eighteenth bet Hartford and Noe"
+    occupation: ""
+    address_raw: ""
+  person_ref: "byrnes_s"
+  building_ref: ""
+
+- id: "1869-directory-widow_e"
+  year: 1869
+  raw_text: "(widow) E & Hartford bet"
+  parsed:
+    surname: "(widow)"
+    given_name: "E & Hartford bet"
+    occupation: ""
+    address_raw: ""
+  person_ref: "widow_e"
+  building_ref: ""
+
+- id: "1869-directory-sterling_of"
+  year: 1869
+  raw_text: "Sterling OF HARTFORD,"
+  parsed:
+    surname: "Sterling"
+    given_name: "OF HARTFORD,"
+    occupation: ""
+    address_raw: ""
+  person_ref: "sterling_of"
+  building_ref: ""
+
+- id: "1869-directory-the_phnix"
+  year: 1869
+  raw_text: "The PHŒNIX OF HARTFORD,"
+  parsed:
+    surname: "The"
+    given_name: "PHŒNIX OF HARTFORD,"
+    occupation: ""
+    address_raw: ""
+  person_ref: "the_phnix"
+  building_ref: ""
+
+- id: "1869-directory-bet_hartford"
+  year: 1869
+  raw_text: "bet Hartford and Castro"
+  parsed:
+    surname: "bet"
+    given_name: "Hartford and Castro"
+    occupation: ""
+    address_raw: ""
+  person_ref: "bet_hartford"
+  building_ref: ""
+
+- id: "1869-directory-okeefte_oneil"
+  year: 1869
+  raw_text: "O'Keefte O'Neil Daniel, laborer, dwl E & Hartford bet Bight-"
+  parsed:
+    surname: "O'Keefte"
+    given_name: "O'Neil Daniel, laborer, dwl E & Hartford bet Bight-"
+    occupation: ""
+    address_raw: ""
+  person_ref: "okeefte_oneil"
+  building_ref: ""
+
+- id: "1869-directory-dealers_laborer"
+  year: 1869
+  raw_text: "dealers laborer, dwl E s Hartford bet"
+  parsed:
+    surname: "dealers"
+    given_name: "laborer, dwl E s Hartford bet"
+    occupation: ""
+    address_raw: ""
+  person_ref: "dealers_laborer"
+  building_ref: ""
+
+- id: "1871-directory-hartford_and"
+  year: 1871
+  raw_text: "Hartford and Castro"
+  parsed:
+    surname: "Hartford"
+    given_name: "and Castro"
+    occupation: ""
+    address_raw: ""
+  person_ref: "hartford_and"
+  building_ref: ""
+
+- id: "1872-directory-britton_laborer"
+  year: 1872
+  raw_text: "Britton laborer, dwl Es Hartford n"
+  parsed:
+    surname: "Britton"
+    given_name: "laborer, dwl Es Hartford n"
+    occupation: ""
+    address_raw: ""
+  person_ref: "britton_laborer"
+  building_ref: ""
+
+- id: "1872-directory-s_"
+  year: 1872
+  raw_text: "S & Eighteenth nr Hartford"
+  parsed:
+    surname: "S"
+    given_name: "& Eighteenth nr Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "s_"
+  building_ref: ""
+
+- id: "1872-directory-carolina_w"
+  year: 1872
+  raw_text: "Carolina W cor Eighteenth and Hartford"
+  parsed:
+    surname: "Carolina"
+    given_name: "W cor Eighteenth and Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "carolina_w"
+  building_ref: ""
+
+- id: "1872-directory-dwl_crowley"
+  year: 1872
+  raw_text: "dwl Crowley Kate, (widow) dwl Es Hartford nr Eight-"
+  parsed:
+    surname: "dwl"
+    given_name: "Crowley Kate, (widow) dwl Es Hartford nr Eight-"
+    occupation: ""
+    address_raw: ""
+  person_ref: "dwl_crowley"
+  building_ref: ""
+
+- id: "1872-directory-and_co"
+  year: 1872
+  raw_text: "and Co. of Hartford, and"
+  parsed:
+    surname: "and"
+    given_name: "Co. of Hartford, and"
+    occupation: ""
+    address_raw: ""
+  person_ref: "and_co"
+  building_ref: ""
+
+- id: "1872-directory-dwis_"
+  year: 1872
+  raw_text: "dwiS & Eighteenth bet Hartford & Castro"
+  parsed:
+    surname: "dwiS"
+    given_name: "& Eighteenth bet Hartford & Castro"
+    occupation: ""
+    address_raw: ""
+  person_ref: "dwis_"
+  building_ref: ""
+
+- id: "1873-directory-britton_patrick"
+  year: 1873
+  raw_text: "Britton Patrick, laborer, dwl E s Hartford nr Bight-"
+  parsed:
+    surname: "Britton"
+    given_name: "Patrick, laborer, dwl E s Hartford nr Bight-"
+    occupation: ""
+    address_raw: ""
+  person_ref: "britton_patrick"
+  building_ref: ""
+
+- id: "1873-directory-g_eighteenth"
+  year: 1873
+  raw_text: "g. Eighteenth or Hartford"
+  parsed:
+    surname: "g"
+    given_name: "Eighteenth or Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "g_eighteenth"
+  building_ref: ""
+
+- id: "1873-directory-crowles_kate"
+  year: 1873
+  raw_text: "Crowles Kate (widow), dwl Es Hartford ar Bight-"
+  parsed:
+    surname: "Crowles"
+    given_name: "Kate (widow), dwl Es Hartford ar Bight-"
+    occupation: ""
+    address_raw: ""
+  person_ref: "crowles_kate"
+  building_ref: ""
+
+- id: "1874-directory-surance_co"
+  year: 1874
+  raw_text: "surance Co. of Hartford,"
+  parsed:
+    surname: "surance"
+    given_name: "Co. of Hartford,"
+    occupation: ""
+    address_raw: ""
+  person_ref: "surance_co"
+  building_ref: ""
+
+- id: "1874-directory-gerke_terreg"
+  year: 1874
+  raw_text: "GERKE terreg Frank, milkman, dwl Es Hartford nr Eight"
+  parsed:
+    surname: "GERKE"
+    given_name: "terreg Frank, milkman, dwl Es Hartford nr Eight"
+    occupation: ""
+    address_raw: ""
+  person_ref: "gerke_terreg"
+  building_ref: ""
+
+- id: "1874-directory-nineteenth_bet"
+  year: 1874
+  raw_text: "Nineteenth bet Hartford and Noe"
+  parsed:
+    surname: "Nineteenth"
+    given_name: "bet Hartford and Noe"
+    occupation: ""
+    address_raw: ""
+  person_ref: "nineteenth_bet"
+  building_ref: ""
+
+- id: "1874-directory-maloney_patrick"
+  year: 1874
+  raw_text: "Maloney Patrick, milkman, dwl E g Hartford nr"
+  parsed:
+    surname: "Maloney"
+    given_name: "Patrick, milkman, dwl E g Hartford nr"
+    occupation: ""
+    address_raw: ""
+  person_ref: "maloney_patrick"
+  building_ref: ""
+
+- id: "1874-directory-selmaat_and"
+  year: 1874
+  raw_text: "selmaat and Hartford"
+  parsed:
+    surname: "selmaat"
+    given_name: "and Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "selmaat_and"
+  building_ref: ""
+
+- id: "1874-directory-woods_isabel"
+  year: 1874
+  raw_text: "Woods Isabel (widow), dwl NW cor Hartford and"
+  parsed:
+    surname: "Woods"
+    given_name: "Isabel (widow), dwl NW cor Hartford and"
+    occupation: ""
+    address_raw: ""
+  person_ref: "woods_isabel"
+  building_ref: ""
+
+- id: "1874-directory-send_hartfordss"
+  year: 1874
+  raw_text: "send Hartford,Ss Eighteenth"
+  parsed:
+    surname: "send"
+    given_name: "Hartford,Ss Eighteenth"
+    occupation: ""
+    address_raw: ""
+  person_ref: "send_hartfordss"
+  building_ref: ""
+
+- id: "1874-directory-booker_of"
+  year: 1874
+  raw_text: "BOOKER OF HARTFORD,"
+  parsed:
+    surname: "BOOKER"
+    given_name: "OF HARTFORD,"
+    occupation: ""
+    address_raw: ""
+  person_ref: "booker_of"
+  building_ref: ""
+
+- id: "1874-directory-ofce_of"
+  year: 1874
+  raw_text: "Ofce of Hartford, Mississippi"
+  parsed:
+    surname: "Ofce"
+    given_name: "of Hartford, Mississippi"
+    occupation: ""
+    address_raw: ""
+  person_ref: "ofce_of"
+  building_ref: ""
+
+- id: "1875-directory-hartford_bet"
+  year: 1875
+  raw_text: "Hartford, bet Noe"
+  parsed:
+    surname: "Hartford"
+    given_name: "bet Noe"
+    occupation: ""
+    address_raw: ""
+  person_ref: "hartford_bet"
+  building_ref: ""
+
+- id: "1875-directory-yes_s"
+  year: 1875
+  raw_text: "Yes S & Eighteenth ur Hartford"
+  parsed:
+    surname: "Yes"
+    given_name: "S & Eighteenth ur Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "yes_s"
+  building_ref: ""
+
+- id: "1875-directory-_i"
+  year: 1875
+  raw_text: "• I., widow, res SW cor Hartford"
+  parsed:
+    surname: "•"
+    given_name: "I., widow, res SW cor Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "_i"
+  building_ref: ""
+
+- id: "1875-directory-maloney_p"
+  year: 1875
+  raw_text: "Maloney P, Hartford bet Eighteenth and Nine."
+  parsed:
+    surname: "Maloney"
+    given_name: "P, Hartford bet Eighteenth and Nine."
+    occupation: ""
+    address_raw: ""
+  person_ref: "maloney_p"
+  building_ref: ""
+
+- id: "1875-directory-hartfordsg_eigbteentb"
+  year: 1875
+  raw_text: "Hartford,Sg Eigbteentb"
+  parsed:
+    surname: "Hartford,Sg"
+    given_name: "Eigbteentb"
+    occupation: ""
+    address_raw: ""
+  person_ref: "hartfordsg_eigbteentb"
+  building_ref: ""
+
+- id: "1875-directory-hartfordsg_himmelmann"
+  year: 1875
+  raw_text: "Hartford,Sg Himmelmann Place,"
+  parsed:
+    surname: "Hartford,Sg"
+    given_name: "Himmelmann Place,"
+    occupation: ""
+    address_raw: ""
+  person_ref: "hartfordsg_himmelmann"
+  building_ref: ""
+
+- id: "1875-directory-hartfordsg_fifth"
+  year: 1875
+  raw_text: "Hartford,Sg Fifth"
+  parsed:
+    surname: "Hartford,Sg"
+    given_name: "Fifth"
+    occupation: ""
+    address_raw: ""
+  person_ref: "hartfordsg_fifth"
+  building_ref: ""
+
+- id: "1875-directory-anthony_fire"
+  year: 1875
+  raw_text: "ANTHONY (Fire), of Hartford,"
+  parsed:
+    surname: "ANTHONY"
+    given_name: "(Fire), of Hartford,"
+    occupation: ""
+    address_raw: ""
+  person_ref: "anthony_fire"
+  building_ref: ""
+
+- id: "1875-directory-noe_and"
+  year: 1875
+  raw_text: "Noe and Hartford"
+  parsed:
+    surname: "Noe"
+    given_name: "and Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "noe_and"
+  building_ref: ""
+
+- id: "1875-directory-byrnes_eighteenth"
+  year: 1875
+  raw_text: "Byrnes Eighteenth bet Noe and Hartford"
+  parsed:
+    surname: "Byrnes"
+    given_name: "Eighteenth bet Noe and Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "byrnes_eighteenth"
+  building_ref: ""
+
+- id: "1875-directory-market_crowley"
+  year: 1875
+  raw_text: "Market Crowley Kate (widow), dwl Es Hartford bet Eighteenth"
+  parsed:
+    surname: "Market"
+    given_name: "Crowley Kate (widow), dwl Es Hartford bet Eighteenth"
+    occupation: ""
+    address_raw: ""
+  person_ref: "market_crowley"
+  building_ref: ""
+
+- id: "1875-directory-mcmahon_milkman"
+  year: 1875
+  raw_text: "McMahon milkman, dwl E 8 Hartford nr"
+  parsed:
+    surname: "McMahon"
+    given_name: "milkman, dwl E 8 Hartford nr"
+    occupation: ""
+    address_raw: ""
+  person_ref: "mcmahon_milkman"
+  building_ref: ""
+
+- id: "1875-directory-norton_patrick"
+  year: 1875
+  raw_text: "Norton Patrick, laborer, dwl E s Hartford nr Eighteenth"
+  parsed:
+    surname: "Norton"
+    given_name: "Patrick, laborer, dwl E s Hartford nr Eighteenth"
+    occupation: ""
+    address_raw: ""
+  person_ref: "norton_patrick"
+  building_ref: ""
+
+- id: "1875-directory-reedy_michael"
+  year: 1875
+  raw_text: "Reedy Michael, laborer, dwl Ss Eighteenth or Hartford"
+  parsed:
+    surname: "Reedy"
+    given_name: "Michael, laborer, dwl Ss Eighteenth or Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "reedy_michael"
+  building_ref: ""
+
+- id: "1875-directory-woods_isabella"
+  year: 1875
+  raw_text: "Woods Isabella (widow), dwl W s Hartford or Twentieth"
+  parsed:
+    surname: "Woods"
+    given_name: "Isabella (widow), dwl W s Hartford or Twentieth"
+    occupation: ""
+    address_raw: ""
+  person_ref: "woods_isabella"
+  building_ref: ""
+
+- id: "1876-directory-lewis_baun"
+  year: 1876
+  raw_text: "Lewis Baun Joseph, driver, dwl SE cor Hartford and Eighteenth"
+  parsed:
+    surname: "Lewis"
+    given_name: "Baun Joseph, driver, dwl SE cor Hartford and Eighteenth"
+    occupation: ""
+    address_raw: ""
+  person_ref: "lewis_baun"
+  building_ref: ""
+
+- id: "1876-directory-britton_patrick"
+  year: 1876
+  raw_text: "Britton Patrick, laborer, dwi Es Hartford, bet Eighteenth"
+  parsed:
+    surname: "Britton"
+    given_name: "Patrick, laborer, dwi Es Hartford, bet Eighteenth"
+    occupation: ""
+    address_raw: ""
+  person_ref: "britton_patrick"
+  building_ref: ""
+
+- id: "1876-directory-bunker_burdick"
+  year: 1876
+  raw_text: "Bunker Burdick Russell M. (R. M. Burdick & Co.), res Hartford,"
+  parsed:
+    surname: "Bunker"
+    given_name: "Burdick Russell M. (R. M. Burdick & Co.), res Hartford,"
+    occupation: ""
+    address_raw: ""
+  person_ref: "bunker_burdick"
+  building_ref: ""
+
+- id: "1876-directory-caffrey_edward"
+  year: 1876
+  raw_text: "Caffrey Edward, laborer, dwl S s Eighteenth nr Hartford | Cahn Leon (L. Cahn & Brother), dwl 1417 Hyde"
+  parsed:
+    surname: "Caffrey"
+    given_name: "Edward, laborer, dwl S s Eighteenth nr Hartford | Cahn Leon (L. Cahn & Brother), dwl 1417 Hyde"
+    occupation: ""
+    address_raw: ""
+  person_ref: "caffrey_edward"
+  building_ref: ""
+
+- id: "1876-directory-lo_of"
+  year: 1876
+  raw_text: "lo. of Hartford, and"
+  parsed:
+    surname: "lo"
+    given_name: "of Hartford, and"
+    occupation: ""
+    address_raw: ""
+  person_ref: "lo_of"
+  building_ref: ""
+
+- id: "1876-directory-maloney_patrick"
+  year: 1876
+  raw_text: "Maloney Patrick, dairyman, E s Hartford bet Eighteenth"
+  parsed:
+    surname: "Maloney"
+    given_name: "Patrick, dairyman, E s Hartford bet Eighteenth"
+    occupation: ""
+    address_raw: ""
+  person_ref: "maloney_patrick"
+  building_ref: ""
+
+- id: "1876-directory-1823_norton"
+  year: 1876
+  raw_text: "1823 Norton Patrick, laborer, dwi E & Hartford bet Eighteenth"
+  parsed:
+    surname: "1823"
+    given_name: "Norton Patrick, laborer, dwi E & Hartford bet Eighteenth"
+    occupation: ""
+    address_raw: ""
+  person_ref: "1823_norton"
+  building_ref: ""
+
+- id: "1876-directory-nineteenth_bet"
+  year: 1876
+  raw_text: "Nineteenth bet Noe and Hartford"
+  parsed:
+    surname: "Nineteenth"
+    given_name: "bet Noe and Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "nineteenth_bet"
+  building_ref: ""
+
+- id: "1876-directory-reedy_michael"
+  year: 1876
+  raw_text: "Reedy Michael, Inborer, dwl Ss Eighteenth nr Hartford"
+  parsed:
+    surname: "Reedy"
+    given_name: "Michael, Inborer, dwl Ss Eighteenth nr Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "reedy_michael"
+  building_ref: ""
+
+- id: "1876-directory-woods_i"
+  year: 1876
+  raw_text: "Woods I. (widow), dwl W s Hartford nr Nineteenth"
+  parsed:
+    surname: "Woods"
+    given_name: "I. (widow), dwl W s Hartford nr Nineteenth"
+    occupation: ""
+    address_raw: ""
+  person_ref: "woods_i"
+  building_ref: ""
+
+- id: "1876-directory-jalone_eg"
+  year: 1876
+  raw_text: "Jalone Eg Hartford or Nineteenth"
+  parsed:
+    surname: "Jalone"
+    given_name: "Eg Hartford or Nineteenth"
+    occupation: ""
+    address_raw: ""
+  person_ref: "jalone_eg"
+  building_ref: ""
+
+- id: "1876-directory-mcmichael_se"
+  year: 1876
+  raw_text: "McMichael SE cor Hartford and"
+  parsed:
+    surname: "McMichael"
+    given_name: "SE cor Hartford and"
+    occupation: ""
+    address_raw: ""
+  person_ref: "mcmichael_se"
+  building_ref: ""
+
+- id: "1877-directory-baun_jasper"
+  year: 1877
+  raw_text: "Baun Jasper, grocer, SE cor Eighteenth and Hartford"
+  parsed:
+    surname: "Baun"
+    given_name: "Jasper, grocer, SE cor Eighteenth and Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "baun_jasper"
+  building_ref: ""
+
+- id: "1877-directory-expressman_dwl"
+  year: 1877
+  raw_text: "expressman, dwl N s Nineteenth, bet Hartford"
+  parsed:
+    surname: "expressman"
+    given_name: "dwl N s Nineteenth, bet Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "expressman_dwl"
+  building_ref: ""
+
+- id: "1877-directory-britton_laborer"
+  year: 1877
+  raw_text: "Britton laborer, dwl E s Hartford, bet Eigh-"
+  parsed:
+    surname: "Britton"
+    given_name: "laborer, dwl E s Hartford, bet Eigh-"
+    occupation: ""
+    address_raw: ""
+  person_ref: "britton_laborer"
+  building_ref: ""
+
+- id: "1877-directory-eighteenth_bet"
+  year: 1877
+  raw_text: "Eighteenth, bet Hartford and Noe"
+  parsed:
+    surname: "Eighteenth"
+    given_name: "bet Hartford and Noe"
+    occupation: ""
+    address_raw: ""
+  person_ref: "eighteenth_bet"
+  building_ref: ""
+
+- id: "1877-directory-co_of"
+  year: 1877
+  raw_text: "Co. of Hartford,"
+  parsed:
+    surname: "Co"
+    given_name: "of Hartford,"
+    occupation: ""
+    address_raw: ""
+  person_ref: "co_of"
+  building_ref: ""
+
+- id: "1877-directory-sw_cor"
+  year: 1877
+  raw_text: "SW cor Hartford and Fight-"
+  parsed:
+    surname: "SW"
+    given_name: "cor Hartford and Fight-"
+    occupation: ""
+    address_raw: ""
+  person_ref: "sw_cor"
+  building_ref: ""
+
+- id: "1877-directory-of_hartford"
+  year: 1877
+  raw_text: "of Hartford, and Home Fire Insur-"
+  parsed:
+    surname: "of"
+    given_name: "Hartford, and Home Fire Insur-"
+    occupation: ""
+    address_raw: ""
+  person_ref: "of_hartford"
+  building_ref: ""
+
+- id: "1877-directory-maloney_patrick"
+  year: 1877
+  raw_text: "Maloney Patrick, milkman, dwl Hartford, nr Nineteenth"
+  parsed:
+    surname: "Maloney"
+    given_name: "Patrick, milkman, dwl Hartford, nr Nineteenth"
+    occupation: ""
+    address_raw: ""
+  person_ref: "maloney_patrick"
+  building_ref: ""
+
+- id: "1877-directory-marron_michael"
+  year: 1877
+  raw_text: "Marron Michael, plasterer, dwl E s Hartford, bet Eight-"
+  parsed:
+    surname: "Marron"
+    given_name: "Michael, plasterer, dwl E s Hartford, bet Eight-"
+    occupation: ""
+    address_raw: ""
+  person_ref: "marron_michael"
+  building_ref: ""
+
+- id: "1877-directory-memichael_charles"
+  year: 1877
+  raw_text: "MeMichael Charles, laborer, SE cor Hartford and Eigh-"
+  parsed:
+    surname: "MeMichael"
+    given_name: "Charles, laborer, SE cor Hartford and Eigh-"
+    occupation: ""
+    address_raw: ""
+  person_ref: "memichael_charles"
+  building_ref: ""
+
+- id: "1877-directory-dairyman_dwl"
+  year: 1877
+  raw_text: "dairyman dwl E & Hartford, bet"
+  parsed:
+    surname: "dairyman"
+    given_name: "dwl E & Hartford, bet"
+    occupation: ""
+    address_raw: ""
+  person_ref: "dairyman_dwl"
+  building_ref: ""
+
+- id: "1877-directory-phister_co"
+  year: 1877
+  raw_text: "Phister Co. of Hartford, Arthur E. Ma-"
+  parsed:
+    surname: "Phister"
+    given_name: "Co. of Hartford, Arthur E. Ma-"
+    occupation: ""
+    address_raw: ""
+  person_ref: "phister_co"
+  building_ref: ""
+
+- id: "1877-directory-woods_isabell"
+  year: 1877
+  raw_text: "Woods Isabell (widow), dwl cor Nineteenth and Hartford"
+  parsed:
+    surname: "Woods"
+    given_name: "Isabell (widow), dwl cor Nineteenth and Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "woods_isabell"
+  building_ref: ""
+
+- id: "1877-directory-joost_b"
+  year: 1877
+  raw_text: "Joost B. & M., SW cor Hartford"
+  parsed:
+    surname: "Joost"
+    given_name: "B. & M., SW cor Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "joost_b"
+  building_ref: ""
+
+- id: "1877-directory-joost_b"
+  year: 1877
+  raw_text: "Joost B. & M., cor Hartford and Eight-"
+  parsed:
+    surname: "Joost"
+    given_name: "B. & M., cor Hartford and Eight-"
+    occupation: ""
+    address_raw: ""
+  person_ref: "joost_b"
+  building_ref: ""
+
+- id: "1877-directory-se_cor"
+  year: 1877
+  raw_text: "SE cor Hartford and"
+  parsed:
+    surname: "SE"
+    given_name: "cor Hartford and"
+    occupation: ""
+    address_raw: ""
+  person_ref: "se_cor"
+  building_ref: ""
+
+- id: "1877-directory-farrell_cor"
+  year: 1877
+  raw_text: "Farrell cor Hartford and 18th"
+  parsed:
+    surname: "Farrell"
+    given_name: "cor Hartford and 18th"
+    occupation: ""
+    address_raw: ""
+  person_ref: "farrell_cor"
+  building_ref: ""
+
+- id: "1877-directory-glennan_wm"
+  year: 1877
+  raw_text: "Glennan Wm., lab, r. es. Hartford nr 18th"
+  parsed:
+    surname: "Glennan"
+    given_name: "Wm., lab, r. es. Hartford nr 18th"
+    occupation: ""
+    address_raw: ""
+  person_ref: "glennan_wm"
+  building_ref: ""
+
+- id: "1877-directory-glenoven_wm"
+  year: 1877
+  raw_text: "Glenoven Wm., lab, r. es. Hartford bet 18th"
+  parsed:
+    surname: "Glenoven"
+    given_name: "Wm., lab, r. es. Hartford bet 18th"
+    occupation: ""
+    address_raw: ""
+  person_ref: "glenoven_wm"
+  building_ref: ""
+
+- id: "1877-directory-jones_groceries"
+  year: 1877
+  raw_text: "Jones groceries, sw. cor Hartford and 18th"
+  parsed:
+    surname: "Jones"
+    given_name: "groceries, sw. cor Hartford and 18th"
+    occupation: ""
+    address_raw: ""
+  person_ref: "jones_groceries"
+  building_ref: ""
+
+- id: "1877-directory-hartford_and"
+  year: 1877
+  raw_text: "Hartford and 18th"
+  parsed:
+    surname: "Hartford"
+    given_name: "and 18th"
+    occupation: ""
+    address_raw: ""
+  person_ref: "hartford_and"
+  building_ref: ""
+
+- id: "1877-directory-patrick_milkman"
+  year: 1877
+  raw_text: "Patrick milkman, r. es. Hartford"
+  parsed:
+    surname: "Patrick"
+    given_name: "milkman, r. es. Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "patrick_milkman"
+  building_ref: ""
+
+- id: "1877-directory-mcmichael_chas"
+  year: 1877
+  raw_text: "McMichael Chas., lab, r. es. Hartford nr 18th"
+  parsed:
+    surname: "McMichael"
+    given_name: "Chas., lab, r. es. Hartford nr 18th"
+    occupation: ""
+    address_raw: ""
+  person_ref: "mcmichael_chas"
+  building_ref: ""
+
+- id: "1877-directory-memichael_john"
+  year: 1877
+  raw_text: "MeMichael John, lab, r. es. Hartford nr 18th"
+  parsed:
+    surname: "MeMichael"
+    given_name: "John, lab, r. es. Hartford nr 18th"
+    occupation: ""
+    address_raw: ""
+  person_ref: "memichael_john"
+  building_ref: ""
+
+- id: "1877-directory-_unknown"
+  year: 1877
+  raw_text: "S & 18th nr Hartford"
+  parsed:
+    surname: ""
+    given_name: ""
+    occupation: ""
+    address_raw: "18th nr Hartford"
+  person_ref: "_unknown"
+  building_ref: "hartford_18th nr"
+
+- id: "1877-directory-sw_cor"
+  year: 1877
+  raw_text: "SW cor Hartford and 18th"
+  parsed:
+    surname: "SW"
+    given_name: "cor Hartford and 18th"
+    occupation: ""
+    address_raw: ""
+  person_ref: "sw_cor"
+  building_ref: ""
+
+- id: "1878-directory-taller_bet"
+  year: 1878
+  raw_text: "taller bet Hartford and Noc"
+  parsed:
+    surname: "taller"
+    given_name: "bet Hartford and Noc"
+    occupation: ""
+    address_raw: ""
+  person_ref: "taller_bet"
+  building_ref: ""
+
+- id: "1878-directory-britton_patrick"
+  year: 1878
+  raw_text: "Britton Patrick, laborer, dwl Es Hartford, bet Bighteenth"
+  parsed:
+    surname: "Britton"
+    given_name: "Patrick, laborer, dwl Es Hartford, bet Bighteenth"
+    occupation: ""
+    address_raw: ""
+  person_ref: "britton_patrick"
+  building_ref: ""
+
+- id: "1878-directory-carter_casar"
+  year: 1878
+  raw_text: "Carter Casar Michael, dwl Hartford, bet Bighteenth and Nine-"
+  parsed:
+    surname: "Carter"
+    given_name: "Casar Michael, dwl Hartford, bet Bighteenth and Nine-"
+    occupation: ""
+    address_raw: ""
+  person_ref: "carter_casar"
+  building_ref: ""
+
+- id: "1878-directory-hartford_and"
+  year: 1878
+  raw_text: "Hartford and Noe"
+  parsed:
+    surname: "Hartford"
+    given_name: "and Noe"
+    occupation: ""
+    address_raw: ""
+  person_ref: "hartford_and"
+  building_ref: ""
+
+- id: "1878-directory-glinnen_william"
+  year: 1878
+  raw_text: "Glinnen William, dwl Es Hartford, bet Eighteenth and"
+  parsed:
+    surname: "Glinnen"
+    given_name: "William, dwl Es Hartford, bet Eighteenth and"
+    occupation: ""
+    address_raw: ""
+  person_ref: "glinnen_william"
+  building_ref: ""
+
+- id: "1878-directory-gosa_michael"
+  year: 1878
+  raw_text: "Gosa Michael, laborer, dwl W s Hartford, bet Eighteentb"
+  parsed:
+    surname: "Gosa"
+    given_name: "Michael, laborer, dwl W s Hartford, bet Eighteentb"
+    occupation: ""
+    address_raw: ""
+  person_ref: "gosa_michael"
+  building_ref: ""
+
+- id: "1878-directory-hahl_peter"
+  year: 1878
+  raw_text: "Hahl Peter, clerk B. & M. Joost, dwl SW cor Hartford"
+  parsed:
+    surname: "Hahl"
+    given_name: "Peter, clerk B. & M. Joost, dwl SW cor Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "hahl_peter"
+  building_ref: ""
+
+- id: "1878-directory-hartford_and"
+  year: 1878
+  raw_text: "Hartford and Post"
+  parsed:
+    surname: "Hartford"
+    given_name: "and Post"
+    occupation: ""
+    address_raw: ""
+  person_ref: "hartford_and"
+  building_ref: ""
+
+- id: "1878-directory-battles_eichteenth"
+  year: 1878
+  raw_text: "Battles Eichteenth, or Hartford!"
+  parsed:
+    surname: "Battles"
+    given_name: "Eichteenth, or Hartford!"
+    occupation: ""
+    address_raw: ""
+  person_ref: "battles_eichteenth"
+  building_ref: ""
+
+- id: "1878-directory-hovet_sw"
+  year: 1878
+  raw_text: "Hovet SW cor Hartford and"
+  parsed:
+    surname: "Hovet"
+    given_name: "SW cor Hartford and"
+    occupation: ""
+    address_raw: ""
+  person_ref: "hovet_sw"
+  building_ref: ""
+
+- id: "1878-directory-batties_pighteenth"
+  year: 1878
+  raw_text: "Batties Pighteenth or Hartford"
+  parsed:
+    surname: "Batties"
+    given_name: "Pighteenth or Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "batties_pighteenth"
+  building_ref: ""
+
+- id: "1879-directory-gas_tna"
+  year: 1879
+  raw_text: "Gas tna (Hartford), front cover"
+  parsed:
+    surname: "Gas"
+    given_name: "tna (Hartford), front cover"
+    occupation: ""
+    address_raw: ""
+  person_ref: "gas_tna"
+  building_ref: ""
+
+- id: "1879-directory-bernard_r"
+  year: 1879
+  raw_text: "Bernard r. E & Hartford, bet Eight-"
+  parsed:
+    surname: "Bernard"
+    given_name: "r. E & Hartford, bet Eight-"
+    occupation: ""
+    address_raw: ""
+  person_ref: "bernard_r"
+  building_ref: ""
+
+- id: "1879-directory-brindell_isborer"
+  year: 1879
+  raw_text: "Brindell Isborer, r. E s Hartford, bet Bigh-"
+  parsed:
+    surname: "Brindell"
+    given_name: "Isborer, r. E s Hartford, bet Bigh-"
+    occupation: ""
+    address_raw: ""
+  person_ref: "brindell_isborer"
+  building_ref: ""
+
+- id: "1879-directory-dimon_with"
+  year: 1879
+  raw_text: "Dimon with Phonix (of Hartford), and"
+  parsed:
+    surname: "Dimon"
+    given_name: "with Phonix (of Hartford), and"
+    occupation: ""
+    address_raw: ""
+  person_ref: "dimon_with"
+  building_ref: ""
+
+- id: "1879-directory-durgan_bet"
+  year: 1879
+  raw_text: "Durgan bet Noe and Hartford"
+  parsed:
+    surname: "Durgan"
+    given_name: "bet Noe and Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "durgan_bet"
+  building_ref: ""
+
+- id: "1879-directory-gallagher_and"
+  year: 1879
+  raw_text: "Gallagher and Hartford"
+  parsed:
+    surname: "Gallagher"
+    given_name: "and Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "gallagher_and"
+  building_ref: ""
+
+- id: "1879-directory-gorman_goss"
+  year: 1879
+  raw_text: "Gorman Goss Michael (M. Goss & Co.), r. W a Hartford, bet"
+  parsed:
+    surname: "Gorman"
+    given_name: "Goss Michael (M. Goss & Co.), r. W a Hartford, bet"
+    occupation: ""
+    address_raw: ""
+  person_ref: "gorman_goss"
+  building_ref: ""
+
+- id: "1879-directory-joost_martin"
+  year: 1879
+  raw_text: "Joost Martin (B. & M. Joost), r. SW cor Hartford and"
+  parsed:
+    surname: "Joost"
+    given_name: "Martin (B. & M. Joost), r. SW cor Hartford and"
+    occupation: ""
+    address_raw: ""
+  person_ref: "joost_martin"
+  building_ref: ""
+
+- id: "1879-directory-malmberg_maloney"
+  year: 1879
+  raw_text: "Malmberg Maloney Patrick, dairy, E & Hartford, bet Eighteenth"
+  parsed:
+    surname: "Malmberg"
+    given_name: "Maloney Patrick, dairy, E & Hartford, bet Eighteenth"
+    occupation: ""
+    address_raw: ""
+  person_ref: "malmberg_maloney"
+  building_ref: ""
+
+- id: "1879-directory-r_laborer"
+  year: 1879
+  raw_text: "r laborer, r. E s Hartford, bet"
+  parsed:
+    surname: "r"
+    given_name: "laborer, r. E s Hartford, bet"
+    occupation: ""
+    address_raw: ""
+  person_ref: "r_laborer"
+  building_ref: ""
+
+- id: "1879-directory-mcmichael_charles"
+  year: 1879
+  raw_text: "McMichael Charles, laborer, r. E s Hartford, bet Eigh-"
+  parsed:
+    surname: "McMichael"
+    given_name: "Charles, laborer, r. E s Hartford, bet Eigh-"
+    occupation: ""
+    address_raw: ""
+  person_ref: "mcmichael_charles"
+  building_ref: ""
+
+- id: "1879-directory-eenth_es"
+  year: 1879
+  raw_text: "eenth Es Hartford, bet Eight-"
+  parsed:
+    surname: "eenth"
+    given_name: "Es Hartford, bet Eight-"
+    occupation: ""
+    address_raw: ""
+  person_ref: "eenth_es"
+  building_ref: ""
+
+- id: "1879-directory-oconnor_noe"
+  year: 1879
+  raw_text: "O'Connor Noe and Hartford"
+  parsed:
+    surname: "O'Connor"
+    given_name: "Noe and Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "oconnor_noe"
+  building_ref: ""
+
+- id: "1879-directory-artist_s"
+  year: 1879
+  raw_text: "artist S s Eighteenth, bet Castro and Hartford"
+  parsed:
+    surname: "artist"
+    given_name: "S s Eighteenth, bet Castro and Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "artist_s"
+  building_ref: ""
+
+- id: "1879-directory-stevene_stevenson"
+  year: 1879
+  raw_text: "Stevene Stevenson Annette Mrs., r. E s Hartford, bet Eighteenth"
+  parsed:
+    surname: "Stevene"
+    given_name: "Stevenson Annette Mrs., r. E s Hartford, bet Eighteenth"
+    occupation: ""
+    address_raw: ""
+  person_ref: "stevene_stevenson"
+  building_ref: ""
+
+- id: "1879-directory-walker_non"
+  year: 1879
+  raw_text: "Walker non, r. Nineteenth, bet Noe and Hartford"
+  parsed:
+    surname: "Walker"
+    given_name: "non, r. Nineteenth, bet Noe and Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "walker_non"
+  building_ref: ""
+
+- id: "1879-directory-hartford_and"
+  year: 1879
+  raw_text: "Hartford and Castro"
+  parsed:
+    surname: "Hartford"
+    given_name: "and Castro"
+    occupation: ""
+    address_raw: ""
+  person_ref: "hartford_and"
+  building_ref: ""
+
+- id: "1879-directory-whiting_james"
+  year: 1879
+  raw_text: "Whiting James W., city agent Phœnis (of Hartford)."
+  parsed:
+    surname: "Whiting"
+    given_name: "James W., city agent Phœnis (of Hartford)."
+    occupation: ""
+    address_raw: ""
+  person_ref: "whiting_james"
+  building_ref: ""
+
+- id: "1879-directory-castro_and"
+  year: 1879
+  raw_text: "Castro and Hartford"
+  parsed:
+    surname: "Castro"
+    given_name: "and Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "castro_and"
+  building_ref: ""
+
+- id: "1879-directory-maguire_hartford"
+  year: 1879
+  raw_text: "Maguire Hartford, bet"
+  parsed:
+    surname: "Maguire"
+    given_name: "Hartford, bet"
+    occupation: ""
+    address_raw: ""
+  person_ref: "maguire_hartford"
+  building_ref: ""
+
+- id: "1880-directory-hartford_bet"
+  year: 1880
+  raw_text: "Hartford, bet Noe and"
+  parsed:
+    surname: "Hartford"
+    given_name: "bet Noe and"
+    occupation: ""
+    address_raw: ""
+  person_ref: "hartford_bet"
+  building_ref: ""
+
+- id: "1880-directory-bean_david"
+  year: 1880
+  raw_text: "Bean David F., porter laas Brothere, r. E a Hartford,"
+  parsed:
+    surname: "Bean"
+    given_name: "David F., porter laas Brothere, r. E a Hartford,"
+    occupation: ""
+    address_raw: ""
+  person_ref: "bean_david"
+  building_ref: ""
+
+- id: "1880-directory-co_of"
+  year: 1880
+  raw_text: "Co. (of Hartford,"
+  parsed:
+    surname: "Co"
+    given_name: "(of Hartford,"
+    occupation: ""
+    address_raw: ""
+  person_ref: "co_of"
+  building_ref: ""
+
+- id: "1880-directory-brindelson_britton"
+  year: 1880
+  raw_text: "Brindelson Britton Patrick, laborer, r. E s Hartford, bet Eight-"
+  parsed:
+    surname: "Brindelson"
+    given_name: "Britton Patrick, laborer, r. E s Hartford, bet Eight-"
+    occupation: ""
+    address_raw: ""
+  person_ref: "brindelson_britton"
+  building_ref: ""
+
+- id: "1880-directory-gleunan_richard"
+  year: 1880
+  raw_text: "Gleunan Richard, laborer, r. E & Hartford, bet Eight."
+  parsed:
+    surname: "Gleunan"
+    given_name: "Richard, laborer, r. E & Hartford, bet Eight."
+    occupation: ""
+    address_raw: ""
+  person_ref: "gleunan_richard"
+  building_ref: ""
+
+- id: "1880-directory-glennan_william"
+  year: 1880
+  raw_text: "Glennan William, laborer, r. E s Hartford, bet Eight-"
+  parsed:
+    surname: "Glennan"
+    given_name: "William, laborer, r. E s Hartford, bet Eight-"
+    occupation: ""
+    address_raw: ""
+  person_ref: "glennan_william"
+  building_ref: ""
+
+- id: "1880-directory-green_castro"
+  year: 1880
+  raw_text: "Green Castro and Hartford"
+  parsed:
+    surname: "Green"
+    given_name: "Castro and Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "green_castro"
+  building_ref: ""
+
+- id: "1880-directory-harford_see"
+  year: 1880
+  raw_text: "Harford See Hartford"
+  parsed:
+    surname: "Harford"
+    given_name: "See Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "harford_see"
+  building_ref: ""
+
+- id: "1880-directory-surance_co"
+  year: 1880
+  raw_text: "surance Co. of Hartford,"
+  parsed:
+    surname: "surance"
+    given_name: "Co. of Hartford,"
+    occupation: ""
+    address_raw: ""
+  person_ref: "surance_co"
+  building_ref: ""
+
+- id: "1880-directory-ing_sion"
+  year: 1880
+  raw_text: "ing sion merchants, SW cor Eighteenth and Hartford"
+  parsed:
+    surname: "ing"
+    given_name: "sion merchants, SW cor Eighteenth and Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "ing_sion"
+  building_ref: ""
+
+- id: "1880-directory-william_joost"
+  year: 1880
+  raw_text: "William Joost Martin (B. & M. Joost) r. SW cor Hartford and"
+  parsed:
+    surname: "William"
+    given_name: "Joost Martin (B. & M. Joost) r. SW cor Hartford and"
+    occupation: ""
+    address_raw: ""
+  person_ref: "william_joost"
+  building_ref: ""
+
+- id: "1880-directory-t_maloney"
+  year: 1880
+  raw_text: "T Maloney Patrick, dairy, E a Hartford, bet Eighteenth"
+  parsed:
+    surname: "T"
+    given_name: "Maloney Patrick, dairy, E a Hartford, bet Eighteenth"
+    occupation: ""
+    address_raw: ""
+  person_ref: "t_maloney"
+  building_ref: ""
+
+- id: "1880-directory-nchenomy_r"
+  year: 1880
+  raw_text: "Nchenomy r. E s Hartford,"
+  parsed:
+    surname: "Nchenomy"
+    given_name: "r. E s Hartford,"
+    occupation: ""
+    address_raw: ""
+  person_ref: "nchenomy_r"
+  building_ref: ""
+
+- id: "1880-directory-r_e"
+  year: 1880
+  raw_text: "r. E s Hartford, bet Elgh-"
+  parsed:
+    surname: "r"
+    given_name: "E s Hartford, bet Elgh-"
+    occupation: ""
+    address_raw: ""
+  person_ref: "r_e"
+  building_ref: ""
+
+- id: "1880-directory-nineteenth_and"
+  year: 1880
+  raw_text: "Nineteenth and Hartford"
+  parsed:
+    surname: "Nineteenth"
+    given_name: "and Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "nineteenth_and"
+  building_ref: ""
+
+- id: "1880-directory-castro_and"
+  year: 1880
+  raw_text: "Castro and Hartford"
+  parsed:
+    surname: "Castro"
+    given_name: "and Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "castro_and"
+  building_ref: ""
+
+- id: "1880-directory-_unknown"
+  year: 1880
+  raw_text: "Simon 955 Hartford"
+  parsed:
+    surname: ""
+    given_name: ""
+    occupation: ""
+    address_raw: "955 Hartford"
+  person_ref: "_unknown"
+  building_ref: "hartford_955"
+
+- id: "1880-directory-maloney_hartford"
+  year: 1880
+  raw_text: "Maloney Hartford, bet"
+  parsed:
+    surname: "Maloney"
+    given_name: "Hartford, bet"
+    occupation: ""
+    address_raw: ""
+  person_ref: "maloney_hartford"
+  building_ref: ""
+
+- id: "1881-directory-bernard_ellen"
+  year: 1881
+  raw_text: "Bernard Ellen, widow, r. 25 Hartford"
+  parsed:
+    surname: "Bernard"
+    given_name: "Ellen"
+    occupation: "widow"
+    address_raw: "25 Hartford"
+  person_ref: "bernard_ellen"
+  building_ref: "hartford_25"
+
+- id: "1881-directory-briners_e"
+  year: 1881
+  raw_text: "Briners E s Hartford, bet Eigh-"
+  parsed:
+    surname: "Briners"
+    given_name: "E s Hartford, bet Eigh-"
+    occupation: ""
+    address_raw: ""
+  person_ref: "briners_e"
+  building_ref: ""
+
+- id: "1881-directory-charmak_of"
+  year: 1881
+  raw_text: "Charmak (of Hartford,"
+  parsed:
+    surname: "Charmak"
+    given_name: "(of Hartford,"
+    occupation: ""
+    address_raw: ""
+  person_ref: "charmak_of"
+  building_ref: ""
+
+- id: "1881-directory-dockum_nineteenth"
+  year: 1881
+  raw_text: "Dockum Nineteenth, bet Noe and Hartford"
+  parsed:
+    surname: "Dockum"
+    given_name: "Nineteenth, bet Noe and Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "dockum_nineteenth"
+  building_ref: ""
+
+- id: "1881-directory-furlong_at"
+  year: 1881
+  raw_text: "Furlong at law, r. E & Hartford,"
+  parsed:
+    surname: "Furlong"
+    given_name: "at law, r. E & Hartford,"
+    occupation: ""
+    address_raw: ""
+  person_ref: "furlong_at"
+  building_ref: ""
+
+- id: "1881-directory-surance_co"
+  year: 1881
+  raw_text: "surance Co. of Hartford,"
+  parsed:
+    surname: "surance"
+    given_name: "Co. of Hartford,"
+    occupation: ""
+    address_raw: ""
+  person_ref: "surance_co"
+  building_ref: ""
+
+- id: "1881-directory-leon_o"
+  year: 1881
+  raw_text: "Leon O. Charles, carpenter, r. SE cor Hartford and"
+  parsed:
+    surname: "Leon"
+    given_name: "O. Charles, carpenter, r. SE cor Hartford and"
+    occupation: ""
+    address_raw: ""
+  person_ref: "leon_o"
+  building_ref: ""
+
+- id: "1881-directory-aaloney_patrick"
+  year: 1881
+  raw_text: "Aaloney Patrick, dairyman, Es Hartford, bet Eigh-"
+  parsed:
+    surname: "Aaloney"
+    given_name: "Patrick, dairyman, Es Hartford, bet Eigh-"
+    occupation: ""
+    address_raw: ""
+  person_ref: "aaloney_patrick"
+  building_ref: ""
+
+- id: "1881-directory-hartford_and"
+  year: 1881
+  raw_text: "Hartford and Castro"
+  parsed:
+    surname: "Hartford"
+    given_name: "and Castro"
+    occupation: ""
+    address_raw: ""
+  person_ref: "hartford_and"
+  building_ref: ""
+
+- id: "1881-directory-mcconkey_milkman"
+  year: 1881
+  raw_text: "McConkey milkman, r. E & Hartford, bet"
+  parsed:
+    surname: "McConkey"
+    given_name: "milkman, r. E & Hartford, bet"
+    occupation: ""
+    address_raw: ""
+  person_ref: "mcconkey_milkman"
+  building_ref: ""
+
+- id: "1881-directory-mcmichael_r"
+  year: 1881
+  raw_text: "McMichael r. E s Hartford,, bet"
+  parsed:
+    surname: "McMichael"
+    given_name: "r. E s Hartford,, bet"
+    occupation: ""
+    address_raw: ""
+  person_ref: "mcmichael_r"
+  building_ref: ""
+
+- id: "1881-directory-hartford_bet"
+  year: 1881
+  raw_text: "Hartford bet Eighteenth and Ninsteenth"
+  parsed:
+    surname: "Hartford"
+    given_name: "bet Eighteenth and Ninsteenth"
+    occupation: ""
+    address_raw: ""
+  person_ref: "hartford_bet"
+  building_ref: ""
+
+- id: "1881-directory-oppenheimer_of"
+  year: 1881
+  raw_text: "Oppenheimer (of Hartford) Jacobs &"
+  parsed:
+    surname: "Oppenheimer"
+    given_name: "(of Hartford) Jacobs &"
+    occupation: ""
+    address_raw: ""
+  person_ref: "oppenheimer_of"
+  building_ref: ""
+
+- id: "1881-directory-1137_nineteenth"
+  year: 1881
+  raw_text: "1137 Nineteenth and Hartford"
+  parsed:
+    surname: "1137"
+    given_name: "Nineteenth and Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "1137_nineteenth"
+  building_ref: ""
+
+- id: "1881-directory-domeatic_tro"
+  year: 1881
+  raw_text: "domeatic tro and Hartford"
+  parsed:
+    surname: "domeatic"
+    given_name: "tro and Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "domeatic_tro"
+  building_ref: ""
+
+- id: "1881-directory-walte_tro"
+  year: 1881
+  raw_text: "Walte tro and Hartford"
+  parsed:
+    surname: "Walte"
+    given_name: "tro and Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "walte_tro"
+  building_ref: ""
+
+- id: "1881-directory-baun_hartford"
+  year: 1881
+  raw_text: "Baun Hartford and"
+  parsed:
+    surname: "Baun"
+    given_name: "Hartford and"
+    occupation: ""
+    address_raw: ""
+  person_ref: "baun_hartford"
+  building_ref: ""
+
+- id: "1881-directory-baum_cor"
+  year: 1881
+  raw_text: "Baum cor Hartford and"
+  parsed:
+    surname: "Baum"
+    given_name: "cor Hartford and"
+    occupation: ""
+    address_raw: ""
+  person_ref: "baum_cor"
+  building_ref: ""
+
+- id: "1881-directory-blaloney_e"
+  year: 1881
+  raw_text: "bLaloney E & Hartford,"
+  parsed:
+    surname: "bLaloney"
+    given_name: "E & Hartford,"
+    occupation: ""
+    address_raw: ""
+  person_ref: "blaloney_e"
+  building_ref: ""
+
+- id: "1882-directory-bell_nineteenth"
+  year: 1882
+  raw_text: "Bell Nineteenth, bet Hartford aud Noe"
+  parsed:
+    surname: "Bell"
+    given_name: "Nineteenth, bet Hartford aud Noe"
+    occupation: ""
+    address_raw: ""
+  person_ref: "bell_nineteenth"
+  building_ref: ""
+
+- id: "1882-directory-britton_patrick"
+  year: 1882
+  raw_text: "Britton Patrick, laborer, r. E 8 Hartford, bet Eight-"
+  parsed:
+    surname: "Britton"
+    given_name: "Patrick, laborer, r. E 8 Hartford, bet Eight-"
+    occupation: ""
+    address_raw: ""
+  person_ref: "britton_patrick"
+  building_ref: ""
+
+- id: "1882-directory-nineteenth_and"
+  year: 1882
+  raw_text: "Nineteenth and Hartford"
+  parsed:
+    surname: "Nineteenth"
+    given_name: "and Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "nineteenth_and"
+  building_ref: ""
+
+- id: "1882-directory-80n_s"
+  year: 1882
+  raw_text: "80n s Hartford, or Nine-"
+  parsed:
+    surname: "80n"
+    given_name: "s Hartford, or Nine-"
+    occupation: ""
+    address_raw: ""
+  person_ref: "80n_s"
+  building_ref: ""
+
+- id: "1882-directory-hastings_and"
+  year: 1882
+  raw_text: "Hastings and Hartford"
+  parsed:
+    surname: "Hastings"
+    given_name: "and Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "hastings_and"
+  building_ref: ""
+
+- id: "1882-directory-kennison_j"
+  year: 1882
+  raw_text: "Kennison J. Fred, clerk Hartford"
+  parsed:
+    surname: "Kennison"
+    given_name: "J. Fred, clerk Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "kennison_j"
+  building_ref: ""
+
+- id: "1882-directory-maloney_patrick"
+  year: 1882
+  raw_text: "Maloney Patrick, dairy, E & Hartford, bet Eighteenth"
+  parsed:
+    surname: "Maloney"
+    given_name: "Patrick, dairy, E & Hartford, bet Eighteenth"
+    occupation: ""
+    address_raw: ""
+  person_ref: "maloney_patrick"
+  building_ref: ""
+
+- id: "1882-directory-_hartford"
+  year: 1882
+  raw_text: "$ Hartford, bet"
+  parsed:
+    surname: "$"
+    given_name: "Hartford, bet"
+    occupation: ""
+    address_raw: ""
+  person_ref: "_hartford"
+  building_ref: ""
+
+- id: "1882-directory-norton_r"
+  year: 1882
+  raw_text: "Norton r. E 6 Hartford, bet Eigh-"
+  parsed:
+    surname: "Norton"
+    given_name: "r. E 6 Hartford, bet Eigh-"
+    occupation: ""
+    address_raw: ""
+  person_ref: "norton_r"
+  building_ref: ""
+
+- id: "1882-directory-castro_and"
+  year: 1882
+  raw_text: "Castro and Hartford"
+  parsed:
+    surname: "Castro"
+    given_name: "and Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "castro_and"
+  building_ref: ""
+
+- id: "1882-directory-bet_castro"
+  year: 1882
+  raw_text: "bet Castro and Hartford"
+  parsed:
+    surname: "bet"
+    given_name: "Castro and Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "bet_castro"
+  building_ref: ""
+
+- id: "1882-directory-walker_son"
+  year: 1882
+  raw_text: "Walker son, r. S & Nineteenth, bet Noe and Hartford"
+  parsed:
+    surname: "Walker"
+    given_name: "son, r. S & Nineteenth, bet Noe and Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "walker_son"
+  building_ref: ""
+
+- id: "1882-directory-woods_and"
+  year: 1882
+  raw_text: "Woods and Hartford"
+  parsed:
+    surname: "Woods"
+    given_name: "and Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "woods_and"
+  building_ref: ""
+
+- id: "1882-directory-433_sw"
+  year: 1882
+  raw_text: "433 SW cor Hartford"
+  parsed:
+    surname: "433"
+    given_name: "SW cor Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "433_sw"
+  building_ref: ""
+
+- id: "1882-directory-cash_in"
+  year: 1882
+  raw_text: "Cash in National Exchange Bank, Hartford"
+  parsed:
+    surname: "Cash"
+    given_name: "in National Exchange Bank, Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "cash_in"
+  building_ref: ""
+
+- id: "1883-directory-bean_david"
+  year: 1883
+  raw_text: "Bean David F., porter Haas Bros., r. 27 Hartford"
+  parsed:
+    surname: "Bean"
+    given_name: "David F."
+    occupation: "porter Haas Bros."
+    address_raw: "27 Hartford"
+  person_ref: "bean_david"
+  building_ref: "hartford_27"
+
+- id: "1883-directory-orton_local"
+  year: 1883
+  raw_text: "Orton) local agents Hartford"
+  parsed:
+    surname: "Orton)"
+    given_name: "local agents Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "orton_local"
+  building_ref: ""
+
+- id: "1883-directory-jessie_britton"
+  year: 1883
+  raw_text: "Jessie Britton Patrick, laborer, r. E s Hartford, bet Eight-"
+  parsed:
+    surname: "Jessie"
+    given_name: "Britton Patrick, laborer, r. E s Hartford, bet Eight-"
+    occupation: ""
+    address_raw: ""
+  person_ref: "jessie_britton"
+  building_ref: ""
+
+- id: "1883-directory-britton_e"
+  year: 1883
+  raw_text: "Britton E s Hartford, bet"
+  parsed:
+    surname: "Britton"
+    given_name: "E s Hartford, bet"
+    occupation: ""
+    address_raw: ""
+  person_ref: "britton_e"
+  building_ref: ""
+
+- id: "1883-directory-harding_see"
+  year: 1883
+  raw_text: "Harding See Hartford"
+  parsed:
+    surname: "Harding"
+    given_name: "See Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "harding_see"
+  building_ref: ""
+
+- id: "1883-directory-tug_ky"
+  year: 1883
+  raw_text: "Tug Ky Hartford."
+  parsed:
+    surname: "Tug"
+    given_name: "Ky Hartford."
+    occupation: ""
+    address_raw: ""
+  person_ref: "tug_ky"
+  building_ref: ""
+
+- id: "1883-directory-allen_unknown"
+  year: 1883
+  raw_text: "Allen, r. 101 Hartford"
+  parsed:
+    surname: "Allen"
+    given_name: ""
+    occupation: ""
+    address_raw: "101 Hartford"
+  person_ref: "allen_unknown"
+  building_ref: "hartford_101"
+
+- id: "1883-directory-school_unknown"
+  year: 1883
+  raw_text: "School, r. 101 Hartford"
+  parsed:
+    surname: "School"
+    given_name: ""
+    occupation: ""
+    address_raw: "101 Hartford"
+  person_ref: "school_unknown"
+  building_ref: "hartford_101"
+
+- id: "1883-directory-jones_seneca"
+  year: 1883
+  raw_text: "Jones Seneca, patternmaker, r. 101 Hartford"
+  parsed:
+    surname: "Jones"
+    given_name: "Seneca"
+    occupation: "patternmaker"
+    address_raw: "101 Hartford"
+  person_ref: "jones_seneca"
+  building_ref: "hartford_101"
+
+- id: "1883-directory-lippi_jobn"
+  year: 1883
+  raw_text: "Lippi Jobn, teamster, r. E s Hartford, bet Eighteenth"
+  parsed:
+    surname: "Lippi"
+    given_name: "Jobn, teamster, r. E s Hartford, bet Eighteenth"
+    occupation: ""
+    address_raw: ""
+  person_ref: "lippi_jobn"
+  building_ref: ""
+
+- id: "1883-directory-maloney_patrick"
+  year: 1883
+  raw_text: "Maloney Patrick, dairy, E s Hartford, bet Eighteenth"
+  parsed:
+    surname: "Maloney"
+    given_name: "Patrick, dairy, E s Hartford, bet Eighteenth"
+    occupation: ""
+    address_raw: ""
+  person_ref: "maloney_patrick"
+  building_ref: ""
+
+- id: "1883-directory-sacramento_e"
+  year: 1883
+  raw_text: "Sacramento E s Hartford, bet"
+  parsed:
+    surname: "Sacramento"
+    given_name: "E s Hartford, bet"
+    occupation: ""
+    address_raw: ""
+  person_ref: "sacramento_e"
+  building_ref: ""
+
+- id: "1883-directory-mcmann_charles"
+  year: 1883
+  raw_text: "McMann Charles Jr., laborer, r. Es Hartford, bet"
+  parsed:
+    surname: "McMann"
+    given_name: "Charles Jr., laborer, r. Es Hartford, bet"
+    occupation: ""
+    address_raw: ""
+  person_ref: "mcmann_charles"
+  building_ref: ""
+
+- id: "1883-directory-william_daniel"
+  year: 1883
+  raw_text: "William Daniel, laborer, r. E & Hartford,"
+  parsed:
+    surname: "William"
+    given_name: "Daniel, laborer, r. E & Hartford,"
+    occupation: ""
+    address_raw: ""
+  person_ref: "william_daniel"
+  building_ref: ""
+
+- id: "1883-directory-mcmannis_r"
+  year: 1883
+  raw_text: "McMannis r. E s Hartford, bet"
+  parsed:
+    surname: "McMannis"
+    given_name: "r. E s Hartford, bet"
+    occupation: ""
+    address_raw: ""
+  person_ref: "mcmannis_r"
+  building_ref: ""
+
+- id: "1883-directory-r_mcmichael"
+  year: 1883
+  raw_text: "r McMichael James, laborer, r. E & Hartford, bet Eigh-"
+  parsed:
+    surname: "r"
+    given_name: "McMichael James, laborer, r. E & Hartford, bet Eigh-"
+    occupation: ""
+    address_raw: ""
+  person_ref: "r_mcmichael"
+  building_ref: ""
+
+- id: "1883-directory-naughton_i"
+  year: 1883
+  raw_text: "Naughton I. E s Hartford, bet"
+  parsed:
+    surname: "Naughton"
+    given_name: "I. E s Hartford, bet"
+    occupation: ""
+    address_raw: ""
+  person_ref: "naughton_i"
+  building_ref: ""
+
+- id: "1883-directory-ogrady_expressman"
+  year: 1883
+  raw_text: "O'Grady expressman, r. S& Hartford, bet"
+  parsed:
+    surname: "O'Grady"
+    given_name: "expressman, r. S& Hartford, bet"
+    occupation: ""
+    address_raw: ""
+  person_ref: "ogrady_expressman"
+  building_ref: ""
+
+- id: "1883-directory-quirk_eenth"
+  year: 1883
+  raw_text: "Quirk eenth, bet Noe and Hartford"
+  parsed:
+    surname: "Quirk"
+    given_name: "eenth, bet Noe and Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "quirk_eenth"
+  building_ref: ""
+
+- id: "1883-directory-maloney_s"
+  year: 1883
+  raw_text: "Maloney s Hartford, bet"
+  parsed:
+    surname: "Maloney"
+    given_name: "s Hartford, bet"
+    occupation: ""
+    address_raw: ""
+  person_ref: "maloney_s"
+  building_ref: ""
+
+- id: "1884-directory-_unknown"
+  year: 1884
+  raw_text: "Besa 27 Hartford"
+  parsed:
+    surname: ""
+    given_name: ""
+    occupation: ""
+    address_raw: "27 Hartford"
+  person_ref: "_unknown"
+  building_ref: "hartford_27"
+
+- id: "1884-directory-ninoteenth_bet"
+  year: 1884
+  raw_text: "Ninoteenth, bet Hartford and Castro"
+  parsed:
+    surname: "Ninoteenth"
+    given_name: "bet Hartford and Castro"
+    occupation: ""
+    address_raw: ""
+  person_ref: "ninoteenth_bet"
+  building_ref: ""
+
+- id: "1884-directory-joseph_r"
+  year: 1884
+  raw_text: "Joseph r. Be Hartford, bot"
+  parsed:
+    surname: "Joseph"
+    given_name: "r. Be Hartford, bot"
+    occupation: ""
+    address_raw: ""
+  person_ref: "joseph_r"
+  building_ref: ""
+
+- id: "1884-directory-curtan_unknown"
+  year: 1884
+  raw_text: "Curtan r. 19 Hartford"
+  parsed:
+    surname: "Curtan"
+    given_name: ""
+    occupation: ""
+    address_raw: "19 Hartford"
+  person_ref: "curtan_unknown"
+  building_ref: "hartford_19"
+
+- id: "1884-directory-flint_manager"
+  year: 1884
+  raw_text: "Flint manager Hartford"
+  parsed:
+    surname: "Flint"
+    given_name: "manager Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "flint_manager"
+  building_ref: ""
+
+- id: "1884-directory-hartford_bet"
+  year: 1884
+  raw_text: "Hartford, bet Fighteenth and Nibeteenth"
+  parsed:
+    surname: "Hartford"
+    given_name: "bet Fighteenth and Nibeteenth"
+    occupation: ""
+    address_raw: ""
+  person_ref: "hartford_bet"
+  building_ref: ""
+
+- id: "1884-directory-hartford_and"
+  year: 1884
+  raw_text: "Hartford and Stoy. Unlod,"
+  parsed:
+    surname: "Hartford"
+    given_name: "and Stoy. Unlod,"
+    occupation: ""
+    address_raw: ""
+  person_ref: "hartford_and"
+  building_ref: ""
+
+- id: "1884-directory-jones_allen"
+  year: 1884
+  raw_text: "Jones Allen, r. 101 Hartford"
+  parsed:
+    surname: "Jones"
+    given_name: "Allen"
+    occupation: ""
+    address_raw: "101 Hartford"
+  person_ref: "jones_allen"
+  building_ref: "hartford_101"
+
+- id: "1884-directory-jones_school"
+  year: 1884
+  raw_text: "Jones School, r. 101 Hartford"
+  parsed:
+    surname: "Jones"
+    given_name: "School"
+    occupation: ""
+    address_raw: "101 Hartford"
+  person_ref: "jones_school"
+  building_ref: "hartford_101"
+
+- id: "1884-directory-jones_patternmaker"
+  year: 1884
+  raw_text: "Jones patternmaker. r. 10. Hartford"
+  parsed:
+    surname: "Jones"
+    given_name: "patternmaker. r. 10. Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "jones_patternmaker"
+  building_ref: ""
+
+- id: "1884-directory-_unknown"
+  year: 1884
+  raw_text: "Malouey Pstrick, daisy, 21 Hartford"
+  parsed:
+    surname: ""
+    given_name: ""
+    occupation: ""
+    address_raw: "21 Hartford"
+  person_ref: "_unknown"
+  building_ref: "hartford_21"
+
+- id: "1884-directory-mcmichael_charles"
+  year: 1884
+  raw_text: "McMichael Charles, laborer, r. E & Hartford, or Eigh-"
+  parsed:
+    surname: "McMichael"
+    given_name: "Charles, laborer, r. E & Hartford, or Eigh-"
+    occupation: ""
+    address_raw: ""
+  person_ref: "mcmichael_charles"
+  building_ref: ""
+
+- id: "1884-directory-mestichael_daniel"
+  year: 1884
+  raw_text: "Mestichael Daniel, laborer, r. Es Hartford, ar Eigh-"
+  parsed:
+    surname: "Mestichael"
+    given_name: "Daniel, laborer, r. Es Hartford, ar Eigh-"
+    occupation: ""
+    address_raw: ""
+  person_ref: "mestichael_daniel"
+  building_ref: ""
+
+- id: "1884-directory-mcmichsel_james"
+  year: 1884
+  raw_text: "McMichsel James, laborer, r. Es Hartford, or Eigh-"
+  parsed:
+    surname: "McMichsel"
+    given_name: "James, laborer, r. Es Hartford, or Eigh-"
+    occupation: ""
+    address_raw: ""
+  person_ref: "mcmichsel_james"
+  building_ref: ""
+
+- id: "1884-directory-mcmichsel_robert"
+  year: 1884
+  raw_text: "McMichsel Robert, blacksmith, r. Es Hartford, pr"
+  parsed:
+    surname: "McMichsel"
+    given_name: "Robert, blacksmith, r. Es Hartford, pr"
+    occupation: ""
+    address_raw: ""
+  person_ref: "mcmichsel_robert"
+  building_ref: ""
+
+- id: "1884-directory-nissen_teenth"
+  year: 1884
+  raw_text: "Nissen teenth and Hartford"
+  parsed:
+    surname: "Nissen"
+    given_name: "teenth and Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "nissen_teenth"
+  building_ref: ""
+
+- id: "1884-directory-hin_tanbella"
+  year: 1884
+  raw_text: "hin Tanbella, widow, t. Es Nineteenth, nr Hartford"
+  parsed:
+    surname: "hin"
+    given_name: "Tanbella, widow, t. Es Nineteenth, nr Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "hin_tanbella"
+  building_ref: ""
+
+- id: "1884-directory-diatoner_ts"
+  year: 1884
+  raw_text: "DIatoner ts Hartford, bet"
+  parsed:
+    surname: "DIatoner"
+    given_name: "ts Hartford, bet"
+    occupation: ""
+    address_raw: ""
+  person_ref: "diatoner_ts"
+  building_ref: ""
+
+- id: "1887-directory-orient_of"
+  year: 1887
+  raw_text: "ORIENT OF HARTFORD"
+  parsed:
+    surname: "ORIENT"
+    given_name: "OF HARTFORD"
+    occupation: ""
+    address_raw: ""
+  person_ref: "orient_of"
+  building_ref: ""
+
+- id: "1887-directory-anta_co"
+  year: 1887
+  raw_text: "anta Co. OF HARTFORD"
+  parsed:
+    surname: "anta"
+    given_name: "Co. OF HARTFORD"
+    occupation: ""
+    address_raw: ""
+  person_ref: "anta_co"
+  building_ref: ""
+
+- id: "1887-directory-hartford_bet"
+  year: 1887
+  raw_text: "Hartford, bet. Noe"
+  parsed:
+    surname: "Hartford"
+    given_name: "bet. Noe"
+    occupation: ""
+    address_raw: ""
+  person_ref: "hartford_bet"
+  building_ref: ""
+
+- id: "1887-directory-orient_co"
+  year: 1887
+  raw_text: "ORIENT Co. OF HARTFORD"
+  parsed:
+    surname: "ORIENT"
+    given_name: "Co. OF HARTFORD"
+    occupation: ""
+    address_raw: ""
+  person_ref: "orient_co"
+  building_ref: ""
+
+- id: "1887-directory-orient_co"
+  year: 1887
+  raw_text: "ORIENT Co. OF HARTFORD"
+  parsed:
+    surname: "ORIENT"
+    given_name: "Co. OF HARTFORD"
+    occupation: ""
+    address_raw: ""
+  person_ref: "orient_co"
+  building_ref: ""
+
+- id: "1887-directory-hartford_and"
+  year: 1887
+  raw_text: "Hartford and Eighteenth"
+  parsed:
+    surname: "Hartford"
+    given_name: "and Eighteenth"
+    occupation: ""
+    address_raw: ""
+  person_ref: "hartford_and"
+  building_ref: ""
+
+- id: "1887-directory-orient_of"
+  year: 1887
+  raw_text: "ORIENT OF HARTFORD"
+  parsed:
+    surname: "ORIENT"
+    given_name: "OF HARTFORD"
+    occupation: ""
+    address_raw: ""
+  person_ref: "orient_of"
+  building_ref: ""
+
+- id: "1887-directory-beighle_g"
+  year: 1887
+  raw_text: "Beighle G. Cofran) mansgers Pacific Department Hartford"
+  parsed:
+    surname: "Beighle"
+    given_name: "G. Cofran) mansgers Pacific Department Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "beighle_g"
+  building_ref: ""
+
+- id: "1887-directory-boardman_surance"
+  year: 1887
+  raw_text: "Boardman surance Co. (of Hartford) 311 California, r. 1750"
+  parsed:
+    surname: "Boardman"
+    given_name: "surance Co. (of Hartford) 311 California, r. 1750"
+    occupation: ""
+    address_raw: ""
+  person_ref: "boardman_surance"
+  building_ref: ""
+
+- id: "1887-directory-orient_of"
+  year: 1887
+  raw_text: "ORIENT OF HARTFORD"
+  parsed:
+    surname: "ORIENT"
+    given_name: "OF HARTFORD"
+    occupation: ""
+    address_raw: ""
+  person_ref: "orient_of"
+  building_ref: ""
+
+- id: "1887-directory-britton_unknown"
+  year: 1887
+  raw_text: "Britton r. 16 Hartford"
+  parsed:
+    surname: "Britton"
+    given_name: ""
+    occupation: ""
+    address_raw: "16 Hartford"
+  person_ref: "britton_unknown"
+  building_ref: "hartford_16"
+
+- id: "1887-directory-orient_of"
+  year: 1887
+  raw_text: "ORIENT OF HARTFORD"
+  parsed:
+    surname: "ORIENT"
+    given_name: "OF HARTFORD"
+    occupation: ""
+    address_raw: ""
+  person_ref: "orient_of"
+  building_ref: ""
+
+- id: "1887-directory-davis_and"
+  year: 1887
+  raw_text: "Davis and Hartford"
+  parsed:
+    surname: "Davis"
+    given_name: "and Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "davis_and"
+  building_ref: ""
+
+- id: "1887-directory-orient_co"
+  year: 1887
+  raw_text: "ORIENT Co. OF HARTFORD"
+  parsed:
+    surname: "ORIENT"
+    given_name: "Co. OF HARTFORD"
+    occupation: ""
+    address_raw: ""
+  person_ref: "orient_co"
+  building_ref: ""
+
+- id: "1887-directory-dore_of"
+  year: 1887
+  raw_text: "Dore OF HARTFORD"
+  parsed:
+    surname: "Dore"
+    given_name: "OF HARTFORD"
+    occupation: ""
+    address_raw: ""
+  person_ref: "dore_of"
+  building_ref: ""
+
+- id: "1887-directory-orient_of"
+  year: 1887
+  raw_text: "ORIENT OF HARTFORD"
+  parsed:
+    surname: "ORIENT"
+    given_name: "OF HARTFORD"
+    occupation: ""
+    address_raw: ""
+  person_ref: "orient_of"
+  building_ref: ""
+
+- id: "1887-directory-orient_of"
+  year: 1887
+  raw_text: "ORIENT OF HARTFORD"
+  parsed:
+    surname: "ORIENT"
+    given_name: "OF HARTFORD"
+    occupation: ""
+    address_raw: ""
+  person_ref: "orient_of"
+  building_ref: ""
+
+- id: "1887-directory-orient_of"
+  year: 1887
+  raw_text: "ORIENT OF HARTFORD"
+  parsed:
+    surname: "ORIENT"
+    given_name: "OF HARTFORD"
+    occupation: ""
+    address_raw: ""
+  person_ref: "orient_of"
+  building_ref: ""
+
+- id: "1887-directory-orient_of"
+  year: 1887
+  raw_text: "ORIENT OF HARTFORD"
+  parsed:
+    surname: "ORIENT"
+    given_name: "OF HARTFORD"
+    occupation: ""
+    address_raw: ""
+  person_ref: "orient_of"
+  building_ref: ""
+
+- id: "1887-directory-orient_co"
+  year: 1887
+  raw_text: "ORIENT Co. OF HARTFORD"
+  parsed:
+    surname: "ORIENT"
+    given_name: "Co. OF HARTFORD"
+    occupation: ""
+    address_raw: ""
+  person_ref: "orient_co"
+  building_ref: ""
+
+- id: "1887-directory-orient_of"
+  year: 1887
+  raw_text: "ORIENT OF HARTFORD"
+  parsed:
+    surname: "ORIENT"
+    given_name: "OF HARTFORD"
+    occupation: ""
+    address_raw: ""
+  person_ref: "orient_of"
+  building_ref: ""
+
+- id: "1887-directory-orient_of"
+  year: 1887
+  raw_text: "ORIENT OF HARTFORD"
+  parsed:
+    surname: "ORIENT"
+    given_name: "OF HARTFORD"
+    occupation: ""
+    address_raw: ""
+  person_ref: "orient_of"
+  building_ref: ""
+
+- id: "1887-directory-hinckley_of"
+  year: 1887
+  raw_text: "Hinckley OF HARTFORD"
+  parsed:
+    surname: "Hinckley"
+    given_name: "OF HARTFORD"
+    occupation: ""
+    address_raw: ""
+  person_ref: "hinckley_of"
+  building_ref: ""
+
+- id: "1887-directory-orient_of"
+  year: 1887
+  raw_text: "ORIENT OF HARTFORD"
+  parsed:
+    surname: "ORIENT"
+    given_name: "OF HARTFORD"
+    occupation: ""
+    address_raw: ""
+  person_ref: "orient_of"
+  building_ref: ""
+
+- id: "1887-directory-orient_of"
+  year: 1887
+  raw_text: "ORIENT OF HARTFORD"
+  parsed:
+    surname: "ORIENT"
+    given_name: "OF HARTFORD"
+    occupation: ""
+    address_raw: ""
+  person_ref: "orient_of"
+  building_ref: ""
+
+- id: "1887-directory-billiard_sospmaker"
+  year: 1887
+  raw_text: "billiard sospmaker, r. Hartford,"
+  parsed:
+    surname: "billiard"
+    given_name: "sospmaker, r. Hartford,"
+    occupation: ""
+    address_raw: ""
+  person_ref: "billiard_sospmaker"
+  building_ref: ""
+
+- id: "1887-directory-orient_co"
+  year: 1887
+  raw_text: "ORIENT Co. OF HARTFORD"
+  parsed:
+    surname: "ORIENT"
+    given_name: "Co. OF HARTFORD"
+    occupation: ""
+    address_raw: ""
+  person_ref: "orient_co"
+  building_ref: ""
+
+- id: "1887-directory-knapp_horace"
+  year: 1887
+  raw_text: "Knapp Horace G., peinter, r. 7 Hartford"
+  parsed:
+    surname: "Knapp"
+    given_name: "Horace G."
+    occupation: "peinter"
+    address_raw: "7 Hartford"
+  person_ref: "knapp_horace"
+  building_ref: "hartford_7"
+
+- id: "1887-directory-orient_of"
+  year: 1887
+  raw_text: "ORIENT OF HARTFORD"
+  parsed:
+    surname: "ORIENT"
+    given_name: "OF HARTFORD"
+    occupation: ""
+    address_raw: ""
+  person_ref: "orient_of"
+  building_ref: ""
+
+- id: "1887-directory-hartford_and"
+  year: 1887
+  raw_text: "Hartford and Noe"
+  parsed:
+    surname: "Hartford"
+    given_name: "and Noe"
+    occupation: ""
+    address_raw: ""
+  person_ref: "hartford_and"
+  building_ref: ""
+
+- id: "1887-directory-hartford_bet"
+  year: 1887
+  raw_text: "Hartford bet"
+  parsed:
+    surname: "Hartford"
+    given_name: "bet"
+    occupation: ""
+    address_raw: ""
+  person_ref: "hartford_bet"
+  building_ref: ""
+
+- id: "1887-directory-maloney_patrick"
+  year: 1887
+  raw_text: "Maloney Patrick, milkman, r. 21 Hartford"
+  parsed:
+    surname: "Maloney"
+    given_name: "Patrick"
+    occupation: "milkman"
+    address_raw: "21 Hartford"
+  person_ref: "maloney_patrick"
+  building_ref: "hartford_21"
+
+- id: "1887-directory-orient_co"
+  year: 1887
+  raw_text: "ORIENT Co. OF HARTFORD"
+  parsed:
+    surname: "ORIENT"
+    given_name: "Co. OF HARTFORD"
+    occupation: ""
+    address_raw: ""
+  person_ref: "orient_co"
+  building_ref: ""
+
+- id: "1887-directory-orient_of"
+  year: 1887
+  raw_text: "ORIENT OF HARTFORD"
+  parsed:
+    surname: "ORIENT"
+    given_name: "OF HARTFORD"
+    occupation: ""
+    address_raw: ""
+  person_ref: "orient_of"
+  building_ref: ""
+
+- id: "1887-directory-teenth_or"
+  year: 1887
+  raw_text: "teenth, or Hartford"
+  parsed:
+    surname: "teenth"
+    given_name: "or Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "teenth_or"
+  building_ref: ""
+
+- id: "1887-directory-norton_patrick"
+  year: 1887
+  raw_text: "Norton Patrick, laborer, r. 9 Hartford"
+  parsed:
+    surname: "Norton"
+    given_name: "Patrick"
+    occupation: "laborer"
+    address_raw: "9 Hartford"
+  person_ref: "norton_patrick"
+  building_ref: "hartford_9"
+
+- id: "1887-directory-okefe_hartford"
+  year: 1887
+  raw_text: "O'Ke-fe Hartford and"
+  parsed:
+    surname: "O'Ke-fe"
+    given_name: "Hartford and"
+    occupation: ""
+    address_raw: ""
+  person_ref: "okefe_hartford"
+  building_ref: ""
+
+- id: "1887-directory-orient_of"
+  year: 1887
+  raw_text: "ORIENT OF HARTFORD"
+  parsed:
+    surname: "ORIENT"
+    given_name: "OF HARTFORD"
+    occupation: ""
+    address_raw: ""
+  person_ref: "orient_of"
+  building_ref: ""
+
+- id: "1887-directory-co_of"
+  year: 1887
+  raw_text: "Co. (of Hartfordl 811 California, r. BaRt Oakland"
+  parsed:
+    surname: "Co"
+    given_name: "(of Hartfordl 811 California, r. BaRt Oakland"
+    occupation: ""
+    address_raw: ""
+  person_ref: "co_of"
+  building_ref: ""
+
+- id: "1887-directory-orient_co"
+  year: 1887
+  raw_text: "ORIENT Co. OF HARTFORD"
+  parsed:
+    surname: "ORIENT"
+    given_name: "Co. OF HARTFORD"
+    occupation: ""
+    address_raw: ""
+  person_ref: "orient_co"
+  building_ref: ""
+
+- id: "1887-directory-av_e"
+  year: 1887
+  raw_text: "Av E. Mra., r. SE cor Ninteenth and Hartford"
+  parsed:
+    surname: "Av"
+    given_name: "E. Mra., r. SE cor Ninteenth and Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "av_e"
+  building_ref: ""
+
+- id: "1887-directory-seanlsn_machiniat"
+  year: 1887
+  raw_text: "Seanlsn machiniat, r. 25 Hartford"
+  parsed:
+    surname: "Seanlsn"
+    given_name: "machiniat"
+    occupation: ""
+    address_raw: "25 Hartford"
+  person_ref: "seanlsn_machiniat"
+  building_ref: "hartford_25"
+
+- id: "1887-directory-theobald_teamster"
+  year: 1887
+  raw_text: "Theobald teamster, r. 42 Hartford"
+  parsed:
+    surname: "Theobald"
+    given_name: "teamster"
+    occupation: ""
+    address_raw: "42 Hartford"
+  person_ref: "theobald_teamster"
+  building_ref: "hartford_42"
+
+- id: "1887-directory-wahlberg_co"
+  year: 1887
+  raw_text: "Wahlberg Co. OF HARTFORD"
+  parsed:
+    surname: "Wahlberg"
+    given_name: "Co. OF HARTFORD"
+    occupation: ""
+    address_raw: ""
+  person_ref: "wahlberg_co"
+  building_ref: ""
+
+- id: "1887-directory-walsh_t"
+  year: 1887
+  raw_text: "Walsh T. cor Hartford and Nineteenth"
+  parsed:
+    surname: "Walsh"
+    given_name: "T. cor Hartford and Nineteenth"
+    occupation: ""
+    address_raw: ""
+  person_ref: "walsh_t"
+  building_ref: ""
+
+- id: "1887-directory-walters_r"
+  year: 1887
+  raw_text: "Walters r. cor Nineteenth and Hartford"
+  parsed:
+    surname: "Walters"
+    given_name: "r. cor Nineteenth and Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "walters_r"
+  building_ref: ""
+
+- id: "1887-directory-orient_of"
+  year: 1887
+  raw_text: "ORIENT OF HARTFORD"
+  parsed:
+    surname: "ORIENT"
+    given_name: "OF HARTFORD"
+    occupation: ""
+    address_raw: ""
+  person_ref: "orient_of"
+  building_ref: ""
+
+- id: "1887-directory-york_of"
+  year: 1887
+  raw_text: "York) (of Hartford) 221"
+  parsed:
+    surname: "York)"
+    given_name: "(of Hartford) 221"
+    occupation: ""
+    address_raw: ""
+  person_ref: "york_of"
+  building_ref: ""
+
+- id: "1887-directory-woodbull_woods"
+  year: 1887
+  raw_text: "Woodbull Woods Isabelle, widow, r. NW cor Hartford and Noo"
+  parsed:
+    surname: "Woodbull"
+    given_name: "Woods Isabelle, widow, r. NW cor Hartford and Noo"
+    occupation: ""
+    address_raw: ""
+  person_ref: "woodbull_woods"
+  building_ref: ""
+
+- id: "1887-directory-orient_co"
+  year: 1887
+  raw_text: "ORIENT Co. OF HARTFORD"
+  parsed:
+    surname: "ORIENT"
+    given_name: "Co. OF HARTFORD"
+    occupation: ""
+    address_raw: ""
+  person_ref: "orient_co"
+  building_ref: ""
+
+- id: "1887-directory-national_of"
+  year: 1887
+  raw_text: "National Of Hartford."
+  parsed:
+    surname: "National"
+    given_name: "Of Hartford."
+    occupation: ""
+    address_raw: ""
+  person_ref: "national_of"
+  building_ref: ""
+
+- id: "1887-directory-orient_of"
+  year: 1887
+  raw_text: "ORIENT OF HARTFORD"
+  parsed:
+    surname: "ORIENT"
+    given_name: "OF HARTFORD"
+    occupation: ""
+    address_raw: ""
+  person_ref: "orient_of"
+  building_ref: ""
+
+- id: "1887-directory-drient_of"
+  year: 1887
+  raw_text: "DRIENT OF HARTFORD"
+  parsed:
+    surname: "DRIENT"
+    given_name: "OF HARTFORD"
+    occupation: ""
+    address_raw: ""
+  person_ref: "drient_of"
+  building_ref: ""
+
+- id: "1888-directory-orient_of"
+  year: 1888
+  raw_text: "ORIENT OF HARTFORD"
+  parsed:
+    surname: "ORIENT"
+    given_name: "OF HARTFORD"
+    occupation: ""
+    address_raw: ""
+  person_ref: "orient_of"
+  building_ref: ""
+
+- id: "1888-directory-hartford_and"
+  year: 1888
+  raw_text: "Hartford and Eighteenth"
+  parsed:
+    surname: "Hartford"
+    given_name: "and Eighteenth"
+    occupation: ""
+    address_raw: ""
+  person_ref: "hartford_and"
+  building_ref: ""
+
+- id: "1888-directory-bean_david"
+  year: 1888
+  raw_text: "Bean David F., porter Haas Bros., r. 27 Hartford"
+  parsed:
+    surname: "Bean"
+    given_name: "David F."
+    occupation: "porter Haas Bros."
+    address_raw: "27 Hartford"
+  person_ref: "bean_david"
+  building_ref: "hartford_27"
+
+- id: "1888-directory-surance_co"
+  year: 1888
+  raw_text: "surance Co. (of Hartford) 311 California,"
+  parsed:
+    surname: "surance"
+    given_name: "Co. (of Hartford) 311 California,"
+    occupation: ""
+    address_raw: ""
+  person_ref: "surance_co"
+  building_ref: ""
+
+- id: "1888-directory-309_of"
+  year: 1888
+  raw_text: "309 (of Hartford) 311 California,"
+  parsed:
+    surname: "309"
+    given_name: "(of Hartford) 311 California,"
+    occupation: ""
+    address_raw: ""
+  person_ref: "309_of"
+  building_ref: ""
+
+- id: "1888-directory-orient_co"
+  year: 1888
+  raw_text: "ORIENT Co. OF HARTFORD I Spital, 81,008,00: ED .00, W; Manager"
+  parsed:
+    surname: "ORIENT"
+    given_name: "Co. OF HARTFORD I Spital, 81,008,00: ED .00, W; Manager"
+    occupation: ""
+    address_raw: ""
+  person_ref: "orient_co"
+  building_ref: ""
+
+- id: "1888-directory-orient_ins"
+  year: 1888
+  raw_text: "ORIENT Ins. Go. OF HARTFORD"
+  parsed:
+    surname: "ORIENT"
+    given_name: "Ins. Go. OF HARTFORD"
+    occupation: ""
+    address_raw: ""
+  person_ref: "orient_ins"
+  building_ref: ""
+
+- id: "1888-directory-jr_of"
+  year: 1888
+  raw_text: "Jr.) (of Hartford) I. R."
+  parsed:
+    surname: "Jr.)"
+    given_name: "(of Hartford) I. R."
+    occupation: ""
+    address_raw: ""
+  person_ref: "jr_of"
+  building_ref: ""
+
+- id: "1888-directory-dixon_eis"
+  year: 1888
+  raw_text: "DIXON, EIS. Co. OF HARTFORD"
+  parsed:
+    surname: "DIXON"
+    given_name: "EIS. Co. OF HARTFORD"
+    occupation: ""
+    address_raw: ""
+  person_ref: "dixon_eis"
+  building_ref: ""
+
+- id: "1888-directory-counthan_courtney"
+  year: 1888
+  raw_text: "Counthan Courtney Fenton, r. S cor Hartford and Nineteenth"
+  parsed:
+    surname: "Counthan"
+    given_name: "Courtney Fenton, r. S cor Hartford and Nineteenth"
+    occupation: ""
+    address_raw: ""
+  person_ref: "counthan_courtney"
+  building_ref: ""
+
+- id: "1888-directory-ge000ornin_of"
+  year: 1888
+  raw_text: "GE0.0.0ORNIN OF HARTFORD. COMT 25 SANSOME ST."
+  parsed:
+    surname: "GE0.0.0ORNIN"
+    given_name: "OF HARTFORD. COMT 25 SANSOME ST."
+    occupation: ""
+    address_raw: ""
+  person_ref: "ge000ornin_of"
+  building_ref: ""
+
+- id: "1888-directory-nationaly_of"
+  year: 1888
+  raw_text: "#NATIONALY OF HARTFORD."
+  parsed:
+    surname: "#NATIONALY"
+    given_name: "OF HARTFORD."
+    occupation: ""
+    address_raw: ""
+  person_ref: "nationaly_of"
+  building_ref: ""
+
+- id: "1888-directory-national_fire"
+  year: 1888
+  raw_text: "NATIONAL Fire Ius. Co. of Hartford"
+  parsed:
+    surname: "NATIONAL"
+    given_name: "Fire Ius. Co. of Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "national_fire"
+  building_ref: ""
+
+- id: "1888-directory-hartford_and"
+  year: 1888
+  raw_text: "Hartford and Caatro"
+  parsed:
+    surname: "Hartford"
+    given_name: "and Caatro"
+    occupation: ""
+    address_raw: ""
+  person_ref: "hartford_and"
+  building_ref: ""
+
+- id: "1888-directory-goer_goes"
+  year: 1888
+  raw_text: "GoeR GoEs & Co.) r. 34 Hartford"
+  parsed:
+    surname: "GoeR"
+    given_name: "GoEs & Co.)"
+    occupation: ""
+    address_raw: "34 Hartford"
+  person_ref: "goer_goes"
+  building_ref: "hartford_34"
+
+- id: "1888-directory-orient_"
+  year: 1888
+  raw_text: "_ORIENT . Co. OF HARTFORD"
+  parsed:
+    surname: "_ORIENT"
+    given_name: ". Co. OF HARTFORD"
+    occupation: ""
+    address_raw: ""
+  person_ref: "orient_"
+  building_ref: ""
+
+- id: "1888-directory-hampshire_hartford"
+  year: 1888
+  raw_text: "Hampshire Hartford and Castro"
+  parsed:
+    surname: "Hampshire"
+    given_name: "Hartford and Castro"
+    occupation: ""
+    address_raw: ""
+  person_ref: "hampshire_hartford"
+  building_ref: ""
+
+- id: "1888-directory-orient_of"
+  year: 1888
+  raw_text: "ORIENT OF HARTFORD"
+  parsed:
+    surname: "ORIENT"
+    given_name: "OF HARTFORD"
+    occupation: ""
+    address_raw: ""
+  person_ref: "orient_of"
+  building_ref: ""
+
+- id: "1888-directory-hartford_and"
+  year: 1888
+  raw_text: "Hartford and Castro"
+  parsed:
+    surname: "Hartford"
+    given_name: "and Castro"
+    occupation: ""
+    address_raw: ""
+  person_ref: "hartford_and"
+  building_ref: ""
+
+- id: "1888-directory-jones_mur"
+  year: 1888
+  raw_text: "Jones mur School, r. 101 Hartford"
+  parsed:
+    surname: "Jones"
+    given_name: "mur School"
+    occupation: ""
+    address_raw: "101 Hartford"
+  person_ref: "jones_mur"
+  building_ref: "hartford_101"
+
+- id: "1888-directory-nantan_of"
+  year: 1888
+  raw_text: "NANTAN of Hartford"
+  parsed:
+    surname: "NANTAN"
+    given_name: "of Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "nantan_of"
+  building_ref: ""
+
+- id: "1889-directory-orient_iis"
+  year: 1889
+  raw_text: "ORIENT IIS. CO. OF HARTFORD"
+  parsed:
+    surname: "ORIENT"
+    given_name: "IIS. CO. OF HARTFORD"
+    occupation: ""
+    address_raw: ""
+  person_ref: "orient_iis"
+  building_ref: ""
+
+- id: "1889-directory-orient_co"
+  year: 1889
+  raw_text: "ORIENT Co. OF HARTFORD"
+  parsed:
+    surname: "ORIENT"
+    given_name: "Co. OF HARTFORD"
+    occupation: ""
+    address_raw: ""
+  person_ref: "orient_co"
+  building_ref: ""
+
+- id: "1889-directory-hartford_bet"
+  year: 1889
+  raw_text: "Hartford bet Noe and"
+  parsed:
+    surname: "Hartford"
+    given_name: "bet Noe and"
+    occupation: ""
+    address_raw: ""
+  person_ref: "hartford_bet"
+  building_ref: ""
+
+- id: "1890-directory-orient_of"
+  year: 1890
+  raw_text: "ORIENT OF HARTFORD"
+  parsed:
+    surname: "ORIENT"
+    given_name: "OF HARTFORD"
+    occupation: ""
+    address_raw: ""
+  person_ref: "orient_of"
+  building_ref: ""
+
+- id: "1890-directory-national_co"
+  year: 1890
+  raw_text: "NATIONAL Co. of Hartford | Astal, 81,042,030 /"
+  parsed:
+    surname: "NATIONAL"
+    given_name: "Co. of Hartford | Astal, 81,042,030 /"
+    occupation: ""
+    address_raw: ""
+  person_ref: "national_co"
+  building_ref: ""
+
+- id: "1890-directory-hartford_bet"
+  year: 1890
+  raw_text: "Hartford bet"
+  parsed:
+    surname: "Hartford"
+    given_name: "bet"
+    occupation: ""
+    address_raw: ""
+  person_ref: "hartford_bet"
+  building_ref: ""
+
+- id: "1890-directory-hartford_and"
+  year: 1890
+  raw_text: "Hartford and Virginia ar fi Pros-"
+  parsed:
+    surname: "Hartford"
+    given_name: "and Virginia ar fi Pros-"
+    occupation: ""
+    address_raw: ""
+  person_ref: "hartford_and"
+  building_ref: ""
+
+- id: "1890-directory-national_co"
+  year: 1890
+  raw_text: "NATIONAL Co. of Hartford"
+  parsed:
+    surname: "NATIONAL"
+    given_name: "Co. of Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "national_co"
+  building_ref: ""
+
+- id: "1890-directory-adler_agard"
+  year: 1890
+  raw_text: "Adler Agard Joseph J., adjuster and special agent Hartford"
+  parsed:
+    surname: "Adler"
+    given_name: "Agard Joseph J., adjuster and special agent Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "adler_agard"
+  building_ref: ""
+
+- id: "1890-directory-teenth_bet"
+  year: 1890
+  raw_text: "teenth bet Hartford and Castro"
+  parsed:
+    surname: "teenth"
+    given_name: "bet Hartford and Castro"
+    occupation: ""
+    address_raw: ""
+  person_ref: "teenth_bet"
+  building_ref: ""
+
+- id: "1890-directory-bean_david"
+  year: 1890
+  raw_text: "Bean David F., teamster, r. 127 Hartford"
+  parsed:
+    surname: "Bean"
+    given_name: "David F."
+    occupation: "teamster"
+    address_raw: "127 Hartford"
+  person_ref: "bean_david"
+  building_ref: "hartford_127"
+
+- id: "1890-directory-g_cofran"
+  year: 1890
+  raw_text: "G. Cofran managers Pacific Department Hartford"
+  parsed:
+    surname: "G"
+    given_name: "Cofran managers Pacific Department Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "g_cofran"
+  building_ref: ""
+
+- id: "1890-directory-surance_co"
+  year: 1890
+  raw_text: "surance Co. (of Hartford) 514 Californis, r. 1750"
+  parsed:
+    surname: "surance"
+    given_name: "Co. (of Hartford) 514 Californis, r. 1750"
+    occupation: ""
+    address_raw: ""
+  person_ref: "surance_co"
+  building_ref: ""
+
+- id: "1890-directory-crient_co"
+  year: 1890
+  raw_text: "CRIENT Co. OF HARTFORD"
+  parsed:
+    surname: "CRIENT"
+    given_name: "Co. OF HARTFORD"
+    occupation: ""
+    address_raw: ""
+  person_ref: "crient_co"
+  building_ref: ""
+
+- id: "1890-directory-orient_of"
+  year: 1890
+  raw_text: "ORIENT OF HARTFORD"
+  parsed:
+    surname: "ORIENT"
+    given_name: "OF HARTFORD"
+    occupation: ""
+    address_raw: ""
+  person_ref: "orient_of"
+  building_ref: ""
+
+- id: "1890-directory-orient_co"
+  year: 1890
+  raw_text: "ORIENT Co. OF HARTFORD"
+  parsed:
+    surname: "ORIENT"
+    given_name: "Co. OF HARTFORD"
+    occupation: ""
+    address_raw: ""
+  person_ref: "orient_co"
+  building_ref: ""
+
+- id: "1890-directory-dennis_james"
+  year: 1890
+  raw_text: "Dennis James J., clerk Hartford"
+  parsed:
+    surname: "Dennis"
+    given_name: "James J., clerk Hartford"
+    occupation: ""
+    address_raw: ""
+  person_ref: "dennis_james"
+  building_ref: ""
+
+- id: "1890-directory-orient_of"
+  year: 1890
+  raw_text: "ORIENT OF HARTFORD"
+  parsed:
+    surname: "ORIENT"
+    given_name: "OF HARTFORD"
+    occupation: ""
+    address_raw: ""
+  person_ref: "orient_of"
+  building_ref: ""
+
+- id: "1890-directory-swain_of"
+  year: 1890
+  raw_text: "SWAIN OF HARTFORD."
+  parsed:
+    surname: "SWAIN"
+    given_name: "OF HARTFORD."
+    occupation: ""
+    address_raw: ""
+  person_ref: "swain_of"
+  building_ref: ""
+
+- id: "1890-directory-orient_co"
+  year: 1890
+  raw_text: "ORIENT Co. OF HARTFORD"
+  parsed:
+    surname: "ORIENT"
+    given_name: "Co. OF HARTFORD"
+    occupation: ""
+    address_raw: ""
+  person_ref: "orient_co"
+  building_ref: ""
+
+- id: "1890-directory-crient_go"
+  year: 1890
+  raw_text: "CRIENT Go. OF HARTFORD"
+  parsed:
+    surname: "CRIENT"
+    given_name: "Go. OF HARTFORD"
+    occupation: ""
+    address_raw: ""
+  person_ref: "crient_go"
+  building_ref: ""
+
+- id: "1890-directory-orient_of"
+  year: 1890
+  raw_text: "ORIENT OF HARTFORD"
+  parsed:
+    surname: "ORIENT"
+    given_name: "OF HARTFORD"
+    occupation: ""
+    address_raw: ""
+  person_ref: "orient_of"
+  building_ref: ""
+
+- id: "1890-directory-johnson_edward"
+  year: 1890
+  raw_text: "Johnson Edward T., r. 111 Hartford"
+  parsed:
+    surname: "Johnson"
+    given_name: "Edward T."
+    occupation: ""
+    address_raw: "111 Hartford"
+  person_ref: "johnson_edward"
+  building_ref: "hartford_111"
+
+- id: "1890-directory-orient_co"
+  year: 1890
+  raw_text: "ORIENT Co. OF HARTFORD"
+  parsed:
+    surname: "ORIENT"
+    given_name: "Co. OF HARTFORD"
+    occupation: ""
+    address_raw: ""
+  person_ref: "orient_co"
+  building_ref: ""
+
+- id: "1890-directory-knapp_horace"
+  year: 1890
+  raw_text: "Knapp Horace, house painter, r. 5 Hartford"
+  parsed:
+    surname: "Knapp"
+    given_name: "Horace"
+    occupation: "house painter"
+    address_raw: "5 Hartford"
+  person_ref: "knapp_horace"
+  building_ref: "hartford_5"
+
