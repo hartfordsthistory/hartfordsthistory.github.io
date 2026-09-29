@@ -45,7 +45,7 @@ The [City Directory for 1862-3](https://www.familysearch.org/ark:/61903/3:1:3QHV
 
 On May 22 1862, Marshall registered to vote, and listed his profession as "real estate", which is probably fair given that half of speculation in San Francisco in those days consisted of buying cheap land, building on it, and selling it on at a profit.
 
-The City Directory however lists him only as "carpenter" in 1872.
+The City Directory continued to list him only as "carpenter" throughout the 1860s, but finally caught up and listed his profession as "real estate" in 1871.
 
 San Francisco Bulletin of June 30, 1874 tells the tale of Mary F. Meeteer graduating from Notre Dame school, the giant Victorian pile across from the Mission. It's an all-girls' school, and she's in the very first graduating class.
 
