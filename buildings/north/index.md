@@ -55,7 +55,7 @@ Basically, with the owners living near Union City, there was little or nothing t
 
 Horner sold off a number of lots, but not with great success. The Panic of 1857 wiped him out, and he was forced to sell almost all of his worldly goods, including his San Francisco property.
 
-## Pioche and Robinson, the Eureka Homestead Association
+## Pioche and Robinson, Meeteer, Treadwell, and the Eureka Homestead Association
 
 More research is required here as I haven't found the trail here yet.
 
@@ -84,7 +84,7 @@ Published at least three times - Jan 24, Jan 31, Feb 28
 
 ## Treadwell to Treadwell
 
-In 1875, LL Treadwell, JP's brother, sold him the "irregular lot" that is the portion shown. We have to go further back to try to find the purchases of the corner pieces that were already bought and built on by that time. LL died in Feb of the next year.
+In 1875, LL Treadwell, JP's brother, sold him the "irregular lot" that is the portion shown. We have to go further back to try to find the purchases of the corner pieces that were already bought and built on by that time. LL died in Feb of 1876.
 
 ![alt text](images/1875-05May-15-sfchron-treadwell-to-treadwell.png)
 _San Francisco Chronicle - May 15, 1875, pg 3 Real Estate Transactions_
@@ -143,12 +143,20 @@ It's signed on 18th June, [recorded 19th June](https://archive.org/details/mccor
 
 _The San Francisco Call for 20th June, 1900_
 
+It's also listed in [Organized Labor, Volume 1, Number 21, 23 June 1900](https://cdnc.ucr.edu/?a=d&d=OLSF19000623.2.48&srpos=1&e=-------en--20-OLSF-1-byDA-txt-txIN-%22hartford+street%22-------)
+![alt text](images/1900-06Jun-23-OrgLabor-clipping.png)
+> 73. [nb: 73rd contract in June] Hartford street, east line, 137.4 feet south of Seventeenth —Carpentry, plumbing, plastering, brick work, etc., for a two-story frame building, flats. Owner, Andrew Christensen; architect, W. McMillen; contractors, Cotter & Jones. Cost, $3,734.
+
 Interestingly, although Christensen's contract lists a two-story building, the first one to go in was the three-story building that we see already mostly framed out by June 28th. This lot, reading out the surveyor numbers, corresponds to parcel `3582/035`, or 27/29/31 Hartford. Huh.
 
 The construction was accepted 30 August 1900:
 ![all good here](images/1900-aug-christensen-complete.png)
 
-Andrew's brother's building next door didn't go up until after 1902, [based on the DS Wulzen photo from the old Corbett road](#the-1902-view-from-above). Knowing that it's not in the same year, I haven't had time to go search for it.
+The building on Andrew's brother's lot next door didn't go up until after 1902, [based on the DS Wulzen photo from the old Corbett road](#the-1902-view-from-above). Knowing that it's not in the same year, I haven't had time to go search for it.
+
+And indeed, it looks like Jens C Christensen and his wife Thorea sold their lot to Andrew in around 28 March 1901.
+![alt text](images/1901-03Mar-28-SFCall-clipping.png)
+[San Francisco Call, Volume 87, Number 118, 28 March 1901](https://cdnc.ucr.edu/?a=d&d=SFC19010328.2.133&srpos=1&e=-------en--20--1-byDA-txt-txIN-%22jens+c%22+christensen+hartford-------)
 
 Regardless of what happened, and perhaps puzzlingly, both the three-story flats at 27/29/31, and the two-story flats at 33/35 have the same layouts, and all of the same trimmings and mouldings as other Nelsons on the block. Did Christensen fire his contractor and hire Nelson at a savings? Or were there just limited resources for interior decoration in 1900/1901?
 
@@ -163,6 +171,13 @@ At any rate, Fernando Nelson bought a Hartford chunk of the Treadwell block in N
 
  [San Francisco Call, Volume 87, Number 158, 5 November 1900](https://cdnc.ucr.edu/?a=d&d=SFC19001105.2.104&srpos=5&e=01-01-1899-01-12-1900--en--20--1-byDA-txt-txIN-%22fernando+nelson%22-------)
 
+ And he wasted no time setting up to build.
+ ![alt text](images/1900-11Nov-5-SFCall-clipping.png)
+ > [Building contracts for November]
+ > Hartford street, east line, between Noe and Castro - Eleven frame cottages. Owner, architecte and contractor F. Nelson. Cost, $1600
+
+[Organized Labor, Volume 1, Number 41, 10 November 1900](https://cdnc.ucr.edu/?a=d&d=OLSF19001110.2.51&srpos=2&e=-------en--20-OLSF-1-byDA-txt-txIN-%22hartford+street%22-------)
+
 He later bought up the other side of the block from 18th and Noe north:
 
 ![](/buildings/images/1900-12Dec-24-SFCall-renews.png)
@@ -175,13 +190,22 @@ He gets the lot at the NW corner of 18th and Noe.
 
 [San Francisco Call, Volume 87, Number 154, 3 May 1901](https://cdnc.ucr.edu/?a=d&d=SFC19010503.2.175&srpos=4&e=-------en--20--1-byDA-txt-txIN-%22fernando+nelson%22+treadwell-------)
 
+![alt text](images/1901-05May-3-SFCall-clipping.png)
+> Hartford, east line, 100 N 18th — Erect 3-story and basement. 0., F. Nelson. Cost. $4,900.
+[Organized Labor, Volume 2, Number 44, 30 November 1901](https://cdnc.ucr.edu/?a=d&d=OLSF19011130.2.27&srpos=29&e=-------en--20-OLSF-21-byDA-txt-txIN-%22f+nelson%22-------)
+
 So here's our San Francisco Block Book for 1901.
 
 ![block book 1901](/buildings/north/images/blockbook-1901-north.png)
 
+## The 18th st flats
+
 Nelson then (grudgingly?) buys the lot for the apartment building at the SE corner of 17th and Hartford, which becomes one of the sets of flats.
 ![alt text](images/SFCall-26-Jan-1902.png)
 [San Francisco Call, Volume 87, Number 57, 26 January 1902](https://cdnc.ucr.edu/?a=d&d=SFC19020126.2.139&srpos=5&e=-------en--20--1-byDA-txt-txIN-%22fernando+nelson%22+treadwell-------)
+
+![alt text](images/1902-01Jan-26-SFCall-clipping.png)
+[Organized Labor, Volume 3, Number 9, 29 March 1902](https://cdnc.ucr.edu/?a=d&d=OLSF19020329.2.18&srpos=40&e=-------en--20-OLSF-21-byDA-txt-txIN-%22f+nelson%22-------)
 
 ## The 1902 view from above
 
@@ -200,7 +224,7 @@ On May 1st, 1902, [D.H. Wulzen scales Corbett and takes this amazing photo](http
 | 36            |     | 37, 39        |
 | 42            |     | 41, 43        |
 | 44, 46        |     | 45            |
-| 48            |     | 49            |
+| 48            |     | [49](/buildings/north/49/)            |
 | 52            |     | 53            |
 | 56            |     | 57-zen-center |
 | 60            |     | 61            |

@@ -46,13 +46,13 @@ The Meeteer family moved to Oakland around 1880, and the property went through a
     > A. F. Farman to A. Spaulding. lot 20x60, on S. line of Frank place, 97.6 W. of Mason, $1.
     > R. S. Williams to same, lot 25x80, on E. line of Castro, 100 S. of Seventeenth st., $15.
 Kallochs to Spaulding:
-![alt text](image.png)
+![alt text](images/1886-08Aug-25-SFBulletin-clipping.png)
 
 > todo
 [San Francisco Bulletin - August 25, 1886](https://infoweb-newsbank-com.ezproxy.sfpl.org/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=EANX-NB&req_dat=C4A791F4197B4BD28C27A2A6A0C93929&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Aimage%252Fv2%253A113ACFC4DAF84818%2540EANX-NB-11A1C72D81AFC340%25402410144-11A1C72DC8275B48%25401-11A1C72EE5D2FBC0%2540Advertisement/hlterms%3A%2522andrew%2520spaulding%2522%2520)
 
 Spaulding to deHavens
-![alt text](image-1.png)
+![alt text](images/1886-08Aug-25-SFBulletin-clipping-1.png)
 > todo
 San Francisco Bulletin - January 8, 1887
 

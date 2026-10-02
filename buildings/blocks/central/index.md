@@ -44,6 +44,19 @@ Hartford St first appears on the [1858 Map of Western Addition Land Claims](http
 
 ![1909 block book central](blockbook-1909-central.png)
 
+## Corners
+
+![alt text](images/1920-04Apr-10-OrgLabor-clipping.png)
+![alt text](images/1920-04Apr-10-OrgLabor-clipping-1.png)
+> SW Hartford and Eighteenth. Onestory and basement frame store and flat. Owner, Ira and May Correll; contractor, Wm. M. Reedy, 267 Ellsworth St. Cost, $10,550.
+[Organized Labor, Volume 21, Number 15, 10 April 1920](https://cdnc.ucr.edu/?a=d&d=OLSF19200410.2.32&srpos=153&e=-------en--20-OLSF-141-byDA-txt-txIN-hartford-------)
+
+![alt text](images/1920-04Apr-10-OrgLabor-clipping-2.png)
+> The above is a facsimile of the Butchers’ Union Market Card.
+> BUTCHERS’ UNION No. 115.
+> The wholesale and retail butchers of San Francisco have organized the Butchers’ Exchange and have joined the Citizens’ Alliance in a body. The president of the Butchers’ Exchange is Herman Schreiber, Hartford Market, corner Hartford and Eighteenth streets; the secretary is J. Larney, of Fanning & Larney...
+[Organized Labor, Volume 5, Number 37, 8 October 1904](https://cdnc.ucr.edu/?a=d&d=OLSF19041008.1.7&e=-------en--20-OLSF-21-byDA-txt-txIN-hartford-------)
+
 ## People
 
 [1868 Langley](https://archive.org/details/sanfranciscodire1868lang) - first mentions of Hartford st

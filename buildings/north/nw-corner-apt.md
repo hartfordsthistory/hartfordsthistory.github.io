@@ -1,9 +1,12 @@
 ---
 title: Northwest 17th and Hartford apartments
 ---
+
+(Also listed as "southwest corner Hartford and 17th")
+
 3955 17th St
 
-This building was originally located across Market St where Castro Gas is today. It was moved some time around 1917 when the Twin Peaks tunnel began construction. You can see it on the right side in the [Open SF History photo](https://opensfhistory.org/Display/wnp27.0740.jpg) of the area below:
+This building was originally located across Market St where Castro Gas is today. It was moved some time before 1917 when the Twin Peaks tunnel began construction. You can see it on the right side in the [Open SF History photo](https://opensfhistory.org/Display/wnp27.0740.jpg) of the area below:
 
 ![Market and Castro circa 1910](images/opensfhistory_wnp27.0740.jpg)
 
@@ -32,11 +35,17 @@ At this point the block goes from being block #1902, to being 2623, the number i
 ![Sanborn Map to 1913](images/nw-apt-1913.png)
 [Sanborn Map to 1913](https://www.loc.gov/resource/g4364sm.g4364sm_g00813191304/?sp=65&st=image)
 
-
 The notation on the building says it's a 4-story wood framed building on the corner, and a 3-story with basement wood framed building to the , containing 20 dwelling units. It has a composition (probably asphalt shingle) roof, and 1-story slate or metal coverings over the lightwells. It _looks_ like it also has a central elevator, open to the air - it would've been very modern and probably quite expensive. It also notes two S for stores, presumably on the ground floor, two PC patent safety chimneys, and the two FEs for Fire Escape.
 
 Close up:
 ![alt text](images/nw-apt-1913-closeup.png)
+
+### 1914
+
+![alt text](images/1914-10Oct-24-OrgLabor-clipping.png)
+> SW Hartford and 17th. Repair apartments, built in stores and install steam heat. Owner, W. J. McKillop, 540 Cole; contractor, McKillop Bros., 540 Cole; $3OOO.
+
+[Organized Labor, Volume 15, Number 43, 24 October 1914](https://cdnc.ucr.edu/?a=d&d=OLSF19141024.2.11&srpos=111&e=-------en--20-OLSF-101-byDA-txt-txIN-hartford-------)
 
 ## 1905-1910ish
 
