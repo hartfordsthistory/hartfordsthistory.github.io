@@ -87,3 +87,7 @@ Residential:
 
 Milk dealers:
 > Moloney  Patrlik,   E  s  Hartford,  bet Eighteenth  aud  Nineteenth
+
+1880:
+Williges Henry (Williges & Wolters) r. 2 Hartford
+Williges & Wolters (Henry Williges and William Wolters) wood and coal, 437-439 Castro - This is the space that was in the gap between Meeteer house and the flats next door. A coalyard.

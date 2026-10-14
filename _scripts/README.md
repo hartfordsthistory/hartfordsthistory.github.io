@@ -1,6 +1,12 @@
 # Address parsing scripts
 
-The goal of these is to take bad OCRs of the Crocker Langley directories for each year, and find the instances of "Hartford". Then remove a bunch of the red-herrings: insurance, fire insurance, etc.
+**Project Vision:** The overarching goal of this script ecosystem is to build a definitive, comprehensively clean, and structurally parsed dataset of San Francisco historical directories and legal abstracts (1850s-1980s). This dataset is a foundational research asset and competitive advantage. 
+
+*Do not mistake the localized "Hartford Street" outputs as an excuse to avoid cleaning the global baseline.*
+
+## Targeted Extraction (Hartford Use Case)
+
+Once the global baselines (`-fixed.jsonl`) are corrected, you can extract specific streets like Hartford. The goal of these specific scripts is to take the directory data for each year, find the instances of "Hartford", and remove red-herrings (insurance, fire insurance, etc.).
 
 run this like:
 ```bash
@@ -28,3 +34,4 @@ This isn't perfect and you'll want to do some cleanup of the occupation parsing 
 ### TO DO
 
 - Work on this over a repo - harness script?
+- Implement Phase 2 Domain-Aware Structural Parsers (Directories vs McCords).

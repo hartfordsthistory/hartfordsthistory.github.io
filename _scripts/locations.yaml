@@ -1,0 +1,93 @@
+streets:
+  hartford:
+# NOTE: Matching is case-insensitive and ignores all punctuation.
+# E.g., "hartford boiler" will match "Hartford Boiler!" and "Hartford, Boiler".
+    names:
+      - alias: "Hartford"
+      - alias: "Hartford St"
+    ignore_if_contains:
+      - "Hartford Fire"
+      - "Hartford Insurance"
+      - "Hartford Life"
+      - "Hartford Accident"
+      - "Hartford Building"
+      - "Hartford Sanatorium"
+      - "fre hartford"
+      - "fire hartford"
+      - "phonix hartford"
+      - "phoenix hartford"
+      - "hartford conn"
+      - "hartford con"
+      - "hartford steam"
+      - "hartford rubber"
+      - "hartford typewriter"
+      - "hartford m co"
+      - "Hartford boiler"
+      - "life Hartford"
+      - "ins co hartford"
+      - "bark hartford"
+      - "etna"
+      - "joy hartford"
+      - "mclean"
+      - "fowler"
+      - "hartford assets"
+      - "hartford capital"
+      - "co hartford"
+      - "company"
+      - "insurance"
+      - "ins co"
+      - "mining"
+      - "keeper"
+      - "surplus"
+      - "celebrated"
+      - "engine"
+      - "pany-hartford"
+      - "het hartford and"
+
+  18th:
+    names:
+      - alias: "Falcon"
+        seen_years: [1852, 1858]
+        notes: "Horner map"
+      - alias: "Eighteenth"
+      - alias: "18th"
+      - alias: "18 th"
+      - alias: "Bighteenth"
+      - alias: "Eighteentb"
+      - alias: "Eigbteentb"
+      - alias: "Bight"
+      - alias: "Eight"
+      - alias: "Eigh"
+      - alias: "Bigh"
+    ignore_if_contains: []
+
+  17th:
+    names:
+      - alias: "Corbett"
+        notes: "Part of Corbett Toll Road before separation"
+      - alias: "Seventeenth"
+      - alias: "17th"
+    ignore_if_contains: []
+
+  divisadero:
+    names:
+      - alias: "Devisadero"
+        seen_years: [1881, 1884]
+        notes: "Common early spelling"
+      - alias: "Divisadero"
+    ignore_if_contains: []
+
+blocks:
+  block_114:
+    names:
+      - alias: "Block 114"
+      - alias: "Mission Block 114"
+      - alias: "M. B. 114"
+    ignore_if_contains: []
+  19th:
+    names:
+      - alias: "Nineteenth"
+      - alias: "19th"
+      - alias: "19 th"
+      - alias: "Nine"
+    ignore_if_contains: []

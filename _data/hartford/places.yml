@@ -1,0 +1,79 @@
+# _data/places.yml
+# Historical & spatial place anchors for Hartford Street & Mission Block 114
+
+# --- Historical Tracts & Platted Lots ---
+
+mission-block-114:
+  title: "Mission Block 114"
+  place_type: "historical_tract"
+  bounded_by: "Eighteenth, Nineteenth, Noe, Castro"
+  contains_streets:
+    - "hartford"
+  historical_lots:
+    - "100-vara-lot-12"
+    - "treadwell-tract"
+  original_claimants:
+    - "J. P. Treadwell"
+    - "William Meeteer"
+  modern_blocks:
+    - "3582"
+
+lot-3582-sw-corner-18th:
+  title: "SW Corner 18th & Hartford (Joost Store)"
+  place_type: "platted_lot"
+  block: "3582"
+  survey:
+    starting_point: "Southwesterly corner of Eighteenth and Hartford Streets"
+    dimensions: "25 x 100 ft"
+    calls:
+      - "W 25 ft along S line 18th"
+      - "S 100 ft at right angle"
+      - "E 25 ft at right angle to W line Hartford"
+      - "N 100 ft along W line Hartford to beginning"
+  parent_tract: "mission-block-114"
+  modern_assessor_lot: "001"
+
+lot-3582-024:
+  title: "Lot 24, Block 3582 (118 Hartford)"
+  place_type: "platted_lot"
+  block: "3582"
+  survey:
+    starting_point: "Easterly line of Hartford St, distant 125 ft Southerly from Eighteenth St"
+    dimensions: "25 x 125 ft"
+    calls:
+      - "S 25 ft along E line Hartford"
+      - "E 125 ft at right angle"
+      - "N 25 ft at right angle"
+      - "W 125 ft at right angle to beginning"
+  parent_tract: "mission-block-114"
+  modern_assessor_lot: "024"
+
+# --- Structures & Address Anchors ---
+
+hartford-sw-cor-18th:
+  title: "SW Corner Hartford & 18th"
+  place_type: "structure"
+  lot_ref: "lot-3582-sw-corner-18th"
+  current_address: "500 Eighteenth St"
+  addresses:
+    - address: "SW cor Hartford and 18th"
+      start_year: 1877
+      end_year: 1888
+    - address: "500 Eighteenth St"
+      start_year: 1888
+      end_year: present
+
+hartford-118:
+  title: "118 Hartford Street"
+  place_type: "structure"
+  lot_ref: "lot-3582-024"
+  current_address: "118 Hartford St"
+  addresses:
+    - address: "Hartford E s bet 18th and 19th"
+      start_year: 1877
+      end_year: 1888
+      notes: "Pre-renumbering ordinance relative description"
+    - address: "118 Hartford St"
+      start_year: 1888
+      end_year: present
+      source: "1889 Sanborn Insurance Map"
