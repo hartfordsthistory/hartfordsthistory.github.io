@@ -35,7 +35,7 @@ The first owner of the land was [Jose de Jesús Noé](/people/noe/), who was gra
 
 ## Horner, Horner's Addition, and the Panic
 
-John Miers Horner arrived with a group of Mormon settlers on the ship The Brooklyn with Sam Brannan et al, in 1846, when California was still part of Mexico. He began farming in Mission San Jose in 1847, made immense profits and invested them into more land.He founded Union City, and lived along its north edge - then known as Centerville.
+John Miers Horner arrived with a group of Mormon settlers (including Sam Brannan) on the ship The Brooklyn, in 1846, when California was still part of Mexico. He began farming in Mission San Jose in 1847, made immense profits and invested them into more land.He founded Union City, and lived along its north edge - then known as Centerville.
 
 In mid 1853 Horner bought part of Rancho San Miguel from Noé. This was after California was admitted to the Union, and after Noé's land claims was settled in his favor. Horner, for lack of a better name, called it "Horner's Addition", as it was fully in the "Outside lands" outside the City Charter.
 

@@ -16,6 +16,48 @@ _1854 engraving from [Gleason's Pictorial Drawing Room Companion](https://www.go
 - Flouring mills not being sufficient in California at this time, we built one at Union City, with eight run of burrs, at a cost of eighty-five thousand dollars, and ground our grain and that of others.
 - We equipped and ran a stage line in connection with our steamer, as far up the valley as San Jose, twenty-five miles. Thus completing a through passenger line from San Francisco to San Jose. We opened sixteen miles of public roads, mostly through our own land, and fenced the larger part on both sides.
 
+He writes a letter to the editor of the Daily Alta California on 9 July 1851, and [it's printed 14 July](https://cdnc.ucr.edu/?a=d&d=DAC18510714.2.6&srpos=27&e=--1850---1865--en--20-DAC-21-byDA-txt-txIN-horner-------):
+
+>California Agriculture.
+> The letter which we publish below, from an intelligent practical farmer, is worth whole volumes of newspaper articles upon the subject of our agricultural resources. Here is a mass of facts, going over a series of years, and demonstrating, beyond the possibility of doubt, the certainty that California, rich as she is in mines, is infinitely more valuable in other important respects. It is extremely gratifying to us, who have always contended in favor of the State's great facilities for agriculture, to be enabled to lay before our readers, both upon the Pacific and the Atlantic, so reliable and convincing a statement.
+> AT MY FARM NEAR EX-MISSION DE SAN JOSE, SANTA CLARA VALLEY, July 9, 1851.
+> Messrs. Editors: — I observed, in the Weekly Tribune of March 15th, an extract from the Journal of Commerce concerning farming operations in California, which refers particularly to me in fact, but not in name. My name, as recorded, is John M. Horner, born June 15th, 1821, Monmouth County, New Jersey, where my father and his family now reside. I left New York Feb. 4th, with my wife, two weeks after marriage, for California, to farm; going by the way of Cape Horn and the Sandwich Islands, and bringing my farming utensils with me. I arrived in California in August, 1846, since which time I have been pursuing one steady aim at agricultural pursuits.
+> FIRST YEAR — I farmed sixty acres in various kinds of produce, but gathered nothing but dear experience.
+> SECOND YEAR — I was thrown into confusion on account of the gold mines. Help could not be hired at any price, and I am credibly informed that the Governor himself had to cook his own meals. I farmed but very little, and finally I caught the gold fever and went to the mines; and there I caught the fever and ague, and returned to my farm. I gathered nothing the second year.
+> THIRD YEAR — I made farther preparations for farming. I was determined not to be disappointed, but farm I would. I could not hire hands for $16 per day. I tried to enter into co-partnership, but could not effect it; all had rather go to the mines. None of my brothers were yet in the country. But I would not be disappointed. I got the assistance of three Indians, and we went to the mountains, 25 miles distant, and there we worked at the red-wood (cedars of Lebanon, for some of them are 300 feet high.) until we got rails and posts sufficient to secure fifteen acres, which I planted principally in potatoes. The produce gathered was worth about $16,000; but unfortunately I lost one half, on account of heavy rains setting in, and the scarcity of help. Thus ended the third year.
+> FOURTH YEAR — My younger brother arrived in January. We managed to fence some 400 acres and farm 150, principally in potatoes; and our crop yielded about as fellows:
+> Potatoes ........ 1,760,000 lbs. Pumpkins ...... 80,000 lbs
+> Onions .......... 40,000 " Barley ........... 20,000 "
+> Tomatoes ...... 50,000 " Wheat ........... 40,000 "
+> Beets ............. 6,000 " Chickens ...... 100 "
+> Solid-headed cabbages ....... 60,000 "  Eggs ............. 500 doz
+> FIFTH YEAR, 1851 — We have fenced about 1,300 acres; and have farmed 800. We want no rain until December, and we will be sure to gather, of
+> Potatoes ........... 120,000 bush . Solid-headed cabbages .............. 108,000 lbs
+> Onions ............. 6,000 "  
+> Table beets ....... 4,000 " Chickens ............. 600
+> Turnips ............. 1,000 " Eggs .................... 1,200 doz
+> Carrots .............. 1,000 " Onion seed .......... 800 lbs.
+> Tomatoes .......... 1,200 " Beet " ......... 200 "
+> Barley ............... 5,000 " Cab'ge " .......... 100 "
+> Pumpkins ..................... 30 tons.
+> To most of the Eastern world who are unacquainted with our soil and climate, the above account will look almost impossible. But, considering that we have nine months out of twelve in which wo can sow, and nine in which we can gather, it is not doubtful. And if there ever was a country in which the "ploughman overtook the reaper," California is that one. A large amount of produce will be raised in California this year for market. This valley alone will yield about
+> 600,000 bushels Potatoes, 6,000 bushels Pears, .
+> 32,000 " Onion, 1,400 " Apples,
+> 10,200 " Table Beets, 400 tons Pumpkins, .
+> 5,000 " " Tomatoes, 195 " Grapes,
+> 100,000 " Barley, 3,000 " Hay, .
+> 15,000 " Wheat, 550,000 Solid headed Cabbages.
+> Besides the above, there will be a great quantity of beans, peas, melons, and finer garden sance; and some 4,000 sheep and hogs, besides cattle almost as numerous as the acres of land over which they feed. This valley, if its resources were fully developed, would supply more than a million of population. I write from a knowledge of the facts, having spent five years in the valley. There are 600,000 acres of good tillable land within its borders. The poorest will yield 2,000 pounds of wheat or barley, and the best 70,000 pounds of onions, per acre.
+> Notwithstanding the present prices of labor, which are about $70 per month, my calculations, based upon experimental knowledge, are such as to warrant me in stating that California can supply her own market in beef, pork, flour, barley, and all kinds of vegetables, as cheap, and of a better quality, than she can be supplied from any quarter of the world. Vegetables will be very cheap this year. I am credibly informed that Mr. Steinberger has purchased the best article of California potatoes, for the supply of the ocean steamers, for the year, at 3 cents per pound. After the first of August, 1852, California will supply her own market with barley; but when she can supply herself with flour, is doubtful, as there are no mills in the country, and farmers will not raise wheat without some prospect of a market.
+> Yours respectfully,  JOHN M. HORNER.
+
+[Daily Alta California, Volume 2, Number 290, 28 September 1851](https://cdnc.ucr.edu/?a=d&d=DAC18510928.2.10&srpos=53&e=--1850---1865--en--20-DAC-41-byDA-txt-txIN-horner-------)
+![alt text](images/1851-09Sep-28-DailyAlta-horner-early-onions.png)
+> Mission San Jose, Sept 20, 1851. Messrs. Editors : For the benefit of your many agricultural readers, I forward the following information with regard to raisiug good and early onions. If you see fit, you can publish it. For the coming year, sow your ouion seed within the next twenty days. Nurse them well, and transplant in February, in good soil, and you will have large dry onions, fit fer market, by the 4th of July. Yours, &c. John M. Horner. They are to have a temperance meeting in San Jose on Monday next.
+
+Similar puffery about the quality of California flour can be found in the [Daily Alta California, Volume 4, Number 340, 29 December 1853](https://cdnc.ucr.edu/?a=d&d=DAC18531229.2.22.3&srpos=143&e=--1853---1865--en--20-DAC-141-byDA-txt-txIN-horner-------)
+And a note about shade trees [Daily Alta California, Volume 5, Number 70, 12 March 1854](https://cdnc.ucr.edu/?a=d&d=DAC18540312.2.22&srpos=183&e=--1853---1865--en--20-DAC-181-byDA-txt-txIN-horner-------)
+
 > the unsettled state of land titles rendered investments in land almost as hazardous as depositing money in commercial banks, as we found to our cost. The United States opposed all land titles. and requested proof of their genuineness to be made before its land commissioners, reserving the right of appeal to its district court, in the event the commissioners decided against the government; and to appeal again to its supreme court, if the district court decided against it. Thus years of costly law suits, and in some cases ruin to owners of land titles, intervened before final settlement. We suffered from the law's delay in settling titles, and from squatters keeping from as, by force, a goodly portion of our lands, being encouraged to do so by the government; for as long as the government withheld final confirmation, the squatter continued to hold possession, however good the title. We suffered more mentally and financially during these years from the above named causes, than from all floods and four-footed animals in former years.
 
 Purchased some part of Rancho San Miguel from [Jose de Jesús Noé](/people/noe/) in mid 1853 and called it "Horner's Addition". This was when the land and titles were all very confused with the delayed conversion of the Californio lands.
@@ -35,7 +77,7 @@ Basically, with the owners living in Union City, there was little or nothing tha
 
 >> "Sun 29th [January 1854] A beautiful pleasant morning. . .Alma Frances and myself took a walk over the hills, to take a view of br Horners new purchase, and to get a peep at the Spanish house where we expect to reside, after a few weeks. We admired the scenery very much; and think in short time it will be a great place. We walked from bluff to bluff untill we arrived at the top of a high one nearly in front of the dobie house where the spaniard resides of whom Mr H bought the land. We then sat down to admire the prospect. And we came to the conclusion that altho it was not quite retired, yet it was a most beautiful and romantic place. . ." [pages 239-240]
 
-Started the Eureka Homestead Association, but very few lots sold.[The Panic of 1854-7](https://en.wikipedia.org/wiki/Panic_of_1857) took out his and his brothers' investments.
+Started Horner's Addition, but very few lots sold.[The Panic of 1854-7](https://en.wikipedia.org/wiki/Panic_of_1857) took out his and his brothers' investments.
 
 > ...the first wave of money panic struck California, and swept over America with such disastrous results, from 1853 to 1859. [...] thousands of tons of farm products were never sent to market, for there was no sale; good potatoes were ten cents per bushel, but there were no ten cents
 > All this happened in the Golden State of California, in 1854, where millions of gold and silver were dug from its mines every month. Most, or all, of it was sent to San Francisco as soon as produced, and tons of it were hoarded in banks, treasury vaults, napkins, old bonnets, and other places, thought safe to keep money, after drawing it from the banks. Gold was gloated over and worshiped. A man with a few hundred dollars in gold coin was independent, while the owner of scores of thousands of property was poverty stricken, and permitted it to be sold for taxes, and in some cases never redeemed it. Some with ready money held it for purchasing properties at the depreciated rates for which it was sold by the sheriff, and money could not be borrowed on real estate, however good the title.

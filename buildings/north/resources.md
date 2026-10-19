@@ -19,7 +19,7 @@ However! There's also [a very handy interactive map to help you look up Sanborn 
 
 - 1886 - Hartford St North doesn't exist yet (the aspirational second block of Ford St still appears) [https://www.loc.gov/resource/g4364sm.g4364sm_g00813188605/?sp=19](https://www.loc.gov/resource/g4364sm.g4364sm_g00813188605/?sp=19) ([Hartford Mid](https://www.loc.gov/resource/g4364sm.g4364sm_g00813188605/?sp=20), and [Hartford South](https://www.loc.gov/resource/g4364sm.g4364sm_g00813188605/?sp=17))
 
-- 1900 [https://www.loc.gov/resource/g4364sm.g4364sm_g00813190006/?sp=51](https://www.loc.gov/resource/g4364sm.g4364sm_g00813190006/?sp=51)
+- 1900 [https://www.loc.gov/resource/g4364sm.g4364sm_g00813190006/?sp=51](https://www.loc.gov/resource/g4364sm.g4364sm_g00813190006/?sp=51) (Page 669 from the LOC's scanned volume is missing, but [SFGeneaology](https://sfgenealogy.org/doku.php?id=san_francisco_history:sanborn_fire_insurance_maps_1899) has the page. I downloaded it and you can find it as a pdf [here](/research-sources/1900-SanbornMap-vol6-pg669.pdf).)
 - 1905 - [https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~214223~5501578:Vol--6,-Page-671-672--San-Francisco?sort=Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No&qvq=q:Pub_List_No%3D%225850.000%22%20AND%20Short_Title%3D%22vol.%206%22%20;sort:Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No;lc:RUMSEY~8~1&mi=28&trs=66](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~214223~5501578:Vol--6,-Page-671-672--San-Francisco?sort=Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No&qvq=q:Pub_List_No%3D%225850.000%22%20AND%20Short_Title%3D%22vol.%206%22%20;sort:Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No;lc:RUMSEY~8~1&mi=28&trs=66)
 - 1914 - [https://www.loc.gov/resource/g4364sm.g4364sm_g00813191407/?sp=11](https://www.loc.gov/resource/g4364sm.g4364sm_g00813191407/?sp=11)
 - 1915 via SF Property Information Map ([PDF](images/San+Francisco+1913-1915+vol.+7%252C+1914%252C+Sheet+667_Page_1_Image_0001.pdf))
@@ -82,6 +82,8 @@ You can also use [UC Riverside's online newspaper archive and viewer](https://cd
 ## Directories in general
 
 SFPL has [an index of the San Francisco directories it has or knows about](https://sfpl.org/locations/main-library/magazines-newspapers-center/bay-area-city-directories-and-phone-books/san-0), starting in 1850 and going to 1980, with links to Archive.org. This is often quicker if you're looking for specific info about specific people during a specific year.
+
+[SF Genealogy](https://sfgenealogy.org/doku.php?id=san_francisco_county:databases:directories) has some more.
 
 ### Blue Books
 

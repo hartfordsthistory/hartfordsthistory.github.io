@@ -18,6 +18,17 @@ After literal years of printing his name in their Unfair list, the Building Trad
 
 [Organized Labor, Volume 5, Number 5, 27 February 1904](https://cdnc.ucr.edu/?a=d&d=OLSF19040227.2.14&srpos=113&e=-------en--20-OLSF-101-byDA-txt-txIN-%22f+nelson%22-------)
 
+
+https://cdnc.ucr.edu/?a=d&d=LACL19170713-01.2.24&srpos=2&e=-------en--20-LACL-1-byDA-txt-txIN-%22fernando+nelson%22-------
+
+https://cdnc.ucr.edu/?a=d&d=LACL19160414-01.2.8&srpos=1&e=-------en--20-LACL-1-byDA-txt-txIN-%22fernando+nelson%22-------
+
+
+https://cdnc.ucr.edu/?a=d&d=LACL19360911-01.2.54&srpos=5&e=-------en--20-LACL-1-byDA-txt-txIN-%22fernando+nelson%22-------
+
+https://cdnc.ucr.edu/?a=d&d=LACL19360918-01.2.45&srpos=6&e=-------en--20-LACL-1-byDA-txt-txIN-%22fernando+nelson%22-------
+
+
 <https://goo.gl/maps/RrftMCowkZJj4UMRA>
 <!-- 
 > Nelson's Business Practice In the 1880s, Fernando Nelson first established his career by working as a carpenter for other builders. He started his own business together with his brother-in-law

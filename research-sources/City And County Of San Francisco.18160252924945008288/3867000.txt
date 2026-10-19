@@ -1,0 +1,41 @@
+Author	Langley, Henry G.
+Author	Wackenreuder, V.
+Date	1861
+Short Title	City And County Of San Francisco.
+Publisher	Henry Langley
+Publisher Location	San Francisco
+Type	Separate Map
+Obj Height cm	50
+Obj Width cm	62
+Scale 1	32,800
+Note	First map of the city to be included in Langley's directory. Early map to show the western and southern parts of the peninsula, with the land grants, and full topography. Also shows the northern part of San Mateo County and a small part of Marin County. Three insets show the Farrallon Islands. Directory not present. Map is without color.
+Reference	Norris 3430; Vogdes p234.
+State/Province	California
+City	San Francisco (Calif.)
+Full Title	City And County Of San Francisco. Compiled From Official Surveys And Sectionalized In Accordance With U.S. Surveys. Drawn By V. Wackenreuder, C.E. 1861. Published By Henry G. Langley For the San Francisco Directory. Entered ... 1861 By Henry G. Langley ... California. Britton & Co. Print. (with 3 inset maps of the Farrallon Islands).
+List No	3867.000
+Series No	1
+Publication Author	Langley, Henry G.
+Publication Author	Wackenreuder, V.
+Pub Date	1861
+Pub Title	City And County Of San Francisco. Compiled From Official Surveys And Sectionalized In Accordance With U.S. Surveys. Drawn By V. Wackenreuder, C.E. 1861. Published By Henry G. Langley For the San Francisco Directory. Entered ... 1861 By Henry G. Langley ... California. Britton & Co. Print. (with 3 inset maps of the Farrallon Islands).
+Pub Reference	Norris 3430; Vogdes p234.
+Pub Note	See note field above.
+Pub List No	3867.000
+Pub Type	Separate Map
+Pub Maps	1
+Pub Height cm	50
+Pub Width cm	62
+Image No	3867000
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D0018/3867000.sid target=_blank>Full Image Download in MrSID Format</a>
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Authors	Langley, Henry G.; Wackenreuder, V.
+Collection	Rumsey Collection
+Summary	The work is titled "City And County Of San Francisco," authored by Henry G. Langley and V. Wackenreuder, and published in 1861. The map measures 62 cm in width and 50 cm in height. It was published by Henry Langley and is part of the Rumsey Collection.<br><br>Composition and Medium:<br>
+This is a black-and-white map printed by Britton & Co., featuring intricate line work to delineate geographic and man-made features. The medium appears to be a lithographic print, a common method in the 19th century for producing detailed maps.<br><br>Style:<br>
+The map is designed in a traditional cartographic style typical of the mid-19th century. It uses precise lines to indicate topography, urban planning, and natural features. The lack of color suggests a focus on clarity and functionality, prioritizing detailed information over aesthetic embellishment.<br><br>Subject Matter:<br>
+This map provides a detailed view of San Francisco and its surrounding areas, including parts of Marin County to the north and San Mateo County to the south. It is one of the earliest maps to include the western and southern parts of the San Francisco Peninsula. The map outlines prominent land grants and full topography, showcasing the natural and urban landscape as it was in 1861.<br><br>Notable Features:<br>
+1. Land Grants and Topography: The map shows various ranchos, such as Rancho Laguna de la Merced and Rancho Rincon de las Salinas, indicating the land distribution and ownership of the time. The topographical features are clearly outlined, showing hills, valleys, and other natural landmarks.<br><br>2. Urban Layout: The grid layout of the city streets is depicted, reflecting the planned urban development during the period. This highlights the rapid growth and organization of San Francisco as it evolved into a major urban center.<br><br>3. Insets of the Farrallon Islands: Three inset maps provide additional details of the Farrallon Islands, located off the coast of San Francisco. These insets offer navigational information crucial for maritime activities.<br><br>4. Geographical Context: The map situates San Francisco within a broader geographical context, showing its proximity to the Pacific Ocean, San Francisco Bay, and other significant water bodies. This positioning underscores the city's strategic importance as a port and commercial hub.<br><br>Cultural and Historical Context:<br>
+This map was created during a transformative period in San Francisco’s history. The city was experiencing rapid growth following the California Gold Rush of 1849, which attracted a diverse influx of people seeking fortune and opportunity. By 1861, San Francisco had become a bustling metropolis, and this map reflects its expansion and development.<br><br>The depiction of land grants is significant, as it highlights the remnants of the Mexican land grant system following California's transition from Mexican to American governance. This transition had substantial implications for land ownership and urban planning.<br><br>Publication and Series Information:<br>
+This map is part of a series of maps included in Langley’s directory, which was a vital resource for residents and businesses in San Francisco. The "Pub List No" associated with this map is 3867.000, indicating its cataloging within the publisher's collection.<br><br>Conclusion:<br>
+The "City And County Of San Francisco" map by Langley and Wackenreuder is not just a detailed geographical representation but also a historical document that captures the city's early development. It offers insights into the urban planning, land ownership, and geographical understanding of San Francisco in the mid-19th century, providing a window into the past for historians, geographers, and anyone interested in the evolution of this iconic city.
