@@ -118,3 +118,53 @@ Excerpted from [California and Californians Vol 4](https://www.google.com/books/
 > Finally in 1879 Claus Spreckles contracted with JM Horner to go to the Sandwich Islands and cultivate sugar cane on the shares he recovered himself financially and in time had developed another for tune estimated at around half a million For many years he was associated in business with his brother William Y Horner who February 21 1898
 > John M Horner himself died at Honolulu in 1902 at the age eighty one His life story of which the above is a very record was written out by himself and published at the end of a volume which he wrote on the financial history of the Hawaiian Islands
 > The children of John M Horner were Josephine Horner Blacow of Alhambra California Albert Horner and Robert Horner both in Honolulu Mrs Frank W Taylor of 4455 Park Boulevard Oakland and William Horner who died in 1925 and was born in 1847 one of first American native sons of California
+
+---
+1850 (date unk)
+![Deed index - Horner W. Y. to Lambert et al](images/deed-index-0.png)
+
+26 July 1852
+![Deed index - Horner W. Y. to Sargent](images/deed-index-1.png)
+
+"California, San Francisco County Records, 1824-1997," database with images, FamilySearch (<https://familysearch.org/ark:/61903/3:1:33S7-95NM-9LB9?cc=1402856&wc=319V-RMW%3A20726201%2C20821501> : 20 May 2014), Land and Property Records > Deed Index, Vol. 02, A-Z, 1850 > image 150 of 412; San Francisco Public Library, California.
+
+![Deed index - Horner W. Y. from Clarke](images/deed-index-2.png)
+
+16 oct 1854 - horner to ph ellis  Deeds vol 45, pg 236
+![Deed index - Horner to Ellis](images/deed-index-3.png)
+
+30 oct 1854 - horner to alfred higgins, deeds vol 48 pg 15
+![Deed index - Horner to Higgins](images/deed-index-4.png)
+
+9 nov 1854 - horner to jos ervington  - deeds vol 44 p 609
+![Deed index - Horner to Ervington](images/deed-index-5.png)
+
+21 nov 54 - horner to wn n jones (sales and atty?) 47 deeds 264
+![Deed index - Horner to Jones](images/deed-index-6.png)
+
+25 nov 54 - horner to TW lane  - deeds 49 p 53
+![Deed index - Horner to Lane](images/deed-index-7.png)
+
+Jan 12 1855 - horner to noe???  satisfaction of mortgage - 6 rels 271
+![Deed index - Horner to Noe satisfaction of mortgage](images/deed-index-8.png)
+
+20 jan 1855 - horner to william o andrews - deed 50 271
+![Deed index - Horner to Andrews](images/deed-index-9.png)
+
+1 march 1855 - horner by atty to Jas cloughe - 48 deeds pg 405
+![Deed index - Horner by atty to Clough](images/deed-index-10.png)
+
+6 mar - horner to AG Randall(s?) - 48 deeds 413
+![Deed index - Horner to Randall](images/deed-index-11.png)
+8 mar 1855 - horner to jas clough - 48 deeds 430
+![Deed index - Horner to Clough](images/deed-index-12.png)
+21 mar - horner to Geo W J Carter - 48 deeds 472
+![Deed index - Horner to Carter](images/deed-index-13.png)
+10 apr horner to  Thomas j williams - 52 deeds 134
+![Deed index - Horner to Williams](images/deed-index-14.png)
+16 apr - horner to horner  -  51 deeds 502 (or bill of sale misc c 577?)
+![Deed index - Horner to Horner](images/deed-index-15.png)
+25 apr - the sheriff sale - agreement 3 cov? cor? 152 Jacoby and [D]rischfeld(?)
+![Deed index - Sheriff sale to Jacoby and Hirschfeld](images/deed-index-16.png)
+![Deed index Vol 7A overview - Horner listings](images/deed-index-17.png)
+"California, San Francisco County Records, 1824-1997," database with images, FamilySearch (<https://familysearch.org/ark:/61903/3:1:3QS7-L9FH-3F12?cc=1402856&wc=319L-7M9%3A20726201%2C1588621527> : 20 August 2015), Land and Property Records > Deed Index, Vol. 7A, 1854-1855 > image 214 of 323; San Francisco Public Library, California.

@@ -145,9 +145,9 @@ _San Francisco Chronicle January 15, 1933_
 
 ---
 28 Sept 1852 - land purchase
-![alt text](image.png)
+![Deed index - Hetherington Joseph from Commrs Funded debt, 28 Sept 1852, Book 14 pg 210](images/deed-index-0.png)
 "California, San Francisco County Records, 1824-1997," database with images, FamilySearch (<https://familysearch.org/ark:/61903/3:1:33SQ-G5D3-XRN?cc=1402856&wc=319V-RMW%3A20726201%2C20821501> : 20 May 2014), Land and Property Records > Deed Index, Vol. 02, A-Z, 1850 > image 164 of 412; San Francisco Public Library, California.
 
-![alt text](image-1.png)
+![Deed index - Hetherington J. et al from J. C. Palmer et al, Book 18 pg 135](images/deed-index-1.png)
 "California, San Francisco County Records, 1824-1997," database with images, FamilySearch (<https://familysearch.org/ark:/61903/3:1:33SQ-G5D3-XRT?cc=1402856&wc=319V-RMW%3A20726201%2C20821501> : 20 May 2014), Land and Property Records > Deed Index, Vol. 02, A-Z, 1850 > image 172 of 412; San Francisco Public Library, California.
-![alt text](image-2.png)
+![Deed index - Hetherington J. et al from Andree Randall, 3 Feb 1853, Book 20 pg 376](images/deed-index-2.png)

@@ -6,15 +6,15 @@ title: José de Jesús Noé
 
 José de Jesús Noé was a prominent Californio farmer and rancher (although his original profession was listed as "tailor"), and the last Hispanic Alcalde (roughly equivalent to a mayor and a magistrate or sheriff) of Yerba Buena. He was born in Puebla, Mexico, in 1805, and in 1834 he and his wife Guadalupe Garduno joined a group of colonists who sailed north to populate Alta California.
 
-Californios were the the civilian settlers and colonists who emigrated into Alta California in waves, first under the auspices of a faltering imperial Spain, and later during the tumultuous land rush at the beginning of the modern Mexican state. The early immigrants had only gained independence from Spain after the _sixteen year long_ Mexican War of Independence which ended in fall of 1821, and looked on the later newcomers with suspicion.
+The Californios were the the civilian settlers and colonists who emigrated into Alta California in waves, first under the auspices of a faltering imperial Spain, and later during the tumultuous land rush at the beginning of the modern Mexican state. The early immigrants had only gained independence from Spain after the _sixteen year long_ Mexican War of Independence which ended in fall of 1821, and they looked on the later newcomers with suspicion.
 
-The Mission system by this point was seen mainly as a failed collaboration between the Spanish monarchy and the Catholic Church. The Missionaries had failed to create either the good enlightened Catholics of their nominal goal, or the thriving agrarian or manufacturing hubs of their more secular backers. The land they claimed was largely vacant, in _theory_ administered and held in trust by the Franciscans for the native peoples, to be distributed to them upon their "awakening". With the ouster of Spanish control the mission system was in peril.
+The Mission system by this point was seen mainly as a failed collaboration between the Spanish monarchy and the Catholic Church. The Missionaries had failed to create either the good enlightened Catholics of their nominal goal, or the thriving agrarian or manufacturing hubs desired by their more secular backers. The land they claimed was largely vacant, in _theory_ administered and held in trust by the Franciscans for the native peoples, to be distributed to them upon their "awakening". With the ouster of Spanish control the mission system was in peril.
 
 The secularization of the missions in 1833 made these empty tracts of land available for distribution to Mexican citizens. The process was a simple four part application, and the San Francisco Peninsula was consequently divided up into various ranchos, both large and small.
 
 ## Híjar-Padrés colony in Yerba Buena
 
-Jose Noé was part of the Híjar-Padrés expedition, sent in 1834 to settle and populate the contested lands of Alta California. Noé was the one of very few Híjar colony members who remained in San Francsico.
+Jose Noé was part of the Híjar-Padrés expedition, sent in 1834 to settle and populate the contested lands of Alta California. Noé was the one of very few Híjar colony members who remained in San Francisco.
 
 In 1833, the Mexican Congress passed legislation to secularize the California missions, and acting Mexican president Valentín Gómez Farías appointed José María de Híjar and D. José María Padrés to lead a group to colonize some of the empty mission lands. The colonists were volunteer farmers, teachers, and artisans carefully selected by Farías to populate the region, educate the citizens, and modernize and strengthen Mexican industry in California. This was partly to protect against incursions from Russia, who'd recently settled in Fort Ross, and the United States. Farias gave orders that Híjar was to replace the current governor, José Figueroa, and appointed Padrés as military commander.
 
@@ -36,14 +36,14 @@ Juan Alvarado granted Noé the 18.57 acres (8 ha) Rancho Las Camaritas on Januar
 
 The land is located in San Francisco's Mission District within the area bounded by 14th Street, Mission Street, 16th Street, and Shotwell Street, with its southern border parallel to and about 300 feet north of 16th Street (the property extending 825 feet south from 14th Street and the same distance east from Mission Street).  825/2.75 = 300 varas.
 
-![alt text](las-camaritas.png)
+![alt text](images/las-camaritas.png)
 
 Noé was alcalde of Yerba Buena in 1842-43.
 
 Noe supposedly turned control of Las Camaritas over to former Alcalde Francisco Guerrero around 1846, after he and his wife moved to their new home on Rancho San Miguel. Guerrero was killed in 1851 while coming back to the Mission from a Public Land Commission hearing.
 
 Ownership of Las Camaritas was disputed in court by the U.S. government from 1856 until 1882 due to conflicting documentation presented by its American owner Ferdinand Vassault after a string of sales initiated by Jose Noe sometime between 1842 and 1846.
-![1873 plat map](las-camaritas-plat.png) [1873 plat map via david rumsey](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~24655~930031:Plat-32--San-Francisco-?sort=pub_list_no%2Cpub_list_no_initialsort%2Cpub_list_no_initialsort%2Cpub_list_no_initialsort&mi=35&trs=719&qvq=w4s:/where%2FSan%2BFrancisco%2B(Calif.);q:san%20francisco%20county;sort:pub_list_no%2Cpub_list_no_initialsort%2Cpub_list_no_initialsort%2Cpub_list_no_initialsort;lc:RUMSEY~8~1)
+![1873 plat map](images/las-camaritas-plat.png) [1873 plat map via david rumsey](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~24655~930031:Plat-32--San-Francisco-?sort=pub_list_no%2Cpub_list_no_initialsort%2Cpub_list_no_initialsort%2Cpub_list_no_initialsort&mi=35&trs=719&qvq=w4s:/where%2FSan%2BFrancisco%2B(Calif.);q:san%20francisco%20county;sort:pub_list_no%2Cpub_list_no_initialsort%2Cpub_list_no_initialsort%2Cpub_list_no_initialsort;lc:RUMSEY~8~1)
 
 ## Rancho San Miguel
 
@@ -86,3 +86,37 @@ Noe Valley named for him.
 <https://en.wikipedia.org/wiki/Rancho_San_Miguel_(No%C3%A9)>
 
 [The Colonial History of San Francisco](https://www.google.com/books/edition/The_Colonial_History_of_the_City_of_San/_TRxieEteLAC?hl=en&gbpv=1) by (Judge) John Whipple Dwinelle (1867)
+
+---
+
+### California, City and County of San Francisco, deeds, 1850-1906; index, 1850-1906
+
+![Deed index Vol 2 A-Z, 1850](images/deed-index-0.png)
+"California, San Francisco County Records, 1824-1997," database with images, FamilySearch (<https://familysearch.org/ark:/61903/3:1:33SQ-G5D3-F9R?cc=1402856&wc=319V-RMW%3A20726201%2C20821501> : 20 May 2014), Land and Property Records > Deed Index, Vol. 02, A-Z, 1850 > image 265 of 412; San Francisco Public Library, California.
+vol 6 page 70-71
+![Deeds Vol. 6 page 70](images/33SQ-G5D9-S2QJ.jpg) ![Deeds Vol. 6 page 71](images/33S7-95FT-J91.jpg)
+"California, San Francisco County Records, 1824-1997," database with images, FamilySearch (<https://familysearch.org/ark:/61903/3:1:33SQ-G5D9-S2QJ?cc=1402856&wc=319J-ZN5%3A20726201%2C23779702> : 20 May 2014), Land and Property Records > Deeds, Vol. 0006, 1851 > image 73 of 403; San Francisco Public Library, California.
+
+![Deed index - Noe to Tarture, Book 8 pg 244](images/deed-index-1.png)
+Deeds Vol. 8 pg 244-245
+![Deeds Vol. 8 pg 244](images/33SQ-G56Z-41M.jpg) ![Deeds Vol. 8 pg 245](images/33SQ-G56Z-4LV.jpg)
+"California, San Francisco County Records, 1824-1997," database with images, FamilySearch (<https://familysearch.org/ark:/61903/3:1:33SQ-G56Z-41M?cc=1402856&wc=319G-HZ7%3A20726201%2C24028501> : 20 May 2014), Land and Property Records > Deeds, Vol. 0008A, 1851-1852 > image 246 of 403; San Francisco Public Library, California.
+
+![Deed index - Noe to Curry, Book 8 pg 624](images/deed-index-2.png)
+Deeds Vol. 8 pg 624
+![Deeds Vol. 8B pg 624](images/33S7-956Z-49R.jpg)
+"California, San Francisco County Records, 1824-1997," database with images, FamilySearch (<https://familysearch.org/ark:/61903/3:1:33S7-956Z-49R?cc=1402856&wc=319G-4WL%3A20726201%2C24118101> : 20 May 2014), Land and Property Records > Deeds, Vol. 0008B, 1851-1852 > image 225 of 241; San Francisco Public Library, California.
+
+![Deed index - Noe to Moore and Schmidt, Book 12 pg 220 and 346](images/deed-index-3.png)
+Deeds Vol. 12 pg 220
+![Deeds Vol. 12 pg 220](images/33S7-95FY-XVN.jpg)
+"California, San Francisco County Records, 1824-1997," database with images, FamilySearch (<https://familysearch.org/ark:/61903/3:1:33S7-95FY-XVN?cc=1402856&wc=319J-JWR%3A20726201%2C24584301> : 20 May 2014), Land and Property Records > Deeds, Vol. 0012A, 1852 > image 222 of 402; San Francisco Public Library, California.
+
+Deeds Vol. 12 pg 346-347
+![Deeds Vol. 12 pg 346](images/33SQ-G5DS-V39.jpg) ![Deeds Vol. 12 pg 345](images/33SQ-G5FY-FNP.jpg)
+"California, San Francisco County Records, 1824-1997," database with images, FamilySearch (<https://familysearch.org/ark:/61903/3:1:33SQ-G5DS-V39?cc=1402856&wc=319J-JWR%3A20726201%2C24584301> : 20 May 2014), Land and Property Records > Deeds, Vol. 0012A, 1852 > image 348 of 402; San Francisco Public Library, California.
+
+![Deed index - Noe to Vassault, Book 18 pg 596](images/deed-index-4.png)
+Deeds Vol. 18b pg 596
+![Deeds Vol. 18B pg 596](images/33SQ-G5D9-9K1K.jpg)
+"California, San Francisco County Records, 1824-1997," database with images, FamilySearch (<https://familysearch.org/ark:/61903/3:1:33SQ-G5D9-9K1K?cc=1402856&wc=319N-T3X%3A20726201%2C25290701> : 20 May 2014), Land and Property Records > Deeds, Vol. 0018B, 1852 > image 198 of 238; San Francisco Public Library, California.
