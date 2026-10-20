@@ -142,3 +142,12 @@ _San Francisco Chronicle January 15, 1933_
 
 [SF Chronicle - Feb 20 1946](https://infoweb-newsbank-com.ezproxy.sfpl.org/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=WORLDNEWS&req_dat=C4A791F4197B4BD28C27A2A6A0C93929&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Aimage%252Fv2%253A142051F45F422A02%2540EANX-NB-14EB6DC163BDB4DE%25402421362-14EB658E92E3DD4F%254036-14EB658E92E3DD4F%2540/hlterms%3A%25223997%252017th%2522), Marriage license:
 > Legan-Tisdale - Robert Legan, 25, and Lucille Tisdale, 21, both of 3997 17th st.
+
+---
+28 Sept 1852 - land purchase
+![alt text](image.png)
+"California, San Francisco County Records, 1824-1997," database with images, FamilySearch (<https://familysearch.org/ark:/61903/3:1:33SQ-G5D3-XRN?cc=1402856&wc=319V-RMW%3A20726201%2C20821501> : 20 May 2014), Land and Property Records > Deed Index, Vol. 02, A-Z, 1850 > image 164 of 412; San Francisco Public Library, California.
+
+![alt text](image-1.png)
+"California, San Francisco County Records, 1824-1997," database with images, FamilySearch (<https://familysearch.org/ark:/61903/3:1:33SQ-G5D3-XRT?cc=1402856&wc=319V-RMW%3A20726201%2C20821501> : 20 May 2014), Land and Property Records > Deed Index, Vol. 02, A-Z, 1850 > image 172 of 412; San Francisco Public Library, California.
+![alt text](image-2.png)

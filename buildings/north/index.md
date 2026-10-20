@@ -8,26 +8,19 @@ The 0-100 block of Hartford St is _almost_ solely the work of "master builder" F
 
 Hartford St North is an example of blue-collar Victorians in the "streetcar suburbs" growing in San Francisco at the turn of the century. These houses are the transition period between the vernacular, unprofessional infill housing in chaotically inclusive urban spaces, and the commissioned exclusive automobile-reliant suburbs of the 1920s and later. As non-status buildings - specifically meant to be _owned_ by blue-collar workers and not just rented to them - the buildings on Hartford St are a rare survival, and illustrate the incredible quality of life available to migrants willing to make the trip West.
 
-## Block history
+## Block history in a nutshell
 
-Hartford St North was originally listed as "Mission block 114", and only much later (when the City consolidated the previous different survey block numbers) became "Block 3582" as it's known today.
+Hartford St North was originally part of Rancho San Miguel, then blocks 148/149 of Horner's Addition, then listed as "Mission block 114", and only much later (when the City consolidated the previous different survey block numbers) became "Block 3582" as it's known today.  
 
-Block 114 was part of J M Horner's purchase and Horner's Addition, and labeled 147 and 148. _However_, it wasn't part of the Eureka Homestead Association purchase, and we know Marshall Meeteer was listed as living at the corner of 17th and Castro in 1862. We _also_ know that the Market/17th/Castro corner had a saloon on it very early - more research required there.
+The northwest corner of MB 114 was purchased before 1863, and so excluded from the Eureka Homestead Association, but we don't know when or by whom. Because of the protracted probate battle (and intra-family strife) in the J.P. Treadwell estate, the majority of this block was the last open space in the area waiting to be developed and the road cut.
 
-The Eureka Homestead land included is so platted:
-![alt text](images/1864-09Sep-03-SFBulletin-eureka-boundaries.png)
-> Commencing at the intersection of the northerly boundary of the San Miguel Rancho with the westerly line of Castro street; running thence southerly along the westerly line of Castro street to the southerly line of Falcon street; thence easterly along the southerly line of Falcon street to the westerly line of Noe street; thence southerly along the westerly line of Noe street to the northerly line of Napa street; thence westerly along the northerly line of Napa street to the easterly line of Douglass street; thence northerly along the easterly line of Douglass street to a point 200 feet north of the northerly line of Corbett street; thence at a right angle easterly and parallel with Corbett street 550 feet, more or less, to the northerly boundary of the San Miguel Rancho; and thence southeasterly on said northerly line of the San Miguel Rancho to the place of beginning," (excluding therefrom Noe, Castro, Diamond and Douglass streets, running north and south; also, Corbett, Falcon, Eagle and Napa streets, running east and west, for public highways); the tract of land above described being equal to about 17 1/2 blocks of 250 by 550 feet each.
-_NB: 17th St was known as Corbett, and 18th was called Falcon at the time of this writing._
+The middle and southerly blocks were parceled out in the Eureka Homestead Association in the mid to late 1860s. Because of this, Hartford St Central and South were weirdly numbered, consecutively upwards as you went south (uphill) on the west side, then crossing the street and the numbers continuing to increment as you went north (downhill). It looks as if the numbering changed _at least_ once between 1865 and 1900.
 
-The platting starts at the edge of block 114 and works its way back, continuing to exclude it. This means block 114 was definitely sold either by Pioche and Robinson, or Horner _before_ 13th of April, 1863.
+Originally MB 114 block was platted to include an extension of Ford St, which runs between Sanchez and Noe, parallel to 17th/18th, one block east. Some time between 1898 and 1901 block 114 got a north-south road to extend Hartford instead.
 
-Because of the protracted probate battle (and intra-family strife) in the J.P. Treadwell estate, the majority of this block was the last open space in the area waiting to be developed and the road cut.
+The two preexisting blocks of Hartford were renumbered in 1901 to fit the SF municipal scheme, which is to say the house numbers increase by 100 each block you get further away from Market, and odd numbers are on one side, even on the other.
 
-The middle and southerly blocks were parceled out in the Eureka Homestead Association much earlier. Because of this, Hartford St Central and South were weirdly numbered, consecutively upwards as you went south (uphill) on the west side, then crossing the street and the numbers continuing to increment as you went north (downhill). The two existing blocks of Hartford were renumbered later to fit the SF municipal scheme, which is to say the house numbers increase by about 100 each block you get further away from Market, and odd numbers are on one side, even on the other.
-
-Sometime between 1900 and 1901 block 114 got a north-south road to extend Hartford, rather than the planned east-west extension of Ford St. This third and final North block brought Hartford closer to Market St, so the blocks were renumbered _again_ to unify the number scheme. Hartford North became numbers 0-99, Hartford Central became 100-199, and Hartford South became 200-299.
-
-![1894 block book](/buildings/north/images/blockbook-1894-north.png)
+This third and final North block brought Hartford closer to Market St, so the blocks were renumbered _again_ to unify the number scheme. Hartford North became numbers 0-99, Hartford Central became 100-199, and Hartford South became 200-299.
 
 ## Noé and Rancho San Miguel
 
@@ -53,17 +46,26 @@ Basically, with the owners living near Union City, there was little or nothing t
 
 ![alt text](/people/horner/images/1854-01Jan-29-Unknown-crosby-diary.png)
 
-Horner sold off a number of lots, but not with great success. The Panic of 1857 wiped him out, and he was forced to sell almost all of his worldly goods, including his San Francisco property.
+Horner sold off a number of lots before his bankruptcy sale on April 25 1855, but not with great success. The Panic of 1857 began around 1853, and completely destroyed him financially. He was forced to sell almost all of his lands and worldly goods, including his San Francisco property. After struggling to regain his farmholds, he eventually relocated to Maui, Hawaii (then the Sandwich Islands, and about a hundred years away from being illegally seized and annexed by the business interests of the United States) to run the sugar plantations for Claus Spreckles.
 
 ## Pioche and Robinson, Meeteer, Treadwell, and the Eureka Homestead Association
 
-More research is required here as I haven't found the trail here yet.
+More research is required here as I have found _some_ sale records, but they're obscured.
 
-I'm not sure who Horner sold it to, and what that person did with it. I do know that on April 15, 1863, Pioche and Robinson sold a chunk of Horner's Addition to become the Eureka Homestead Association. Again, this association specifically _excluded_ Block 114. We don't know who bought it from under them, or when.
+Block 114 was part of J M Horner's purchase and Horner's Addition, and labeled 147 and 148. _However_, it wasn't part of the Eureka Homestead Association purchase made in April 1863, and we know Marshall Meeteer was listed as living at the corner of 17th and Castro in 1862. We _also_ know that the Market/17th/Castro corner had a saloon on it very early - more research required there.
+
+The Eureka Homestead land included is so platted:
+![alt text](images/1864-09Sep-03-SFBulletin-eureka-boundaries.png)
+> Commencing at the intersection of the northerly boundary of the San Miguel Rancho with the westerly line of Castro street; running thence southerly along the westerly line of Castro street to the southerly line of Falcon street; thence easterly along the southerly line of Falcon street to the westerly line of Noe street; thence southerly along the westerly line of Noe street to the northerly line of Napa street; thence westerly along the northerly line of Napa street to the easterly line of Douglass street; thence northerly along the easterly line of Douglass street to a point 200 feet north of the northerly line of Corbett street; thence at a right angle easterly and parallel with Corbett street 550 feet, more or less, to the northerly boundary of the San Miguel Rancho; and thence southeasterly on said northerly line of the San Miguel Rancho to the place of beginning," (excluding therefrom Noe, Castro, Diamond and Douglass streets, running north and south; also, Corbett, Falcon, Eagle and Napa streets, running east and west, for public highways); the tract of land above described being equal to about 17 1/2 blocks of 250 by 550 feet each.
+_NB: 17th St was known as Corbett, and 18th was called Falcon at the time of this writing._
+
+The platting _starts_ at the edge of block 114 and works its way back, continuing to exclude it. This means block 114 was definitely sold either by Pioche and Robinson, or Horner _before_ 13th of April, 1863.
+
+![1894 block book](/buildings/north/images/blockbook-1894-north.png)
 
 We DO know that Marshall M Meeteer, and LL Treadwell were the two owners of 114 for a good long while. Meeteer sold off chunks of his original homestead as normal city lots, then sold off the rest of the property to Andrew Spaulding.
 
-We don't know how LL Treadwell came by the rest of the block, but it was... dramatic.
+We don't know how LL Treadwell came by the rest of the block, but that whole family was... dramatic.
 
 ## Treadwell inter-family drama begins
 
