@@ -50,11 +50,11 @@ Horner sold off a number of lots before his bankruptcy sale on April 25 1855, bu
 
 ## Pioche and Robinson, Meeteer, Treadwell, and the Eureka Homestead Association
 
-More research is required here as I have found _some_ sale records, but they're obscured.
+More research is required here as I have found _index entries_ for some deed transfers, but not the deeds themselves.
 
 Block 114 was part of J M Horner's purchase and Horner's Addition, and labeled 147 and 148. _However_, it wasn't part of the Eureka Homestead Association purchase made in April 1863, and we know Marshall Meeteer was listed as living at the corner of 17th and Castro in 1862. We _also_ know that the Market/17th/Castro corner had a saloon on it very early - more research required there.
 
-The Eureka Homestead land included is so platted:
+The Eureka Homestead land is so platted:
 ![alt text](images/1864-09Sep-03-SFBulletin-eureka-boundaries.png)
 > Commencing at the intersection of the northerly boundary of the San Miguel Rancho with the westerly line of Castro street; running thence southerly along the westerly line of Castro street to the southerly line of Falcon street; thence easterly along the southerly line of Falcon street to the westerly line of Noe street; thence southerly along the westerly line of Noe street to the northerly line of Napa street; thence westerly along the northerly line of Napa street to the easterly line of Douglass street; thence northerly along the easterly line of Douglass street to a point 200 feet north of the northerly line of Corbett street; thence at a right angle easterly and parallel with Corbett street 550 feet, more or less, to the northerly boundary of the San Miguel Rancho; and thence southeasterly on said northerly line of the San Miguel Rancho to the place of beginning," (excluding therefrom Noe, Castro, Diamond and Douglass streets, running north and south; also, Corbett, Falcon, Eagle and Napa streets, running east and west, for public highways); the tract of land above described being equal to about 17 1/2 blocks of 250 by 550 feet each.
 _NB: 17th St was known as Corbett, and 18th was called Falcon at the time of this writing._
@@ -63,7 +63,7 @@ The platting _starts_ at the edge of block 114 and works its way back, continuin
 
 ![1894 block book](/buildings/north/images/blockbook-1894-north.png)
 
-We DO know that Marshall M Meeteer, and LL Treadwell were the two owners of 114 for a good long while. Meeteer sold off chunks of his original homestead as normal city lots, then sold off the rest of the property to Andrew Spaulding.
+We DO know that Marshall M Meeteer, and LL Treadwell were the two owners of that corner of MB 114 for a good long while. Meeteer sold off chunks of his original homestead as normal-sized city lots, then sold off the rest of the property to Andrew Spaulding.
 
 We don't know how LL Treadwell came by the rest of the block, but that whole family was... dramatic.
 
