@@ -26,7 +26,7 @@ corner):
 country" shows Hartford St:
 ![Image](images/1876-LOC-birdseye-hartford.png)
 
-      1882 Faust’s Map & Guide of San Francisco: (unnamed streets)
+1882 Faust’s Map & Guide of San Francisco: (unnamed streets)
 ![Image](images/1882-Faust-map.png)
 
 The 1886 Sanborn map shows ford going all the way through and touching Spaulding Ct.

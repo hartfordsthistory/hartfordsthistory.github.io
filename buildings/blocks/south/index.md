@@ -34,6 +34,11 @@ The first two blocks of Hartford St appear some time between [John Miers Horner]
 [1905 Sanborn map](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~214222~5501577:Vol--6,-Page-669-670--San-Francisco)
 ![alt text](sanborn1905-south.png)
 
+## Jan 1906 block book
+
+[South block in 1906](https://archive.org/details/sanfranciscobloc1906bloc/page/240/mode/1up)
+![alt text](image.png)
+
 ### 1909
 
 ![1909 Block book](blockbook-1909-south.png)

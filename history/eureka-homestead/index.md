@@ -3,6 +3,8 @@ title: The Eureka Homestead Association
 ---
 
 
+<https://csl.primo.exlibrisgroup.com/permalink/01CSL_INST/14s4joi/alma990009122940205115>
+
 Profile of the Association, written in 1867:
 
 28 Oct 1867 - Local Intelligence: Homestead Associations in San Francisco, Number Five
@@ -27,7 +29,6 @@ The Eureka Homestead Association was one of many speculative real estate venture
 
 ---
 
-
 ## 1862
 
 ![alt text](images/1862-08Aug-MarysvilleDaily-eureka-incorp.png)
@@ -44,7 +45,6 @@ The Eureka Homestead Association was one of many speculative real estate venture
 > Also-$25 will buy one share in the Eureka Homestead Association - installments paid on the latter to November 1st. Address "C. J. R," Bulletin office. oc31-1t*
 [San Francisco Bulletin - October 31, 1862](https://infoweb-newsbank-com.ezproxy.sfpl.org/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=EANX-NB&req_dat=C4A791F4197B4BD28C27A2A6A0C93929&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Aimage%252Fv2%253A113ACFC4DAF84818%2540EANX-NB-117B33ED2BF95AD0%25402401445-117B33ED71B05E10%25401-117B33EE765F1140%2540Advertisement/hlterms%3A%2522eureka%2520homestead%2522)
 
-
 ## 1863
 
 ![alt text](images/1863-01Jan-01-SacDailyUnion-non-mining.png)
@@ -58,7 +58,6 @@ The Eureka Homestead Association was one of many speculative real estate venture
 > By order of the Board of Directors.
 > de11-2wn13   H. B. CONGDON, Secretary E. H. A.
 [San Francisco Bulletin - December 11, 1863](https://infoweb-newsbank-com.ezproxy.sfpl.org/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=EANX-NB&req_dat=C4A791F4197B4BD28C27A2A6A0C93929&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Aimage%252Fv2%253A113ACFC4DAF84818%2540EANX-NB-1184AE36DDE171D0%25402401851-1184AE372850B978-1184AE38C0795A68/hlterms%3A%2522eureka%2520homestead%2522)
-
 
 ## 1864
 
@@ -158,7 +157,6 @@ The Eureka Homestead Association was one of many speculative real estate venture
 > The sale will commence punctually at the hour. Copies of the Official Map of the Property may be procured by applying to the Secretary. By order of the Board of Directors H. B. CONGDON. Secretary
 
 [Daily Alta California, Volume 16, Number 5404, 20 December 1864](https://cdnc.ucr.edu/?a=d&d=DAC18641220.2.12.3&srpos=5&e=-------en--20--1-byDA-txt-txIN-%22eureka+homestead%22-------)
-
 
 ## 1865
 
@@ -315,7 +313,6 @@ The Eureka Homestead Association was one of many speculative real estate venture
 > de15                                 620 Washington street, room 5.
 [San Francisco Bulletin - December 18, 1865](https://infoweb-newsbank-com.ezproxy.sfpl.org/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=EANX-NB&req_dat=C4A791F4197B4BD28C27A2A6A0C93929&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Aimage%252Fv2%253A113ACFC4DAF84818%2540EANX-NB-119D0EDFE4406928%25402402589-119D0EE01CC22308%25401-119D0EE10D20BBA8%2540Advertisement/hlterms%3A%2522eureka%2520homestead%2522)
 
-
 ## 1866
 
 ![alt text](images/1866-01Jan-03-SFBulletin-eureka-hmstd-notice.png)
@@ -331,7 +328,6 @@ The Eureka Homestead Association was one of many speculative real estate venture
 ![alt text](images/1866-08Aug-08-DailyAlta-eureka-auction.png)
 > LOT 4 OF BLOCK L, or Eureka Homestead Association, on Castro street, near Eighteenth. Lot on ea.«terly line of Castro street, »■< fe«t south o. Eighteenth xtreet, frontinr .'4 feet by 12S feet deep. Street" graded and mi -mlaraized. Terms Half Cash, hall' Main months, at 1 per <*cut. J(ill\ "IDDLETON* BOS, an6 Auctioneers.
 [Daily Alta California, Volume 18, Number 5993, 8 August 1866](https://cdnc.ucr.edu/?a=d&d=DAC18660808.2.23.9&srpos=17&e=-------en--20--1-byDA-txt-txIN-%22eureka+homestead%22-------)
-
 
 ## 1867
 
@@ -354,7 +350,6 @@ The Eureka Homestead Association was one of many speculative real estate venture
 > HOMESTEAD LOTS.—For sale, several desirable lots in the Eureka Homestead Tract, near the Mission Church. Market street is now being graded through to this property. The streets on the property are all graded, and at the price at which these lots are offered, they are the best investment to be had in the city.
 > jy13-1m      H. B. CONGDON, 620 Washington st., (Room 5.)
 [San Francisco Bulletin - July 18, 1867](https://infoweb-newsbank-com.ezproxy.sfpl.org/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=EANX-NB&req_dat=C4A791F4197B4BD28C27A2A6A0C93929&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Aimage%252Fv2%253A113ACFC4DAF84818%2540EANX-NB-119BFC1B995DD1F8%25402403166-119BFC1C0F52F170%25403-119BFC1D46C202D0%2540Advertisement/hlterms%3A%2522eureka%2520homestead%2522)
-
 
 ## 1868
 
@@ -381,7 +376,6 @@ The Eureka Homestead Association was one of many speculative real estate venture
 ![alt text](images/1868-10Oct-25-SFChronicle-eureka-hmstd-notice.png)
 > Lot 8, block G, Eureka Homestead Association...................................... 1,400
 [San Francisco Chronicle - October 25, 1868](https://infoweb-newsbank-com.ezproxy.sfpl.org/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=EANX-NB&req_dat=C4A791F4197B4BD28C27A2A6A0C93929&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Aimage%252Fv2%253A142051F45F422A02%2540EANX-NB-16044D674D0E2F4F%25402403631-1604366EF1980D9B%25402-1604366EF1980D9B%2540/hlterms%3A%2522eureka%2520homestead%2522)
-
 
 ## 1869
 

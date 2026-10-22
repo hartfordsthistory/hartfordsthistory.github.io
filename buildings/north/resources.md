@@ -30,9 +30,10 @@ However! There's also [a very handy interactive map to help you look up Sanborn 
 
 - 1894 [https://archive.org/details/handyblockbookof1894hick/page/746/mode/2up](https://archive.org/details/handyblockbookof1894hick/page/746/mode/2up)
 - 1901 [https://archive.org/details/sanfranciscobloc1901hick/page/414/mode/2up](https://archive.org/details/sanfranciscobloc1901hick/page/414/mode/2up)
-- Jan 1906 [https://archive.org/details/sanfranciscobloc1906bloc/page/241/mode/1up](https://archive.org/details/sanfranciscobloc1906bloc/page/241/mode/1up)
+- Jan 1906 North & Central [https://archive.org/details/sanfranciscobloc1906bloc/page/241/mode/1up](https://archive.org/details/sanfranciscobloc1906bloc/page/241/mode/1up) ([south](https://archive.org/details/sanfranciscobloc1906bloc/page/240/mode/1up))
 - Oct 1906 [https://archive.org/details/sanfranciscobloc1906octbloc/page/234/mode/1up](https://archive.org/details/sanfranciscobloc1906octbloc/page/234/mode/1up)
-- 1909 [https://archive.org/details/sanfranciscoorig3190910bloc/page/234/mode/1up](https://archive.org/details/sanfranciscoorig3190910bloc/page/234/mode/1up)
+- 1909 Hicks Judd [https://archive.org/details/sanfranciscoorig3190910bloc/page/234/mode/1up](https://archive.org/details/sanfranciscoorig3190910bloc/page/234/mode/1up)
+- 1909 Mery's block book north: [https://archive.org/details/merysblockbookof1909bloc/page/401/mode/1up](https://archive.org/details/merysblockbookof1909bloc/page/401/mode/1up) [central](https://archive.org/details/merysblockbookof1909bloc/page/400/mode/1up), [south](https://archive.org/details/merysblockbookof1909bloc/page/399/mode/1up)
 
 ### Real estate records
 

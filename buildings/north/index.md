@@ -196,7 +196,7 @@ He gets the lot at the NW corner of 18th and Noe.
 > Hartford, east line, 100 N 18th — Erect 3-story and basement. 0., F. Nelson. Cost. $4,900.
 [Organized Labor, Volume 2, Number 44, 30 November 1901](https://cdnc.ucr.edu/?a=d&d=OLSF19011130.2.27&srpos=29&e=-------en--20-OLSF-21-byDA-txt-txIN-%22f+nelson%22-------)
 
-So here's our San Francisco Block Book for 1901.
+So here's our San Francisco Block Book for October 1901.
 
 ![block book 1901](/buildings/north/images/blockbook-1901-north.png)
 
@@ -239,9 +239,31 @@ On May 1st, 1902, [D.H. Wulzen scales Corbett and takes this amazing photo](http
 <https://opensfhistory.org/Display/wnp13.006b.jpg> looking ne from 18th st, circa 1907
 <https://opensfhistory.org/Display/wnp25.10866.jpg> east side, looking south to se-corner-apt, 1970s
 
-### 1909 block book
+## Jan 1906 block book
 
+[1906 Block book at Archive.org](https://archive.org/details/sanfranciscobloc1906bloc/page/241/mode/1up).
+![alt text](images/1906-jan-block-book-MB-114.png)
+
+## Oct 1906 block book
+
+[Oct 1906 (post fire) block book at Archive.org](https://archive.org/details/sanfranciscobloc1906octbloc/page/234/mode/1up)
+
+![alt text](images/1906-oct-block-book-MB-114.png)
+
+### 1909 Hicks-Judd block book
+
+(the 1909-1910 block books are parceled out in volumes. The Western Addition volume doesn't arrive until 1910.)
+sept 1909
 ![alt text](images/blockbook-1909-north.png)
+
+## Sept 1909 Mery block book
+
+A [competing block book publisher](https://archive.org/details/merysblockbookof1909bloc/page/401/mode/1up) for some reason shows up here.
+
+![alt text](images/1909-sept-mery-MB114.png)
+
+But it also includes [a map of established grades](https://archive.org/details/merysblockbookof1909bloc/page/330/mode/1up) O_O  which shows us that the "extra" numbers at the intersections are the grade height. Because the Misison block and Horner's Addition are indexed together, we don't get contour lines like some other indexes.
+![alt text](images/1909-sept-mery-MBHA-grades.png)
 
 - [Neighbors 1902](./1902-north/) - Not all households and addresses are in here yet unfortunately.
 - [Neighbors 1915](./1915-north/)
