@@ -38,16 +38,16 @@ owned the rest of the block) paid to get it removed.
 
 ![Image](images/1886-Sanborn-map.png)
 
-      1901 SF Block Book: missing from overview, but block 114 shows it
+1901 SF Block Book: missing from overview, but block 114 shows it
 ![Image](images/1901-Blockbook-ford-st-1.png)
 
 ![Image](images/1901-Blockbook-ford-st-2.png)
 
-      Faust 1903: (when in doubt, put in both streets, and an intersection)
+Faust 1903: (when in doubt, put in both streets, and an intersection)
 ![Image](images/1903-Faust-map.png)
 
-      1904, August Chevalier: (presumably based on old data)
+1904, August Chevalier: (presumably based on old data)
 ![Image](images/1904-Chevalier-map.png)
 
-      1916 election precincts:
+1916 election precincts:
 ![Image](images/1916-Rumsey-election-precincts.png)
