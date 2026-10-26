@@ -1,5 +1,5 @@
 ---
-title: "Emperor" Joshua Norton
+title: '"Emperor" Joshua Norton'
 ---
 
 ![Deed index - Norton Joshua from Stephen Cowan, Book 11 pg 50](images/deed-index-0.png)
