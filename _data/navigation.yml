@@ -56,30 +56,30 @@ buildings:
 north:
   - title: "back to Hartford buildings"
     url: /buildings/
-  - title: Hartford North house by house
-    url: /buildings/north
-  - title:
-    url:
-  - title:
-    url:
-  - title:
-    url:
-  - title:
-    url:
-  - title:
-    url:
-  - title:
-    url:
-  - title:
-    url:
-  - title:
-    url:
-  - title:
-    url:
-  - title:
-    url:
-  - title:
-    url:
+  # - title: Hartford North house by house
+  #   url: /buildings/north
+  # # - title:
+  #   url:
+  # - title:
+  #   url:
+  # - title:
+  #   url:
+  # - title:
+  #   url:
+  # - title:
+  #   url:
+  # - title:
+  #   url:
+  # - title:
+  #   url:
+  # - title:
+  #   url:
+  # - title:
+  #   url:
+  # - title:
+  #   url:
+  # - title:
+  #   url:
 
 
 history:

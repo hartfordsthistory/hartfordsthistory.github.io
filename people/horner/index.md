@@ -52,7 +52,7 @@ He writes a letter to the editor of the Daily Alta California on 9 July 1851, an
 > Yours respectfully,  JOHN M. HORNER.
 
 [Daily Alta California, Volume 2, Number 290, 28 September 1851](https://cdnc.ucr.edu/?a=d&d=DAC18510928.2.10&srpos=53&e=--1850---1865--en--20-DAC-41-byDA-txt-txIN-horner-------)
-![alt text](images/1851-09Sep-28-DailyAlta-horner-early-onions.png)
+![Daily Alta California, 28 Sep 1851 - Horner advice on raising early onions](images/1851-09Sep-28-DailyAlta-horner-early-onions.png)
 > Mission San Jose, Sept 20, 1851. Messrs. Editors : For the benefit of your many agricultural readers, I forward the following information with regard to raisiug good and early onions. If you see fit, you can publish it. For the coming year, sow your ouion seed within the next twenty days. Nurse them well, and transplant in February, in good soil, and you will have large dry onions, fit fer market, by the 4th of July. Yours, &c. John M. Horner. They are to have a temperance meeting in San Jose on Monday next.
 
 Similar puffery about the quality of California flour can be found in the [Daily Alta California, Volume 4, Number 340, 29 December 1853](https://cdnc.ucr.edu/?a=d&d=DAC18531229.2.22.3&srpos=143&e=--1853---1865--en--20-DAC-141-byDA-txt-txIN-horner-------)
@@ -73,7 +73,7 @@ Basically, with the owners living in Union City, there was little or nothing tha
 
 > There is an interesting account of the early days of the development of Horner's Addition in the writings of Caroline Barnes Crosby who lived with the Horner's during 1854 and 1855. One the accounts read:
 
-![alt text](images/1854-01Jan-29-Unknown-crosby-diary.png)
+![Caroline Barnes Crosby diary, 29 Jan 1854 - walk over Horner's new purchase](images/1854-01Jan-29-Unknown-crosby-diary.png)
 
 >> "Sun 29th [January 1854] A beautiful pleasant morning. . .Alma Frances and myself took a walk over the hills, to take a view of br Horners new purchase, and to get a peep at the Spanish house where we expect to reside, after a few weeks. We admired the scenery very much; and think in short time it will be a great place. We walked from bluff to bluff untill we arrived at the top of a high one nearly in front of the dobie house where the spaniard resides of whom Mr H bought the land. We then sat down to admire the prospect. And we came to the conclusion that altho it was not quite retired, yet it was a most beautiful and romantic place. . ." [pages 239-240]
 
@@ -128,7 +128,7 @@ Excerpted from [California and Californians Vol 4](https://www.google.com/books/
 
 "California, San Francisco County Records, 1824-1997," database with images, FamilySearch (<https://familysearch.org/ark:/61903/3:1:33S7-95NM-9LB9?cc=1402856&wc=319V-RMW%3A20726201%2C20821501> : 20 May 2014), Land and Property Records > Deed Index, Vol. 02, A-Z, 1850 > image 150 of 412; San Francisco Public Library, California.
 
-![Deed index - Horner W. Y. from Clarke](images/deed-index-2.png)
+<!-- ![Deed index - Horner W. Y. from Clarke](images/deed-index-2.png) -->
 
 16 oct 1854 - horner to ph ellis  Deeds vol 45, pg 236
 ![Deed index - Horner to Ellis](images/deed-index-3.png)

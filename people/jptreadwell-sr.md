@@ -1,14 +1,24 @@
 ---
 title: James Parker Treadwell Sr.
 ---
+
+Treadwell came to San Francisco in 1851 along with his younger brother Leonard. It was fairly early in the Gold Rush, and Leonard formed "Treadwell & Co, merchant mechanics", to sell tools and equipment for mining and farming. JP, who had lost a leg at age 8 and was unsuited to the physical pursuit of this industry, instead became a prominent citizen; he was an attorney, helped found the SF Bar Association, and a became justice of the SF court system. They were, to put it mildly, filthy rich.
+
+Their half-sister [Mary Kendall (Treadwell) Fales](https://www.findagrave.com/memorial/291268954/mary_kendall-fales) also ends up out there with her husband, [Captain Edward Fales](https://www.findagrave.com/memorial/233314805/edward-fales).
+She does some crafts.
+![California Farmer, 12 Dec 1856 - Mrs. Edward Fales diploma for imitation carved work](images/1856-12Dec-12-CalFarmer-mary-fales-crafts.png)
+[California Farmer and Journal of Useful Sciences, Volume 6, Number 20, 12 December 1856](https://cdnc.ucr.edu/?a=d&d=CF18561212.2.10&srpos=1&e=-----1872--en--20--1-byDA-txt-txIN-%22edward+fales%22-------)
+
+Mary dies of typhoid in 1872 and Edward sues the brothers for his sister's share in their assets, thus beginneth The Drama.
+![Daily Alta California, 1 Oct 1872 - Mary Kendall Fales funeral notice](images/1872-10Oct-01-DailyAlta-mary-fales-obit.png)
+[Daily Alta California, Volume 24, Number 8223, 1 October 1872](https://cdnc.ucr.edu/?a=d&d=DAC18721001.2.46.1&srpos=5&e=-------en--20--1-byDA-txt-txIN-treadwell+AND+fales-------)
+
 ## Block 114
 
 The 1894 block book shows the entire block owned by J P Treadwell, who left his capacious estate in such absolute chaos that it was in probate court and appeals until at least 1904.
 
 [Aug 10 1903 Argonaut](https://www.google.com/books/edition/Argonaut/MJtCAQAAIAAJ?hl=en&gbpv=1&bsq=treadwell) ([page 94](https://www.google.com/books/edition/Argonaut/MJtCAQAAIAAJ?hl=en&gbpv=1)):
 > The estate of James Parker Treadwell has been appraised at 443,404.22 The items of report are as follows Realty in this city 270,855 cash 1,943 mortgage 39,000 a third interest in the estate of Thalia and Maud Treadwell 89,145 stock in the Spring Valley Water Company 36,635.
-
-Treadwell came to San Francisco in 1851 along with his brother Leonard. It was fairly early in the Gold Rush, and Leonard formed "Treadwell & Co, merchant mechanics", to sell tools and equipment for mining and farming. JP, who had lost a leg at age 8 and was unsuited to the physical pursuit of this industry, instead became a prominent citizen; he was an attorney, helped found the SF Bar Association, and a became justice of the SF court system. They were, to put it mildly, filthy rich.
 
 The block 114 was divided up to be sold at auction, however it looks like a few friends or associates of the Treadwells got the jump on the auction, and bought ahead of time.
 (Ref: Christesen purchase, Nelson buying, lots withdrawn.)
@@ -52,10 +62,10 @@ Helped [found The Sons of New England in Oct 1850](https://cdnc.ucr.edu/?a=d&d=D
 > Treadwell & co. com mer, Gala c Bat
 
 I guess [he had some insolvency issues in 1853](https://cdnc.ucr.edu/?a=d&d=DAC18530621.2.22.2&srpos=10&e=-------en--20--1-byDA-txt-txIN-%22j+p+treadwell%22-------).
-![alt text](images/1853-06Jun-12-DailyAlta-treadwell-buckets.png)
+![Daily Alta California, 12 Jun 1853 - Treadwell & Co iron water buckets](images/1853-06Jun-12-DailyAlta-treadwell-buckets.png)
 
 And maybe again in 1855 - his property in one of the 50 Vara lots was levied for unpaid taxes.
-![alt text](images/1855-02Feb-13-DailyAlta-treadwell-levied.png)
+![Daily Alta California, 13 Feb 1855 - Sheriff execution on Treadwell goods](images/1855-02Feb-13-DailyAlta-treadwell-levied.png)
 [Daily Alta California, Volume 6, Number 43, 13 February 1855](https://cdnc.ucr.edu/?a=d&d=DAC18550213.1.1&e=-------en--20--1-byDA-txt-txIN-%22j+p+treadwell%22-------)
 
 [1855](https://cdnc.ucr.edu/?a=d&d=DAC18550530.2.8&srpos=16&e=-------en--20--1-byDA-txt-txIN-%22j+p+treadwell%22-------), insolvency case.
@@ -75,13 +85,13 @@ in 1867 lived at 528 Clay st.
 
 Treadwell sued a SF business after he was in an elevator fall, and left his capacious estate in such absolute chaos that it was in probate court and appeals until at least 1904
 
-[Attempted Incendiarism](https://cdnc.ucr.edu/?a=d&d=DAC18590502.2.9&srpos=24&e=-------en--20--21-byDA-txt-txIN-%22j+p+treadwell%22-------) of a house he was renting out to someone else. 1859.
+[Attempted Incendiarism](https://cdnc.ucr.edu/?a=d&d=DAC18590502.2.9&srpos=24&e=-------en--20--21-byDA-txt-txIN-%22j+p+treadwell%22-------) of a house he was renting out to ~~someone else~~ HIS BROTHER IN LAW. 1859.
 
 [San Francisco Bulletin - July 22, 1869](https://infoweb-newsbank-com.ezproxy.sfpl.org/apps/news/openurl?ctx_ver=z39.88-2004&rft_id=info%3Asid/infoweb.newsbank.com&svc_dat=WORLDNEWS&req_dat=C4A791F4197B4BD28C27A2A6A0C93929&rft_val_format=info%3Aofi/fmt%3Akev%3Amtx%3Actx&rft_dat=document_id%3Aimage%252Fv2%253A113ACFC4DAF84818%2540EANX-NB-116E8A6BE129AB78%25402403901-116E8A6C9603E128%25403-116E8A6ECAC74318%2540Mortuary%252BNotice/hlterms%3A%2522L%2520treadwell%2522)
 > In Boston, July 10, Moses Treadwell, merchant of that city, and brother of James P. and Leonard L. Treadwell of this city, aged 60 years.
 [NB: Brother??]
 
-1871 - fighting the grading ![alt text](images/1871-04Apr-05-DailyAlta-treadwell-grading.png)
+1871 - fighting the grading ![Daily Alta California, 5 Apr 1871 - JP Treadwell protest against street grading](images/1871-04Apr-05-DailyAlta-treadwell-grading.png)
 [Daily Alta California, Volume 23, Number 7683, 5 April 1871](https://cdnc.ucr.edu/?a=d&d=DAC18710405.2.16&srpos=2&e=-------en--20--1-byDA-txt-txIN-%22j+p+treadwell%22+market+seventeenth-------)
 
 1871, Treadwell & Co bankruptcy, they have to sell their property in the Marysville diggings. Finalized May 16, 1872. Later that year they sued the Brotherton brothers for forging checks under their names. Sept 1874, Wm D Brown arrested for defrauding LL.
@@ -125,9 +135,5 @@ The above mostly derived from [The Class of 1844, Harvard College, Fifty Years' 
 >
 > - The _Imitatores Omnium Honestarum_, or I.O.H., was a student secret society founded at Harvard on September 28, 1829, for the purpose of debating and elocution. The I.O.H. maintained a library for its members. In 1848, the society merged with the Institute of 1770, an institution with a similar purpose founded in 1770. After merging, the library of the I.O.H. became part of that of the Institute of 1770.
 
-> Among  the  former  leaders  of  the  San  Francisco  bar  may  be  mentioned
-the  late  James  Parker  Treadwell,  a  native  of  Ipswich,  Mass,  who  after  grad-
-uating at  Harvard  and  practising  law  in  Boston  came  to  this  state  in  1851.
-He  was  known  as  a  man  of  great  and  varied  information,  of  strong  reason-
-ing powers,  and  as  one  who  would  never  espouse  a  cause  or  question  that  he
-believed  to  be  wrong.
+> Among  the  former  leaders  of  the  San  Francisco  bar  may  be  mentioned the  late  James  Parker  Treadwell,  a  native  of  Ipswich,  Mass,  who  after  grad uating at  Harvard  and  practising  law  in  Boston  came  to  this  state  in  1851.
+> He  was  known  as  a  man  of  great  and  varied  information,  of  strong  reasoning powers,  and  as  one  who  would  never  espouse  a  cause  or  question  that  he believed  to  be  wrong.

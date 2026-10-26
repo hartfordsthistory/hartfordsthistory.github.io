@@ -32,11 +32,16 @@ In these early days, Noé had a 50 vara lot on Portsmouth Square near the modern
 
 ## Rancho Las Camaritas
 
-Juan Alvarado granted Noé the 18.57 acres (8 ha) Rancho Las Camaritas on January 21 1840. (US Northern District land case 387). ([Ref](https://archive.org/details/jimenoshartnells00jime/page/8/mode/1up?q=noe) "Trecientas vs. en cuadro en el paraje de las camaritas de San Francisco".)
+Juan Alvarado granted Noé the 18.57 acres (8 ha) Rancho Las Camaritas/Camaritos on January 21 1840. (US Northern District land case 387). ([Ref](https://archive.org/details/jimenoshartnells00jime/page/8/mode/1up?q=noe) "Trecientas vs. en cuadro en el paraje de las camaritas de San Francisco".) [ref](https://archive.org/details/reportsoflandcas01hoff/page/86/mode/2up?q=%22jose+de+jesus+noe%22)
 
-The land is located in San Francisco's Mission District within the area bounded by 14th Street, Mission Street, 16th Street, and Shotwell Street, with its southern border parallel to and about 300 feet north of 16th Street (the property extending 825 feet south from 14th Street and the same distance east from Mission Street).  825/2.75 = 300 varas.
+The land is located in San Francisco's Mission District within the area bounded by 14th Street, Mission Street, 16th Street, and Shotwell Street, with its southern border parallel to and about 300 feet north of 16th Street (the property extending 825 feet south from 14th Street and the same distance east from Mission Street).  825/2.75 = 300 varas.  
 
-![alt text](images/las-camaritas.png)
+![Map of Rancho Las Camaritas](images/las-camaritas.png)
+[Las Camaritas Land claim map](https://digicoll.lib.berkeley.edu/record/78765?v=uv#?xywh=-935%2C-47%2C2806%2C1593)
+[Land claim proceedings](https://digicoll.lib.berkeley.edu/record/264237?ln=en&v=pdf)
+
+![Sketch of the area for Las Camaritas land claim showing Noe's house at northwest corner](images/cubanc00001099_46a_k.jpg)
+[Sketch of the area to go with the above land claim](https://digicoll.lib.berkeley.edu/record/78767). You can see Noe's shack at the northwest corner.
 
 Noé was alcalde of Yerba Buena in 1842-43.
 
@@ -51,6 +56,9 @@ Pio Pico granted Noe the 4,443 acres (1,798 ha) Rancho San Miguel in 1845 (US No
 
 In 1846, Noé was appointed alcalde by U.S. Navy Commodore Robert F. Stockton, under his authority as military governor of the occupied territory. Also appointed alcalde, and serving concurrently with Noé, was Navy Lt. Washington Allon Bartlett. As a military officer, Bartlett was a direct representative of the military governor, functionally similar to the office of prefect in the Mexican system. One of the last acts of the Noé/Bartlett year was to rename Yerba Buena to its current name, San Francisco.
 
+> at the election of September 15 [1846], [Bartlett] was elected first alcalde by sixty-six votes out of a total of ninety-six — Jose de Jesus Noe being at the same time chosen second alcalde by sixty^three votes out of the same total
+[_Hittel, Theodore Henry: History of California vol 2_](https://archive.org/details/bub_gb_tkYOAAAAIAAJ/page/596/mode/1up?q=noe)
+
 ## Selling on
 
 Noé's wife died in 1848, while the state was still in post-war turmoil, leaving him with his three sons to provide for. So he began selling off, deeding, and distributing his lands.
@@ -62,6 +70,12 @@ In 1852, with the change from absentee Mexican government to the newly-formed St
 In 1854, Noé sold a large part of Rancho San Miguel to John Meirs Horner and his brother William J. Horner, and the sales continued.
 
 May 6, 1845 Noe to Andres Hoeppner
+
+> In the spring of 1862 Noe died, leaving a will, and leaving him surviving his widow Catarina Valencia, and his sons Miguel, Josd Jesus, and Yicente Noe, and his daughter Maria Dolores Noe, his only heirs at law.
+> Noe's Homestead appears from the will to be situated on Center street, at the Mission Dolores.
+> It will be seen that Noe had parted with all his interest in the Reserve previous to his death.
+> [...]
+> August 5th, 1862, Catarina Valencia de Noe conveyed to F. L. A. Pioche and Levi Parsons the tract of land which includes the south-east portion of Block 26 and commonly known as the Noe Reserve. Recorded in Liber 171 of Deeds, page 181.
 
 He died in 1862 and passed what remained of the rancho to his children. By 1862, French financier François Louis Alfred Pioche owned most of the rancho, but lost it in a foreclosure sale in 1878. In 1880, former Mayor of San Francisco Adolph Sutro bought the northwesterly portion.[8]
 
@@ -120,3 +134,60 @@ Deeds Vol. 12 pg 346-347
 Deeds Vol. 18b pg 596
 ![Deeds Vol. 18B pg 596](images/33SQ-G5D9-9K1K.jpg)
 "California, San Francisco County Records, 1824-1997," database with images, FamilySearch (<https://familysearch.org/ark:/61903/3:1:33SQ-G5D9-9K1K?cc=1402856&wc=319N-T3X%3A20726201%2C25290701> : 20 May 2014), Land and Property Records > Deeds, Vol. 0018B, 1852 > image 198 of 238; San Francisco Public Library, California.
+
+---
+
+[History of the Title of the San Francisco Homestead Union](https://archive.org/details/historyoftitleof00boydrich/page/n1/mode/2up?q=%22jose+de+jesus+noe%22) (1864)
+
+> Jose Noe made a deed in 1853 to Gardner S. Hall & Co.,
+> [...]
+> Subsequently, and in 1858, Noe made another deed to confirm the one before mentioned, In which the property is described as follows: "Said lot fronts on the San Jose Road 100 varas, and is 100 varas deep. It is bounded on the south by a lot known as Van Winkle's lot, the southeast comer of the lot is about 720 feet from the stream called the Precita, measuring along the road, and is the same lot now occupied by Gardner S. Hall and the Murrays"
+> [...]
+> In 1863[sic] one Homer, who also had a deed from Noe of later date than Hall's, filed in the County Recorder's office a map of "Horner's Addition"
+> [...]
+> But if the first Noe deed above mentioned had already conveyed this property to Gardner S. Hall, then it would seem that Horner did not own the land at that time
+[ref](https://archive.org/details/officialopinion00lanegoog/page/70/mode/1up?ref=ol&q=%22horner%27s+addition%22)
+
+Running list:
+
+Dec 1845: Pio Pico -> Noe,
+   30 March 1857 - Noe claim confirmed
+
+1853 - Noe -> Gardner S Hall & Co
+2 Aug 1853 - Noe to Charles B Strode agreement for $90k (minus SE part of Block 26)[nb presumably Noe's own house?]   [nb2: yes, [looks like his house](https://archive.org/details/historyoftitleof00boydrich/page/n19/mode/2up?q=%22jose+de+jesus+noe%22)]  (Liber 2 Covenants 105)
+3 August 1853 - Strode to John M Horner for $200k  (Liber 2 Covenants 154)
+Jan 1854 - Noe -> J M Horner bill of sale, receipt of money. (Lib 32 of deeds 109, & vol 33 616)
+Jan 1854 - JM Horner -> J.G. Maxwell B65,L41-44, vol 33 Deeds p 531
+Feb 1854 - JM Horner -> William Y Horner 51 Deeds p 42
+
+[Foreclosure](https://archive.org/details/historyoftitleof00boydrich/page/n13/mode/2up?q=%22jose+de+jesus+noe%22):
+> In April, 1855, S. Moss, Jr., commenced an action in the Fourth District Court against John M. Horner, William T. Horner, Jose de Jesus Noe, Joseph C. Palmer, Edward Jones, and others, to foreclose the mortgage to O.K. Garrison, and such proceedings were had therein that afterwards and on the fifth day of November, 1856, the Sheriff of the County of San Francisco, in pursuance of a sale previously made by him under the decree, entered in said action, conveyed said rancho (excepting the blocks and tracts of land which had been released from the mortgage) to Theodore F. Moss. Recorded in Lib. 62 of Deeds, page 580.
+
+[25?] Apr 1855 - JMH convey -> Theo F Moss
+    5 Nov 1856 - Sheriff confirmed transfer
+
+Sept 1855 - William Y Horner -> Charles W Cook, part of rancho w/exceptions (55 deeds 320)
+17 November 1855 - JM & William Y Horner ->  Charles W Cook all (remaining) interest of (the whole rancho?)  53 deeds 642
+22 Dec 1855 - Cook (atty John Cook Jr) conveyed -> Thos Beaver & Benj Farnham the WYH part 61 d 309
+17 June 1856 - Cook confirmed sale -> Beaver & Farnham
+10 Dec 1862 - B&F sued to eject Gardner S Hall & Murrays
+12 Feb 1862 - Hall & Thompson conveyed -> Wm S Fitch 156 deeds 223
+20 April 1863 - B&F convey -> Geo. W Beaver 210 deeds 212
+28 Aug 1863 - Geo W Beaver convey -> J B Bayerque & Levi Parsons all interest in rancho 224 Deeds 213
+21 Dec 1863 - Charles W Cook convey -> FLA Pioche and Levi Parsons, all interest in rancho 224 Deeds 213
+4 Nov 1862 [sic? 1863?] - WY Horner convey -> Henry Pichoir all interest in rancho186 deeds 356
+11 Feb 1863- Henry Pichoir convey -> JB Bayerque 228 d 385
+
+> October 31st, 1863, Daniel S. Roberts conveyed all his interest in the Rancho San Miguel as patented to Jose de Jesus Noe by the United States, except certain blocks (stated therein to have been conveyed by deed of even date to Bayerque and Parsons), to F. L. A. Pioche and Levi Parsons. The interest conveyed is described as being that acquired by him under and by virtue of certain tax deeds and certificates under sale thereof for City and County taxes. Recorded in Liber 219 of Deeds, page 213.
+
+---
+![Berkeley Gazette, 13 Aug 1895 - suit for San Miguel Rancho](images/1895-08Aug-13-BerkeleyGazette-san-miguel-ranch-suit.png)
+> A suit is about to be commenced at San Francisco for the San Miguel Ranch. An irregularity in making a deed by Jose de Jesus Noe to W. J.[sic] Horner is the basis of the suit. It has all the appearances of a blackmail business.
+[Berkeley Gazette 13 Aug 1895](https://archive.org/details/berkeley-gazette-1895-08-13/mode/2up?q=%22jose+de+jesus+noe%22)
+
+---
+3 Nov 1854- Noe testifies in the case of Padre Santillan. [https://archive.org/details/per_scotus_1855_164/page/48/mode/2up?q=%22jose+de+jesus+noe%22](https://archive.org/details/per_scotus_1855_164/page/48/mode/2up?q=%22jose+de+jesus+noe%22)
+
+Transcript of Noe's application to Pio Pico for the land grant for Rancho San Miguel. <https://archive.org/details/per_scotus_1855_164/page/230/mode/2up?q=%22jose+de+jesus+noe%22>
+
+<https://digicoll.lib.berkeley.edu/record/264399?v=pdf>
