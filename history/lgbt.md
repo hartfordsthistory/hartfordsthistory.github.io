@@ -13,6 +13,6 @@ city giving "free" loans to people who'd fix them up.
 
 harvey milk
 aids crisis
-[zen center](/buildings/blocks/north/57-zen-center/)
+[zen center](/buildings/north/57-zen-center/)
 film festivals
 pride parades
